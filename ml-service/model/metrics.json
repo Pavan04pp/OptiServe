@@ -1,0 +1,15 @@
+{
+  "selected_model": "linear_regression",
+  "results": {
+    "linear_regression": {
+      "mae": 5.118,
+      "rmse": 7.108,
+      "r2": 0.9469
+    },
+    "random_forest": {
+      "mae": 5.294,
+      "rmse": 7.146,
+      "r2": 0.9463
+    }
+  }
+}

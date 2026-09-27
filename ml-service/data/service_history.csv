@@ -1,0 +1,4001 @@
+serviceType,vehicleMake,vehicleModel,vehicleYear,dayOfWeek,durationMinutes
+General Inspection,Hyundai,Venue,2015,TUESDAY,46
+Engine Service,Maruti Suzuki,Brezza,2009,MONDAY,109
+General Inspection,Honda,City,2024,FRIDAY,46
+Engine Service,Kia,Seltos,2022,FRIDAY,100
+Wheel Alignment,Hyundai,Creta,2021,WEDNESDAY,52
+Brake Service,Maruti Suzuki,Swift,2020,MONDAY,68
+Brake Service,Mahindra,Bolero,2016,SUNDAY,80
+General Inspection,Kia,Seltos,2025,WEDNESDAY,42
+Transmission Service,Mahindra,Bolero,2014,SATURDAY,174
+Wheel Alignment,Maruti Suzuki,Baleno,2011,THURSDAY,62
+Wheel Alignment,Ford,Figo,2013,WEDNESDAY,53
+General Inspection,Tata,Altroz,2013,THURSDAY,51
+AC Repair,Toyota,Fortuner,2025,TUESDAY,65
+Oil Change,Honda,City,2018,THURSDAY,28
+Wheel Alignment,Maruti Suzuki,Baleno,2026,SATURDAY,55
+AC Repair,Ford,EcoSport,2016,TUESDAY,88
+Tire Replacement,Toyota,Fortuner,2026,THURSDAY,49
+Tire Replacement,Tata,Punch,2010,SUNDAY,56
+Oil Change,Maruti Suzuki,Baleno,2013,SUNDAY,36
+AC Repair,Kia,Sonet,2024,WEDNESDAY,63
+Engine Service,Hyundai,i20,2025,SUNDAY,99
+General Inspection,Toyota,Glanza,2013,THURSDAY,52
+Oil Change,Toyota,Fortuner,2013,FRIDAY,42
+Wheel Alignment,Honda,City,2019,SUNDAY,54
+Battery Replacement,Hyundai,Venue,2023,MONDAY,39
+Wheel Alignment,Honda,City,2015,FRIDAY,62
+General Inspection,Maruti Suzuki,Brezza,2010,SUNDAY,50
+Diagnostics,Tata,Harrier,2024,SUNDAY,61
+Transmission Service,Kia,Seltos,2025,SUNDAY,133
+Wheel Alignment,Kia,Sonet,2022,FRIDAY,52
+Diagnostics,Maruti Suzuki,Baleno,2015,MONDAY,58
+Tire Replacement,Honda,City,2010,SATURDAY,66
+Oil Change,Honda,City,2009,SUNDAY,37
+Wheel Alignment,Ford,EcoSport,2025,TUESDAY,56
+Transmission Service,Ford,EcoSport,2023,SUNDAY,132
+AC Repair,Mahindra,Scorpio,2021,THURSDAY,76
+Oil Change,Maruti Suzuki,Swift,2020,SATURDAY,34
+Tire Replacement,Honda,City,2025,THURSDAY,53
+Battery Replacement,Kia,Seltos,2016,THURSDAY,39
+Diagnostics,Maruti Suzuki,Swift,2025,SUNDAY,74
+Oil Change,Maruti Suzuki,Baleno,2013,THURSDAY,33
+AC Repair,Hyundai,Creta,2020,MONDAY,75
+AC Repair,Toyota,Glanza,2017,THURSDAY,74
+Engine Service,Ford,EcoSport,2014,WEDNESDAY,89
+Tire Replacement,Hyundai,i20,2018,MONDAY,54
+Engine Service,Tata,Nexon,2024,MONDAY,95
+Battery Replacement,Maruti Suzuki,Swift,2015,THURSDAY,45
+Tire Replacement,Hyundai,i20,2021,SATURDAY,61
+Transmission Service,Mahindra,Scorpio,2014,SATURDAY,156
+AC Repair,Tata,Harrier,2022,WEDNESDAY,68
+General Inspection,Hyundai,Verna,2026,MONDAY,42
+Wheel Alignment,Tata,Harrier,2010,TUESDAY,61
+Brake Service,Toyota,Innova,2022,SUNDAY,64
+Engine Service,Hyundai,Venue,2011,TUESDAY,104
+Wheel Alignment,Maruti Suzuki,Swift,2025,TUESDAY,50
+Brake Service,Honda,Elevate,2016,FRIDAY,79
+Diagnostics,Toyota,Innova,2010,SATURDAY,71
+Oil Change,Mahindra,XUV700,2016,TUESDAY,35
+Diagnostics,Kia,Seltos,2011,MONDAY,73
+Battery Replacement,Hyundai,Venue,2026,FRIDAY,35
+Battery Replacement,Kia,Seltos,2009,WEDNESDAY,36
+Oil Change,Mahindra,XUV700,2015,SATURDAY,44
+General Inspection,Mahindra,Bolero,2021,FRIDAY,44
+Tire Replacement,Tata,Altroz,2021,MONDAY,37
+Battery Replacement,Mahindra,Scorpio,2015,WEDNESDAY,43
+AC Repair,Hyundai,Verna,2015,TUESDAY,88
+Diagnostics,Mahindra,Scorpio,2015,TUESDAY,66
+Brake Service,Toyota,Innova,2016,WEDNESDAY,68
+Engine Service,Kia,Sonet,2008,MONDAY,111
+Transmission Service,Toyota,Innova,2011,FRIDAY,142
+AC Repair,Mahindra,Bolero,2018,THURSDAY,70
+AC Repair,Honda,Amaze,2009,SATURDAY,90
+AC Repair,Hyundai,Creta,2019,THURSDAY,85
+Brake Service,Mahindra,Bolero,2011,SATURDAY,85
+Wheel Alignment,Toyota,Fortuner,2021,WEDNESDAY,50
+Battery Replacement,Honda,Amaze,2020,SATURDAY,45
+Battery Replacement,Toyota,Glanza,2025,SUNDAY,42
+AC Repair,Mahindra,Scorpio,2022,THURSDAY,73
+Tire Replacement,Ford,EcoSport,2010,WEDNESDAY,47
+Brake Service,Maruti Suzuki,Baleno,2017,TUESDAY,66
+Tire Replacement,Tata,Nexon,2009,TUESDAY,59
+General Inspection,Ford,Figo,2026,TUESDAY,39
+AC Repair,Ford,Figo,2015,TUESDAY,79
+General Inspection,Kia,Seltos,2013,SUNDAY,51
+Engine Service,Ford,EcoSport,2025,TUESDAY,95
+Battery Replacement,Ford,Figo,2022,FRIDAY,38
+Engine Service,Kia,Sonet,2013,SATURDAY,126
+Tire Replacement,Toyota,Fortuner,2023,SATURDAY,50
+Tire Replacement,Toyota,Glanza,2010,SATURDAY,60
+Brake Service,Maruti Suzuki,Baleno,2012,TUESDAY,75
+AC Repair,Tata,Altroz,2010,THURSDAY,75
+AC Repair,Hyundai,Creta,2021,THURSDAY,79
+Transmission Service,Hyundai,Verna,2023,MONDAY,134
+AC Repair,Kia,Seltos,2023,TUESDAY,70
+Wheel Alignment,Kia,Sonet,2008,THURSDAY,55
+AC Repair,Tata,Punch,2012,FRIDAY,95
+Engine Service,Hyundai,Verna,2026,FRIDAY,93
+AC Repair,Tata,Punch,2013,MONDAY,78
+Wheel Alignment,Kia,Sonet,2014,THURSDAY,53
+AC Repair,Toyota,Glanza,2016,SUNDAY,97
+General Inspection,Ford,EcoSport,2025,MONDAY,44
+General Inspection,Hyundai,i20,2015,TUESDAY,45
+Oil Change,Tata,Altroz,2012,THURSDAY,33
+Tire Replacement,Ford,Figo,2019,TUESDAY,44
+Transmission Service,Maruti Suzuki,Baleno,2017,MONDAY,109
+Transmission Service,Kia,Sonet,2014,MONDAY,124
+Transmission Service,Honda,City,2017,SUNDAY,138
+Transmission Service,Hyundai,Venue,2025,THURSDAY,102
+Brake Service,Maruti Suzuki,Ertiga,2008,SUNDAY,72
+AC Repair,Mahindra,Bolero,2022,SATURDAY,88
+Battery Replacement,Kia,Seltos,2024,SATURDAY,40
+Engine Service,Ford,Figo,2021,SUNDAY,121
+Transmission Service,Toyota,Glanza,2015,SUNDAY,158
+Diagnostics,Honda,Amaze,2026,FRIDAY,56
+AC Repair,Mahindra,XUV700,2023,SUNDAY,76
+Brake Service,Toyota,Glanza,2016,FRIDAY,77
+Wheel Alignment,Hyundai,Creta,2010,TUESDAY,58
+Tire Replacement,Ford,Figo,2022,SUNDAY,47
+Oil Change,Maruti Suzuki,Ertiga,2015,THURSDAY,33
+Transmission Service,Mahindra,Scorpio,2025,FRIDAY,118
+Brake Service,Kia,Sonet,2019,SATURDAY,70
+Tire Replacement,Maruti Suzuki,Baleno,2018,MONDAY,50
+Engine Service,Tata,Altroz,2014,SATURDAY,104
+Engine Service,Toyota,Innova,2014,WEDNESDAY,104
+Tire Replacement,Mahindra,XUV700,2017,MONDAY,49
+Oil Change,Hyundai,Venue,2012,SATURDAY,39
+Diagnostics,Maruti Suzuki,Swift,2026,WEDNESDAY,49
+Battery Replacement,Hyundai,Venue,2023,MONDAY,37
+General Inspection,Kia,Sonet,2010,FRIDAY,49
+Battery Replacement,Toyota,Innova,2015,MONDAY,39
+Engine Service,Kia,Seltos,2024,THURSDAY,83
+Transmission Service,Kia,Sonet,2026,FRIDAY,130
+Oil Change,Maruti Suzuki,Baleno,2014,WEDNESDAY,33
+Battery Replacement,Maruti Suzuki,Baleno,2008,THURSDAY,40
+Diagnostics,Ford,Figo,2009,TUESDAY,64
+Diagnostics,Maruti Suzuki,Baleno,2016,SUNDAY,72
+Transmission Service,Honda,Amaze,2011,FRIDAY,150
+Wheel Alignment,Tata,Nexon,2009,TUESDAY,62
+Wheel Alignment,Toyota,Glanza,2011,THURSDAY,56
+Wheel Alignment,Ford,Figo,2010,FRIDAY,55
+Oil Change,Kia,Sonet,2016,MONDAY,40
+Transmission Service,Hyundai,Venue,2026,MONDAY,137
+Battery Replacement,Ford,Figo,2016,TUESDAY,43
+Diagnostics,Maruti Suzuki,Brezza,2019,THURSDAY,60
+Brake Service,Mahindra,Bolero,2011,SUNDAY,81
+Diagnostics,Toyota,Fortuner,2020,SUNDAY,70
+Engine Service,Hyundai,Verna,2010,WEDNESDAY,106
+AC Repair,Hyundai,Verna,2021,MONDAY,78
+Tire Replacement,Mahindra,Bolero,2023,SATURDAY,52
+Wheel Alignment,Tata,Harrier,2022,SATURDAY,61
+Diagnostics,Maruti Suzuki,Swift,2015,SATURDAY,75
+Engine Service,Kia,Seltos,2015,SUNDAY,122
+General Inspection,Ford,EcoSport,2012,THURSDAY,50
+Wheel Alignment,Kia,Sonet,2023,TUESDAY,50
+Diagnostics,Tata,Punch,2014,FRIDAY,55
+General Inspection,Toyota,Glanza,2018,SUNDAY,48
+Engine Service,Toyota,Innova,2017,SATURDAY,111
+Diagnostics,Tata,Punch,2025,THURSDAY,63
+Brake Service,Mahindra,Bolero,2025,THURSDAY,56
+Tire Replacement,Honda,Elevate,2020,TUESDAY,49
+AC Repair,Hyundai,Venue,2023,SATURDAY,89
+Battery Replacement,Ford,EcoSport,2012,FRIDAY,41
+Transmission Service,Mahindra,XUV700,2022,MONDAY,113
+Battery Replacement,Kia,Seltos,2010,THURSDAY,41
+Wheel Alignment,Mahindra,Bolero,2020,SATURDAY,66
+Engine Service,Kia,Sonet,2023,SUNDAY,106
+Engine Service,Hyundai,i20,2015,SATURDAY,114
+Tire Replacement,Maruti Suzuki,Brezza,2011,SUNDAY,55
+General Inspection,Ford,EcoSport,2017,MONDAY,51
+Wheel Alignment,Mahindra,Scorpio,2021,TUESDAY,56
+Tire Replacement,Kia,Seltos,2013,TUESDAY,60
+Transmission Service,Honda,Amaze,2026,TUESDAY,132
+Tire Replacement,Ford,Figo,2022,WEDNESDAY,42
+Diagnostics,Toyota,Fortuner,2025,TUESDAY,45
+General Inspection,Ford,Figo,2026,WEDNESDAY,37
+Wheel Alignment,Ford,Figo,2014,THURSDAY,53
+Diagnostics,Maruti Suzuki,Baleno,2020,FRIDAY,59
+Wheel Alignment,Hyundai,Verna,2016,MONDAY,59
+Transmission Service,Hyundai,Verna,2017,SUNDAY,151
+Brake Service,Honda,Elevate,2014,FRIDAY,64
+Wheel Alignment,Tata,Nexon,2009,WEDNESDAY,59
+Brake Service,Tata,Nexon,2017,WEDNESDAY,65
+AC Repair,Tata,Altroz,2012,SUNDAY,72
+Engine Service,Toyota,Innova,2016,SUNDAY,105
+Diagnostics,Toyota,Fortuner,2018,SUNDAY,77
+Battery Replacement,Honda,Elevate,2020,SUNDAY,47
+Engine Service,Mahindra,XUV700,2020,MONDAY,96
+Brake Service,Toyota,Fortuner,2020,SUNDAY,74
+Brake Service,Maruti Suzuki,Baleno,2023,MONDAY,52
+Brake Service,Honda,Elevate,2010,SATURDAY,72
+Diagnostics,Toyota,Fortuner,2021,MONDAY,67
+Wheel Alignment,Ford,EcoSport,2011,TUESDAY,68
+Engine Service,Tata,Punch,2022,WEDNESDAY,87
+Engine Service,Kia,Seltos,2021,SATURDAY,97
+General Inspection,Ford,Figo,2016,MONDAY,44
+Diagnostics,Honda,Amaze,2011,SATURDAY,71
+Brake Service,Mahindra,XUV700,2020,WEDNESDAY,65
+Diagnostics,Maruti Suzuki,Baleno,2008,MONDAY,68
+Brake Service,Honda,City,2026,TUESDAY,69
+Tire Replacement,Honda,City,2018,SUNDAY,57
+Battery Replacement,Hyundai,Venue,2012,TUESDAY,35
+General Inspection,Hyundai,Creta,2008,WEDNESDAY,45
+Tire Replacement,Mahindra,XUV700,2013,WEDNESDAY,59
+Engine Service,Maruti Suzuki,Swift,2023,THURSDAY,98
+Brake Service,Maruti Suzuki,Brezza,2024,TUESDAY,63
+Engine Service,Toyota,Glanza,2008,MONDAY,105
+Diagnostics,Kia,Sonet,2011,THURSDAY,64
+General Inspection,Mahindra,Bolero,2012,MONDAY,43
+Battery Replacement,Toyota,Fortuner,2026,FRIDAY,36
+Transmission Service,Toyota,Glanza,2024,FRIDAY,118
+AC Repair,Maruti Suzuki,Swift,2025,SATURDAY,86
+Tire Replacement,Kia,Sonet,2022,THURSDAY,44
+AC Repair,Maruti Suzuki,Ertiga,2021,WEDNESDAY,71
+Battery Replacement,Ford,EcoSport,2010,SUNDAY,43
+General Inspection,Maruti Suzuki,Brezza,2011,SATURDAY,54
+Engine Service,Hyundai,Venue,2011,THURSDAY,90
+Brake Service,Kia,Seltos,2017,FRIDAY,69
+Engine Service,Honda,City,2023,TUESDAY,97
+General Inspection,Mahindra,Bolero,2019,MONDAY,44
+AC Repair,Hyundai,Venue,2008,TUESDAY,73
+Wheel Alignment,Toyota,Glanza,2019,MONDAY,55
+AC Repair,Maruti Suzuki,Baleno,2008,MONDAY,86
+Engine Service,Honda,Amaze,2021,THURSDAY,91
+Brake Service,Maruti Suzuki,Swift,2012,TUESDAY,75
+Transmission Service,Hyundai,i20,2016,THURSDAY,127
+Diagnostics,Kia,Sonet,2014,SUNDAY,64
+Engine Service,Maruti Suzuki,Ertiga,2021,MONDAY,93
+Diagnostics,Toyota,Innova,2015,THURSDAY,70
+Transmission Service,Hyundai,i20,2014,WEDNESDAY,157
+Wheel Alignment,Toyota,Glanza,2011,MONDAY,56
+Diagnostics,Kia,Seltos,2012,THURSDAY,60
+Engine Service,Mahindra,XUV700,2020,SUNDAY,105
+Oil Change,Kia,Seltos,2022,MONDAY,34
+Transmission Service,Kia,Sonet,2017,MONDAY,121
+AC Repair,Hyundai,Venue,2013,SUNDAY,96
+Brake Service,Maruti Suzuki,Brezza,2011,TUESDAY,69
+AC Repair,Kia,Seltos,2020,SUNDAY,80
+Brake Service,Tata,Nexon,2024,SATURDAY,76
+General Inspection,Honda,Amaze,2019,SATURDAY,55
+Battery Replacement,Honda,City,2012,WEDNESDAY,40
+Tire Replacement,Tata,Altroz,2010,TUESDAY,59
+Diagnostics,Ford,Figo,2018,TUESDAY,58
+Diagnostics,Maruti Suzuki,Brezza,2022,SATURDAY,65
+Oil Change,Mahindra,Bolero,2010,WEDNESDAY,38
+Diagnostics,Ford,EcoSport,2009,WEDNESDAY,66
+General Inspection,Kia,Sonet,2026,FRIDAY,41
+Oil Change,Ford,EcoSport,2018,FRIDAY,33
+Oil Change,Ford,EcoSport,2018,SATURDAY,38
+General Inspection,Tata,Nexon,2015,SATURDAY,48
+Engine Service,Tata,Harrier,2019,WEDNESDAY,101
+AC Repair,Kia,Sonet,2009,SUNDAY,87
+Brake Service,Maruti Suzuki,Brezza,2017,WEDNESDAY,63
+Transmission Service,Tata,Harrier,2010,FRIDAY,135
+Wheel Alignment,Kia,Seltos,2010,WEDNESDAY,49
+Engine Service,Kia,Sonet,2012,SATURDAY,115
+Engine Service,Maruti Suzuki,Brezza,2024,WEDNESDAY,71
+Oil Change,Mahindra,Scorpio,2013,TUESDAY,32
+Tire Replacement,Honda,City,2012,MONDAY,59
+Wheel Alignment,Maruti Suzuki,Swift,2018,SUNDAY,55
+Battery Replacement,Tata,Altroz,2013,SATURDAY,43
+Diagnostics,Hyundai,Verna,2019,SATURDAY,66
+Transmission Service,Toyota,Fortuner,2022,TUESDAY,95
+Engine Service,Honda,Amaze,2023,SUNDAY,107
+Transmission Service,Ford,Figo,2017,SUNDAY,163
+AC Repair,Kia,Seltos,2014,SUNDAY,77
+Oil Change,Ford,Figo,2025,MONDAY,27
+Engine Service,Maruti Suzuki,Ertiga,2010,SUNDAY,122
+Engine Service,Tata,Punch,2010,TUESDAY,115
+Diagnostics,Mahindra,XUV700,2021,MONDAY,54
+AC Repair,Maruti Suzuki,Ertiga,2015,MONDAY,83
+Brake Service,Maruti Suzuki,Ertiga,2012,TUESDAY,83
+Diagnostics,Tata,Punch,2022,FRIDAY,63
+Oil Change,Maruti Suzuki,Swift,2016,TUESDAY,36
+Transmission Service,Kia,Seltos,2017,TUESDAY,120
+Wheel Alignment,Maruti Suzuki,Swift,2015,THURSDAY,52
+General Inspection,Maruti Suzuki,Brezza,2025,MONDAY,36
+Engine Service,Honda,Elevate,2012,WEDNESDAY,94
+Tire Replacement,Kia,Seltos,2010,FRIDAY,58
+Brake Service,Maruti Suzuki,Swift,2020,SUNDAY,62
+Brake Service,Toyota,Fortuner,2008,WEDNESDAY,72
+General Inspection,Mahindra,XUV700,2011,SUNDAY,46
+Battery Replacement,Hyundai,Venue,2025,WEDNESDAY,33
+Battery Replacement,Ford,Figo,2013,SUNDAY,48
+Diagnostics,Hyundai,Venue,2014,MONDAY,69
+Tire Replacement,Hyundai,Venue,2017,FRIDAY,46
+Diagnostics,Toyota,Innova,2014,WEDNESDAY,69
+Brake Service,Hyundai,Venue,2016,MONDAY,69
+AC Repair,Ford,Figo,2018,TUESDAY,70
+Diagnostics,Ford,Figo,2024,WEDNESDAY,59
+General Inspection,Kia,Seltos,2025,WEDNESDAY,34
+Brake Service,Maruti Suzuki,Swift,2018,SATURDAY,74
+AC Repair,Tata,Punch,2019,THURSDAY,83
+Oil Change,Mahindra,Bolero,2021,WEDNESDAY,28
+Oil Change,Maruti Suzuki,Brezza,2019,FRIDAY,30
+Battery Replacement,Hyundai,Creta,2022,MONDAY,38
+Brake Service,Mahindra,Scorpio,2026,MONDAY,63
+Transmission Service,Tata,Punch,2019,WEDNESDAY,126
+Battery Replacement,Mahindra,Scorpio,2018,SATURDAY,45
+Wheel Alignment,Honda,City,2008,SATURDAY,70
+Engine Service,Maruti Suzuki,Ertiga,2016,SATURDAY,126
+Diagnostics,Honda,Elevate,2017,SATURDAY,76
+General Inspection,Tata,Nexon,2022,TUESDAY,40
+Diagnostics,Maruti Suzuki,Ertiga,2019,SATURDAY,75
+Wheel Alignment,Tata,Altroz,2019,FRIDAY,59
+Tire Replacement,Maruti Suzuki,Baleno,2012,TUESDAY,53
+Engine Service,Mahindra,Scorpio,2025,TUESDAY,89
+Transmission Service,Maruti Suzuki,Swift,2017,THURSDAY,152
+Engine Service,Kia,Sonet,2026,MONDAY,90
+Battery Replacement,Mahindra,Bolero,2010,THURSDAY,37
+Battery Replacement,Tata,Altroz,2021,FRIDAY,40
+Oil Change,Maruti Suzuki,Baleno,2017,TUESDAY,37
+Tire Replacement,Mahindra,Bolero,2017,SUNDAY,64
+General Inspection,Toyota,Innova,2025,WEDNESDAY,43
+Engine Service,Maruti Suzuki,Baleno,2026,FRIDAY,100
+Battery Replacement,Tata,Harrier,2026,MONDAY,35
+Oil Change,Toyota,Fortuner,2014,SUNDAY,37
+Transmission Service,Kia,Seltos,2023,SATURDAY,126
+Wheel Alignment,Ford,EcoSport,2020,WEDNESDAY,52
+Diagnostics,Maruti Suzuki,Swift,2013,THURSDAY,58
+Brake Service,Tata,Harrier,2018,SATURDAY,79
+Brake Service,Kia,Seltos,2019,FRIDAY,63
+Diagnostics,Maruti Suzuki,Ertiga,2022,TUESDAY,56
+Battery Replacement,Maruti Suzuki,Swift,2017,THURSDAY,41
+Battery Replacement,Mahindra,Bolero,2018,TUESDAY,36
+Battery Replacement,Ford,Figo,2023,WEDNESDAY,35
+AC Repair,Ford,EcoSport,2014,FRIDAY,84
+Brake Service,Hyundai,i20,2017,THURSDAY,57
+Diagnostics,Toyota,Fortuner,2008,SUNDAY,65
+General Inspection,Kia,Seltos,2016,SATURDAY,49
+Oil Change,Kia,Seltos,2026,FRIDAY,34
+Tire Replacement,Mahindra,Bolero,2017,MONDAY,46
+Engine Service,Toyota,Fortuner,2011,TUESDAY,113
+General Inspection,Kia,Sonet,2018,FRIDAY,52
+Tire Replacement,Kia,Seltos,2009,MONDAY,50
+Battery Replacement,Mahindra,Scorpio,2024,THURSDAY,40
+Battery Replacement,Mahindra,Bolero,2018,TUESDAY,44
+AC Repair,Toyota,Fortuner,2018,FRIDAY,85
+Transmission Service,Toyota,Glanza,2008,WEDNESDAY,129
+Brake Service,Maruti Suzuki,Brezza,2026,WEDNESDAY,63
+Oil Change,Ford,Figo,2026,FRIDAY,27
+Tire Replacement,Hyundai,Verna,2013,FRIDAY,50
+AC Repair,Tata,Altroz,2009,FRIDAY,80
+General Inspection,Honda,City,2022,WEDNESDAY,38
+Tire Replacement,Kia,Sonet,2009,SATURDAY,63
+Battery Replacement,Honda,Elevate,2018,SATURDAY,41
+Battery Replacement,Ford,Figo,2025,WEDNESDAY,36
+Wheel Alignment,Ford,EcoSport,2015,WEDNESDAY,53
+Wheel Alignment,Toyota,Fortuner,2014,SATURDAY,65
+Diagnostics,Mahindra,Scorpio,2019,FRIDAY,72
+Wheel Alignment,Toyota,Innova,2026,SATURDAY,54
+Engine Service,Kia,Sonet,2019,SUNDAY,110
+Wheel Alignment,Maruti Suzuki,Ertiga,2022,SATURDAY,56
+Wheel Alignment,Ford,EcoSport,2014,SUNDAY,52
+Wheel Alignment,Tata,Nexon,2026,TUESDAY,47
+Tire Replacement,Hyundai,Creta,2015,MONDAY,54
+Diagnostics,Maruti Suzuki,Baleno,2008,FRIDAY,71
+Battery Replacement,Kia,Sonet,2023,SATURDAY,45
+Brake Service,Toyota,Fortuner,2009,SUNDAY,93
+General Inspection,Honda,Elevate,2009,TUESDAY,41
+Oil Change,Kia,Sonet,2013,SATURDAY,43
+Wheel Alignment,Hyundai,i20,2017,FRIDAY,49
+Brake Service,Toyota,Glanza,2025,FRIDAY,55
+Diagnostics,Tata,Punch,2016,TUESDAY,63
+Diagnostics,Toyota,Fortuner,2013,MONDAY,59
+Brake Service,Toyota,Fortuner,2014,TUESDAY,62
+AC Repair,Kia,Sonet,2010,THURSDAY,76
+General Inspection,Tata,Altroz,2023,WEDNESDAY,42
+AC Repair,Honda,Amaze,2016,WEDNESDAY,78
+Wheel Alignment,Hyundai,Venue,2019,SATURDAY,63
+Diagnostics,Toyota,Innova,2020,SATURDAY,76
+Engine Service,Toyota,Fortuner,2011,SATURDAY,129
+Transmission Service,Honda,City,2012,THURSDAY,135
+Battery Replacement,Ford,Figo,2021,SATURDAY,39
+Engine Service,Honda,City,2010,FRIDAY,108
+Diagnostics,Mahindra,XUV700,2026,MONDAY,61
+Engine Service,Honda,Elevate,2025,TUESDAY,95
+Battery Replacement,Mahindra,Bolero,2022,MONDAY,34
+Diagnostics,Maruti Suzuki,Brezza,2009,THURSDAY,57
+Battery Replacement,Kia,Sonet,2026,MONDAY,30
+Wheel Alignment,Hyundai,Verna,2016,SUNDAY,59
+Oil Change,Honda,Elevate,2010,MONDAY,31
+Engine Service,Hyundai,i20,2023,MONDAY,100
+Wheel Alignment,Kia,Seltos,2012,SUNDAY,59
+AC Repair,Mahindra,Scorpio,2022,SUNDAY,72
+AC Repair,Kia,Seltos,2025,TUESDAY,67
+Battery Replacement,Kia,Seltos,2015,SUNDAY,41
+Oil Change,Hyundai,Venue,2022,SATURDAY,36
+AC Repair,Honda,City,2022,WEDNESDAY,66
+Battery Replacement,Toyota,Innova,2011,MONDAY,43
+Oil Change,Honda,City,2010,MONDAY,32
+Transmission Service,Hyundai,Verna,2009,TUESDAY,141
+Tire Replacement,Honda,City,2012,FRIDAY,51
+Wheel Alignment,Honda,Elevate,2026,WEDNESDAY,42
+Brake Service,Honda,Amaze,2012,SATURDAY,76
+Engine Service,Honda,Amaze,2017,WEDNESDAY,120
+Battery Replacement,Kia,Sonet,2009,WEDNESDAY,44
+AC Repair,Mahindra,Bolero,2021,THURSDAY,78
+Engine Service,Ford,EcoSport,2015,WEDNESDAY,109
+Battery Replacement,Ford,EcoSport,2025,THURSDAY,40
+Battery Replacement,Kia,Seltos,2016,TUESDAY,38
+Brake Service,Maruti Suzuki,Brezza,2019,MONDAY,54
+Oil Change,Toyota,Glanza,2009,SUNDAY,38
+General Inspection,Honda,Elevate,2025,TUESDAY,32
+Brake Service,Toyota,Innova,2014,TUESDAY,70
+General Inspection,Ford,EcoSport,2014,THURSDAY,50
+Wheel Alignment,Kia,Sonet,2025,SATURDAY,55
+Brake Service,Toyota,Glanza,2019,FRIDAY,73
+Diagnostics,Mahindra,XUV700,2019,WEDNESDAY,55
+AC Repair,Hyundai,Creta,2012,MONDAY,81
+Transmission Service,Kia,Sonet,2012,TUESDAY,168
+Brake Service,Honda,Amaze,2026,SUNDAY,66
+Brake Service,Toyota,Glanza,2023,THURSDAY,70
+Battery Replacement,Mahindra,XUV700,2012,SATURDAY,45
+Engine Service,Hyundai,i20,2010,SUNDAY,115
+Oil Change,Hyundai,Verna,2012,SUNDAY,38
+Battery Replacement,Hyundai,Creta,2024,THURSDAY,35
+Brake Service,Hyundai,Verna,2023,MONDAY,70
+Oil Change,Hyundai,Venue,2025,WEDNESDAY,31
+Oil Change,Kia,Seltos,2011,MONDAY,33
+Transmission Service,Toyota,Glanza,2016,SUNDAY,146
+AC Repair,Maruti Suzuki,Ertiga,2020,THURSDAY,55
+Tire Replacement,Toyota,Fortuner,2010,SATURDAY,56
+Oil Change,Maruti Suzuki,Brezza,2020,THURSDAY,31
+Oil Change,Tata,Nexon,2023,SUNDAY,34
+AC Repair,Mahindra,Bolero,2011,FRIDAY,91
+Transmission Service,Ford,Figo,2009,MONDAY,137
+Wheel Alignment,Hyundai,Creta,2018,MONDAY,61
+AC Repair,Maruti Suzuki,Ertiga,2013,FRIDAY,83
+Tire Replacement,Kia,Sonet,2020,SUNDAY,53
+General Inspection,Mahindra,XUV700,2011,THURSDAY,40
+Tire Replacement,Maruti Suzuki,Ertiga,2020,SUNDAY,50
+Diagnostics,Ford,EcoSport,2019,FRIDAY,70
+AC Repair,Kia,Seltos,2026,SATURDAY,72
+Wheel Alignment,Honda,Elevate,2010,MONDAY,65
+Wheel Alignment,Tata,Punch,2012,SATURDAY,64
+General Inspection,Hyundai,Venue,2022,WEDNESDAY,44
+Wheel Alignment,Maruti Suzuki,Baleno,2010,TUESDAY,53
+Engine Service,Kia,Seltos,2008,MONDAY,111
+Brake Service,Maruti Suzuki,Ertiga,2020,MONDAY,63
+General Inspection,Honda,Elevate,2024,TUESDAY,45
+AC Repair,Tata,Altroz,2016,WEDNESDAY,78
+Battery Replacement,Kia,Sonet,2021,WEDNESDAY,39
+Diagnostics,Maruti Suzuki,Ertiga,2016,TUESDAY,60
+Transmission Service,Honda,Amaze,2011,TUESDAY,128
+Wheel Alignment,Hyundai,Verna,2018,SUNDAY,54
+Brake Service,Ford,Figo,2021,SUNDAY,63
+Transmission Service,Tata,Harrier,2018,FRIDAY,146
+Brake Service,Tata,Punch,2018,WEDNESDAY,64
+Diagnostics,Honda,Amaze,2020,WEDNESDAY,61
+General Inspection,Honda,Elevate,2025,TUESDAY,37
+Engine Service,Hyundai,Verna,2014,THURSDAY,108
+General Inspection,Kia,Sonet,2012,SATURDAY,47
+Wheel Alignment,Honda,Amaze,2012,SATURDAY,63
+Diagnostics,Ford,Figo,2025,FRIDAY,61
+AC Repair,Hyundai,Venue,2025,FRIDAY,72
+Tire Replacement,Mahindra,XUV700,2009,FRIDAY,54
+AC Repair,Mahindra,Scorpio,2011,MONDAY,87
+Engine Service,Honda,Amaze,2019,THURSDAY,101
+Diagnostics,Tata,Harrier,2008,THURSDAY,69
+General Inspection,Maruti Suzuki,Baleno,2019,WEDNESDAY,46
+Brake Service,Ford,EcoSport,2024,THURSDAY,60
+Diagnostics,Mahindra,XUV700,2017,MONDAY,63
+General Inspection,Hyundai,Venue,2011,SATURDAY,57
+Tire Replacement,Tata,Altroz,2018,FRIDAY,42
+AC Repair,Ford,EcoSport,2020,SATURDAY,90
+AC Repair,Kia,Seltos,2014,THURSDAY,89
+Transmission Service,Kia,Sonet,2008,SATURDAY,165
+General Inspection,Maruti Suzuki,Baleno,2019,WEDNESDAY,47
+Tire Replacement,Ford,EcoSport,2016,SATURDAY,62
+Brake Service,Kia,Sonet,2026,MONDAY,54
+Brake Service,Mahindra,Scorpio,2013,SUNDAY,71
+Transmission Service,Maruti Suzuki,Baleno,2018,MONDAY,112
+Tire Replacement,Toyota,Innova,2013,WEDNESDAY,50
+AC Repair,Tata,Punch,2021,TUESDAY,66
+Diagnostics,Tata,Altroz,2023,WEDNESDAY,60
+Diagnostics,Hyundai,Venue,2008,THURSDAY,69
+Battery Replacement,Honda,Amaze,2025,FRIDAY,35
+Diagnostics,Kia,Sonet,2023,TUESDAY,52
+General Inspection,Hyundai,Creta,2017,MONDAY,44
+Battery Replacement,Ford,Figo,2025,FRIDAY,41
+General Inspection,Maruti Suzuki,Ertiga,2025,SUNDAY,50
+Oil Change,Ford,EcoSport,2021,MONDAY,32
+Tire Replacement,Toyota,Innova,2022,WEDNESDAY,42
+Diagnostics,Maruti Suzuki,Baleno,2014,SUNDAY,77
+Transmission Service,Mahindra,Bolero,2021,TUESDAY,112
+Tire Replacement,Hyundai,Venue,2025,WEDNESDAY,40
+Transmission Service,Tata,Harrier,2017,WEDNESDAY,106
+Engine Service,Maruti Suzuki,Baleno,2021,MONDAY,86
+Wheel Alignment,Tata,Altroz,2015,TUESDAY,54
+AC Repair,Ford,EcoSport,2026,SATURDAY,68
+Wheel Alignment,Kia,Sonet,2022,MONDAY,46
+General Inspection,Kia,Sonet,2019,THURSDAY,37
+Diagnostics,Mahindra,Bolero,2008,SUNDAY,73
+Diagnostics,Mahindra,XUV700,2025,THURSDAY,47
+Tire Replacement,Kia,Seltos,2023,WEDNESDAY,45
+Engine Service,Tata,Punch,2018,SATURDAY,120
+Oil Change,Hyundai,i20,2022,MONDAY,36
+Diagnostics,Ford,EcoSport,2021,TUESDAY,66
+Battery Replacement,Toyota,Innova,2016,MONDAY,38
+Brake Service,Tata,Nexon,2020,SATURDAY,70
+Wheel Alignment,Honda,Amaze,2010,SATURDAY,71
+General Inspection,Tata,Altroz,2024,SATURDAY,49
+Diagnostics,Hyundai,i20,2018,SUNDAY,74
+Battery Replacement,Ford,EcoSport,2015,THURSDAY,44
+General Inspection,Maruti Suzuki,Swift,2018,WEDNESDAY,45
+Battery Replacement,Tata,Nexon,2024,FRIDAY,36
+Oil Change,Tata,Punch,2019,SATURDAY,39
+AC Repair,Ford,EcoSport,2010,MONDAY,94
+Battery Replacement,Maruti Suzuki,Brezza,2019,THURSDAY,37
+Wheel Alignment,Maruti Suzuki,Baleno,2025,FRIDAY,56
+Transmission Service,Toyota,Fortuner,2008,SUNDAY,170
+Tire Replacement,Honda,Elevate,2020,WEDNESDAY,41
+Oil Change,Honda,Amaze,2020,MONDAY,32
+General Inspection,Hyundai,Venue,2018,TUESDAY,50
+AC Repair,Kia,Sonet,2025,SATURDAY,85
+General Inspection,Hyundai,i20,2008,WEDNESDAY,51
+Tire Replacement,Hyundai,i20,2020,FRIDAY,49
+AC Repair,Kia,Sonet,2010,SATURDAY,106
+Engine Service,Tata,Harrier,2010,WEDNESDAY,124
+Battery Replacement,Mahindra,Scorpio,2026,SATURDAY,44
+General Inspection,Toyota,Fortuner,2021,SATURDAY,52
+Tire Replacement,Maruti Suzuki,Brezza,2011,THURSDAY,52
+Transmission Service,Hyundai,Venue,2013,MONDAY,145
+Oil Change,Tata,Punch,2019,FRIDAY,34
+Engine Service,Toyota,Innova,2019,TUESDAY,98
+General Inspection,Hyundai,Venue,2021,WEDNESDAY,34
+Engine Service,Maruti Suzuki,Ertiga,2026,SATURDAY,112
+Brake Service,Hyundai,Verna,2026,TUESDAY,63
+Brake Service,Tata,Harrier,2011,FRIDAY,73
+Engine Service,Hyundai,i20,2008,TUESDAY,102
+Oil Change,Ford,Figo,2020,TUESDAY,35
+Oil Change,Kia,Seltos,2018,TUESDAY,40
+AC Repair,Mahindra,Scorpio,2010,FRIDAY,81
+Oil Change,Tata,Altroz,2024,MONDAY,33
+AC Repair,Maruti Suzuki,Brezza,2017,SUNDAY,89
+Engine Service,Ford,EcoSport,2019,TUESDAY,91
+Wheel Alignment,Toyota,Fortuner,2015,THURSDAY,48
+Tire Replacement,Honda,City,2008,THURSDAY,62
+Oil Change,Honda,Elevate,2019,SATURDAY,41
+Brake Service,Hyundai,Verna,2017,MONDAY,56
+Tire Replacement,Honda,Amaze,2023,MONDAY,49
+Wheel Alignment,Maruti Suzuki,Swift,2015,SUNDAY,62
+Engine Service,Kia,Sonet,2022,SATURDAY,112
+Battery Replacement,Kia,Seltos,2026,FRIDAY,38
+Oil Change,Kia,Seltos,2015,WEDNESDAY,34
+AC Repair,Mahindra,Scorpio,2022,WEDNESDAY,79
+Tire Replacement,Maruti Suzuki,Baleno,2012,SUNDAY,58
+General Inspection,Tata,Punch,2022,WEDNESDAY,40
+AC Repair,Maruti Suzuki,Ertiga,2014,THURSDAY,78
+General Inspection,Maruti Suzuki,Baleno,2017,SUNDAY,52
+Transmission Service,Hyundai,Creta,2018,TUESDAY,139
+Brake Service,Kia,Seltos,2017,WEDNESDAY,69
+Battery Replacement,Hyundai,Verna,2022,FRIDAY,38
+Diagnostics,Maruti Suzuki,Baleno,2011,MONDAY,61
+Oil Change,Honda,City,2014,SUNDAY,34
+General Inspection,Toyota,Innova,2008,MONDAY,51
+Tire Replacement,Ford,EcoSport,2010,SUNDAY,60
+Oil Change,Ford,EcoSport,2013,FRIDAY,34
+AC Repair,Kia,Sonet,2008,THURSDAY,81
+Tire Replacement,Tata,Harrier,2016,THURSDAY,48
+Battery Replacement,Hyundai,Creta,2017,THURSDAY,35
+Oil Change,Maruti Suzuki,Ertiga,2020,TUESDAY,34
+AC Repair,Honda,Elevate,2024,TUESDAY,63
+Oil Change,Kia,Sonet,2023,FRIDAY,29
+Diagnostics,Mahindra,Bolero,2024,WEDNESDAY,54
+Brake Service,Honda,City,2016,MONDAY,70
+Diagnostics,Mahindra,Bolero,2015,TUESDAY,69
+Wheel Alignment,Hyundai,Creta,2026,SUNDAY,59
+AC Repair,Mahindra,XUV700,2013,TUESDAY,70
+Brake Service,Hyundai,Venue,2026,FRIDAY,57
+Battery Replacement,Honda,Amaze,2025,WEDNESDAY,36
+Oil Change,Honda,Elevate,2015,MONDAY,35
+Engine Service,Ford,EcoSport,2018,FRIDAY,105
+Battery Replacement,Mahindra,XUV700,2008,TUESDAY,43
+Transmission Service,Tata,Nexon,2024,SUNDAY,132
+AC Repair,Maruti Suzuki,Ertiga,2017,WEDNESDAY,80
+Battery Replacement,Tata,Punch,2023,SATURDAY,39
+Engine Service,Mahindra,XUV700,2026,SUNDAY,112
+Battery Replacement,Kia,Sonet,2017,TUESDAY,39
+Transmission Service,Kia,Seltos,2013,FRIDAY,146
+Brake Service,Honda,Elevate,2026,MONDAY,63
+General Inspection,Honda,Amaze,2018,TUESDAY,43
+General Inspection,Mahindra,Scorpio,2008,WEDNESDAY,49
+Brake Service,Toyota,Innova,2008,MONDAY,80
+AC Repair,Ford,Figo,2013,THURSDAY,74
+Engine Service,Kia,Seltos,2023,SUNDAY,103
+Transmission Service,Honda,City,2022,MONDAY,127
+Oil Change,Mahindra,Scorpio,2011,MONDAY,35
+Brake Service,Tata,Punch,2013,SATURDAY,93
+General Inspection,Mahindra,Bolero,2023,SATURDAY,52
+Oil Change,Kia,Seltos,2021,TUESDAY,34
+Tire Replacement,Kia,Sonet,2017,WEDNESDAY,51
+Tire Replacement,Maruti Suzuki,Swift,2020,FRIDAY,46
+Oil Change,Mahindra,XUV700,2021,MONDAY,31
+Wheel Alignment,Ford,EcoSport,2011,MONDAY,61
+General Inspection,Ford,EcoSport,2017,SUNDAY,54
+AC Repair,Ford,Figo,2016,MONDAY,74
+Brake Service,Kia,Sonet,2013,THURSDAY,65
+Oil Change,Toyota,Glanza,2022,WEDNESDAY,32
+Oil Change,Tata,Nexon,2010,SATURDAY,43
+Brake Service,Kia,Seltos,2025,MONDAY,67
+AC Repair,Ford,EcoSport,2023,WEDNESDAY,62
+General Inspection,Kia,Seltos,2024,FRIDAY,49
+Transmission Service,Tata,Nexon,2022,TUESDAY,113
+Battery Replacement,Honda,City,2012,MONDAY,32
+AC Repair,Honda,Elevate,2012,SUNDAY,100
+Transmission Service,Toyota,Glanza,2010,MONDAY,132
+Brake Service,Toyota,Fortuner,2022,SUNDAY,73
+Oil Change,Kia,Seltos,2021,TUESDAY,34
+General Inspection,Maruti Suzuki,Swift,2017,SUNDAY,53
+Engine Service,Mahindra,Scorpio,2016,THURSDAY,94
+Diagnostics,Hyundai,Creta,2016,THURSDAY,56
+Battery Replacement,Kia,Seltos,2020,WEDNESDAY,37
+Diagnostics,Toyota,Glanza,2008,WEDNESDAY,63
+Wheel Alignment,Toyota,Glanza,2023,SUNDAY,56
+Tire Replacement,Tata,Harrier,2022,SUNDAY,50
+Brake Service,Toyota,Fortuner,2021,FRIDAY,64
+Tire Replacement,Kia,Sonet,2024,SUNDAY,48
+Brake Service,Hyundai,Creta,2010,WEDNESDAY,69
+Engine Service,Hyundai,Creta,2014,SUNDAY,104
+Tire Replacement,Hyundai,Creta,2009,THURSDAY,57
+Tire Replacement,Toyota,Glanza,2022,FRIDAY,51
+AC Repair,Maruti Suzuki,Swift,2015,WEDNESDAY,72
+Diagnostics,Mahindra,Scorpio,2013,SUNDAY,70
+Wheel Alignment,Maruti Suzuki,Ertiga,2008,THURSDAY,68
+Tire Replacement,Honda,Elevate,2015,SATURDAY,61
+Tire Replacement,Toyota,Fortuner,2021,FRIDAY,58
+Oil Change,Ford,EcoSport,2013,FRIDAY,37
+Oil Change,Honda,Amaze,2017,SATURDAY,42
+AC Repair,Kia,Sonet,2022,WEDNESDAY,71
+Tire Replacement,Ford,Figo,2024,SUNDAY,46
+Oil Change,Mahindra,Bolero,2017,WEDNESDAY,30
+General Inspection,Ford,EcoSport,2018,WEDNESDAY,39
+Wheel Alignment,Toyota,Innova,2012,FRIDAY,54
+Tire Replacement,Hyundai,Verna,2018,SATURDAY,57
+Diagnostics,Toyota,Glanza,2021,THURSDAY,59
+AC Repair,Hyundai,Creta,2018,SATURDAY,86
+Diagnostics,Mahindra,Bolero,2017,SUNDAY,59
+Battery Replacement,Tata,Harrier,2011,THURSDAY,43
+Engine Service,Tata,Harrier,2010,TUESDAY,111
+Brake Service,Honda,Elevate,2017,THURSDAY,68
+Wheel Alignment,Toyota,Glanza,2011,THURSDAY,55
+Oil Change,Maruti Suzuki,Brezza,2014,FRIDAY,39
+Engine Service,Toyota,Glanza,2009,SUNDAY,126
+Battery Replacement,Tata,Altroz,2018,THURSDAY,46
+Diagnostics,Tata,Harrier,2013,SUNDAY,69
+General Inspection,Ford,Figo,2013,WEDNESDAY,46
+Wheel Alignment,Honda,City,2026,SUNDAY,55
+Battery Replacement,Ford,EcoSport,2012,FRIDAY,40
+AC Repair,Ford,Figo,2008,MONDAY,86
+Engine Service,Honda,Elevate,2019,MONDAY,109
+Engine Service,Honda,City,2008,SATURDAY,113
+Tire Replacement,Honda,Elevate,2019,WEDNESDAY,52
+Transmission Service,Toyota,Innova,2010,SUNDAY,164
+Oil Change,Toyota,Glanza,2022,SATURDAY,33
+AC Repair,Tata,Harrier,2023,WEDNESDAY,71
+Tire Replacement,Tata,Punch,2008,TUESDAY,55
+Tire Replacement,Hyundai,Creta,2011,WEDNESDAY,66
+Oil Change,Kia,Sonet,2025,FRIDAY,41
+General Inspection,Hyundai,i20,2011,THURSDAY,51
+Diagnostics,Kia,Seltos,2025,WEDNESDAY,53
+Oil Change,Toyota,Glanza,2011,SATURDAY,41
+Engine Service,Toyota,Fortuner,2012,THURSDAY,107
+Transmission Service,Maruti Suzuki,Ertiga,2011,SUNDAY,151
+General Inspection,Ford,EcoSport,2014,SUNDAY,50
+Tire Replacement,Mahindra,Bolero,2021,WEDNESDAY,53
+Battery Replacement,Hyundai,Verna,2014,SATURDAY,49
+Oil Change,Hyundai,i20,2011,SUNDAY,38
+Transmission Service,Ford,EcoSport,2010,SUNDAY,137
+General Inspection,Toyota,Fortuner,2015,THURSDAY,45
+Wheel Alignment,Toyota,Glanza,2009,MONDAY,63
+Wheel Alignment,Mahindra,Bolero,2018,THURSDAY,45
+General Inspection,Maruti Suzuki,Swift,2008,SUNDAY,56
+Brake Service,Mahindra,Scorpio,2016,SATURDAY,84
+General Inspection,Mahindra,Scorpio,2013,MONDAY,38
+Wheel Alignment,Kia,Sonet,2021,SATURDAY,68
+Battery Replacement,Maruti Suzuki,Baleno,2009,SUNDAY,47
+Transmission Service,Ford,Figo,2013,FRIDAY,156
+AC Repair,Mahindra,Bolero,2008,SUNDAY,86
+Battery Replacement,Ford,Figo,2011,THURSDAY,35
+Diagnostics,Hyundai,i20,2016,SATURDAY,67
+Engine Service,Honda,Elevate,2018,FRIDAY,116
+Engine Service,Maruti Suzuki,Brezza,2015,THURSDAY,94
+AC Repair,Tata,Nexon,2008,SATURDAY,104
+Battery Replacement,Ford,Figo,2013,MONDAY,40
+Brake Service,Toyota,Innova,2024,TUESDAY,56
+Engine Service,Kia,Sonet,2015,MONDAY,86
+Diagnostics,Maruti Suzuki,Brezza,2022,WEDNESDAY,60
+General Inspection,Ford,EcoSport,2011,THURSDAY,43
+Oil Change,Maruti Suzuki,Ertiga,2024,FRIDAY,34
+Tire Replacement,Ford,Figo,2019,SUNDAY,57
+Diagnostics,Mahindra,Bolero,2023,SATURDAY,67
+Brake Service,Ford,EcoSport,2011,SUNDAY,78
+Brake Service,Toyota,Fortuner,2024,WEDNESDAY,61
+General Inspection,Hyundai,Creta,2023,TUESDAY,44
+AC Repair,Maruti Suzuki,Ertiga,2014,TUESDAY,70
+General Inspection,Kia,Seltos,2022,SUNDAY,47
+General Inspection,Kia,Seltos,2026,MONDAY,34
+Diagnostics,Ford,EcoSport,2023,MONDAY,55
+AC Repair,Ford,EcoSport,2026,TUESDAY,70
+Battery Replacement,Maruti Suzuki,Brezza,2018,FRIDAY,43
+Transmission Service,Honda,Amaze,2020,WEDNESDAY,120
+Wheel Alignment,Ford,EcoSport,2012,THURSDAY,50
+Engine Service,Toyota,Fortuner,2025,SUNDAY,89
+Brake Service,Honda,City,2014,FRIDAY,70
+Battery Replacement,Tata,Harrier,2011,SUNDAY,40
+Brake Service,Ford,Figo,2025,WEDNESDAY,65
+Oil Change,Maruti Suzuki,Swift,2020,TUESDAY,30
+Oil Change,Hyundai,Creta,2016,SUNDAY,39
+Wheel Alignment,Tata,Nexon,2017,TUESDAY,41
+Engine Service,Hyundai,Venue,2022,MONDAY,84
+Engine Service,Honda,Elevate,2025,THURSDAY,82
+Tire Replacement,Toyota,Fortuner,2009,THURSDAY,45
+Brake Service,Hyundai,i20,2016,TUESDAY,77
+Transmission Service,Ford,EcoSport,2019,SUNDAY,126
+Tire Replacement,Honda,Amaze,2022,TUESDAY,43
+General Inspection,Tata,Altroz,2024,MONDAY,38
+Engine Service,Toyota,Innova,2013,FRIDAY,116
+Wheel Alignment,Hyundai,Venue,2022,SATURDAY,62
+Brake Service,Hyundai,Venue,2023,SUNDAY,68
+Transmission Service,Mahindra,XUV700,2018,FRIDAY,140
+General Inspection,Tata,Punch,2025,FRIDAY,45
+AC Repair,Maruti Suzuki,Ertiga,2015,TUESDAY,76
+Wheel Alignment,Honda,Elevate,2024,THURSDAY,47
+Engine Service,Hyundai,i20,2019,THURSDAY,98
+Transmission Service,Honda,City,2018,THURSDAY,149
+General Inspection,Kia,Sonet,2025,SATURDAY,45
+Brake Service,Ford,Figo,2009,WEDNESDAY,84
+Tire Replacement,Mahindra,Bolero,2010,MONDAY,59
+Engine Service,Hyundai,i20,2014,SATURDAY,138
+Tire Replacement,Kia,Seltos,2014,FRIDAY,58
+AC Repair,Maruti Suzuki,Baleno,2008,THURSDAY,70
+Brake Service,Hyundai,i20,2010,MONDAY,73
+General Inspection,Honda,Amaze,2021,THURSDAY,45
+Diagnostics,Kia,Sonet,2018,MONDAY,58
+Oil Change,Maruti Suzuki,Swift,2010,WEDNESDAY,36
+Engine Service,Maruti Suzuki,Ertiga,2017,FRIDAY,118
+Diagnostics,Kia,Sonet,2008,THURSDAY,70
+Battery Replacement,Honda,City,2020,SUNDAY,43
+Battery Replacement,Toyota,Fortuner,2019,MONDAY,34
+Engine Service,Tata,Nexon,2009,MONDAY,98
+Engine Service,Maruti Suzuki,Ertiga,2014,SATURDAY,114
+Brake Service,Honda,Amaze,2024,TUESDAY,64
+Wheel Alignment,Honda,City,2013,SATURDAY,69
+Transmission Service,Hyundai,Verna,2025,MONDAY,120
+General Inspection,Honda,Elevate,2026,THURSDAY,41
+Brake Service,Mahindra,XUV700,2015,MONDAY,67
+Tire Replacement,Mahindra,Scorpio,2022,WEDNESDAY,49
+Transmission Service,Toyota,Fortuner,2026,TUESDAY,110
+Brake Service,Kia,Seltos,2008,WEDNESDAY,69
+Tire Replacement,Honda,Elevate,2021,WEDNESDAY,49
+Brake Service,Ford,Figo,2022,WEDNESDAY,60
+Wheel Alignment,Ford,EcoSport,2013,SATURDAY,59
+Battery Replacement,Honda,Amaze,2010,SATURDAY,43
+General Inspection,Hyundai,i20,2026,FRIDAY,38
+Oil Change,Toyota,Fortuner,2025,THURSDAY,33
+Battery Replacement,Mahindra,Scorpio,2015,SUNDAY,38
+Battery Replacement,Ford,EcoSport,2020,WEDNESDAY,34
+Engine Service,Hyundai,Creta,2013,SUNDAY,105
+Battery Replacement,Tata,Punch,2019,MONDAY,38
+Tire Replacement,Ford,EcoSport,2010,WEDNESDAY,52
+Tire Replacement,Mahindra,Scorpio,2023,THURSDAY,48
+Oil Change,Hyundai,Venue,2011,SATURDAY,45
+Wheel Alignment,Toyota,Fortuner,2025,FRIDAY,52
+Battery Replacement,Kia,Sonet,2019,FRIDAY,36
+Engine Service,Toyota,Glanza,2015,FRIDAY,93
+AC Repair,Mahindra,Scorpio,2023,SUNDAY,70
+Engine Service,Tata,Punch,2013,TUESDAY,105
+General Inspection,Toyota,Innova,2012,TUESDAY,50
+General Inspection,Honda,Amaze,2018,SATURDAY,55
+General Inspection,Ford,Figo,2023,TUESDAY,37
+AC Repair,Hyundai,Creta,2009,TUESDAY,77
+Transmission Service,Tata,Altroz,2024,MONDAY,128
+Battery Replacement,Toyota,Innova,2024,THURSDAY,35
+Transmission Service,Hyundai,Venue,2010,TUESDAY,106
+Diagnostics,Tata,Altroz,2021,FRIDAY,67
+Battery Replacement,Tata,Harrier,2013,SATURDAY,43
+Transmission Service,Maruti Suzuki,Baleno,2020,THURSDAY,104
+Battery Replacement,Maruti Suzuki,Swift,2014,FRIDAY,45
+AC Repair,Tata,Nexon,2013,THURSDAY,75
+Transmission Service,Hyundai,i20,2010,THURSDAY,128
+Engine Service,Hyundai,Verna,2024,THURSDAY,76
+Brake Service,Hyundai,Verna,2015,SUNDAY,65
+Brake Service,Maruti Suzuki,Brezza,2012,WEDNESDAY,71
+Diagnostics,Honda,City,2017,FRIDAY,68
+Tire Replacement,Hyundai,i20,2026,FRIDAY,44
+General Inspection,Hyundai,Verna,2014,SATURDAY,54
+General Inspection,Tata,Punch,2026,WEDNESDAY,36
+Wheel Alignment,Kia,Sonet,2016,SATURDAY,62
+Engine Service,Ford,EcoSport,2019,FRIDAY,106
+Engine Service,Ford,Figo,2017,FRIDAY,97
+Battery Replacement,Maruti Suzuki,Baleno,2022,SUNDAY,45
+Battery Replacement,Maruti Suzuki,Baleno,2024,THURSDAY,37
+Transmission Service,Hyundai,Creta,2020,SATURDAY,127
+Oil Change,Maruti Suzuki,Baleno,2023,FRIDAY,32
+Tire Replacement,Mahindra,XUV700,2009,SATURDAY,62
+AC Repair,Kia,Sonet,2009,SUNDAY,95
+Diagnostics,Hyundai,Creta,2024,WEDNESDAY,49
+Tire Replacement,Hyundai,Creta,2013,SATURDAY,63
+Oil Change,Tata,Nexon,2016,SUNDAY,37
+AC Repair,Mahindra,Bolero,2020,THURSDAY,68
+General Inspection,Maruti Suzuki,Ertiga,2025,FRIDAY,40
+Brake Service,Mahindra,Scorpio,2015,FRIDAY,78
+AC Repair,Hyundai,Venue,2013,THURSDAY,79
+Engine Service,Maruti Suzuki,Swift,2024,WEDNESDAY,90
+Engine Service,Toyota,Fortuner,2026,WEDNESDAY,94
+Diagnostics,Kia,Sonet,2015,SUNDAY,63
+Diagnostics,Hyundai,Verna,2011,WEDNESDAY,73
+General Inspection,Kia,Seltos,2015,SUNDAY,46
+Engine Service,Hyundai,Venue,2015,WEDNESDAY,122
+General Inspection,Kia,Sonet,2010,FRIDAY,54
+Brake Service,Honda,Elevate,2016,TUESDAY,64
+Tire Replacement,Ford,EcoSport,2015,SATURDAY,59
+Tire Replacement,Honda,City,2019,TUESDAY,52
+General Inspection,Maruti Suzuki,Swift,2023,FRIDAY,51
+Oil Change,Ford,Figo,2018,THURSDAY,33
+Transmission Service,Toyota,Glanza,2013,SUNDAY,161
+Tire Replacement,Tata,Nexon,2024,SUNDAY,49
+AC Repair,Ford,EcoSport,2024,WEDNESDAY,63
+Battery Replacement,Ford,EcoSport,2024,THURSDAY,39
+Brake Service,Hyundai,i20,2014,THURSDAY,64
+Transmission Service,Toyota,Innova,2025,WEDNESDAY,116
+Tire Replacement,Toyota,Glanza,2018,WEDNESDAY,51
+AC Repair,Mahindra,Scorpio,2020,WEDNESDAY,82
+Diagnostics,Tata,Altroz,2026,SATURDAY,64
+Wheel Alignment,Honda,Elevate,2021,SUNDAY,61
+AC Repair,Honda,City,2012,THURSDAY,83
+Diagnostics,Tata,Harrier,2023,WEDNESDAY,54
+Wheel Alignment,Hyundai,Verna,2011,SATURDAY,70
+Wheel Alignment,Ford,EcoSport,2022,SATURDAY,63
+Brake Service,Toyota,Glanza,2019,FRIDAY,58
+Brake Service,Hyundai,Verna,2011,WEDNESDAY,67
+Transmission Service,Honda,Elevate,2026,SATURDAY,134
+Wheel Alignment,Mahindra,Scorpio,2024,THURSDAY,49
+Diagnostics,Maruti Suzuki,Brezza,2017,THURSDAY,59
+Battery Replacement,Mahindra,Scorpio,2026,THURSDAY,34
+General Inspection,Maruti Suzuki,Baleno,2018,TUESDAY,42
+Wheel Alignment,Kia,Sonet,2022,SUNDAY,64
+Brake Service,Ford,Figo,2013,TUESDAY,71
+Tire Replacement,Toyota,Fortuner,2010,TUESDAY,51
+Battery Replacement,Kia,Seltos,2011,MONDAY,45
+Oil Change,Hyundai,Verna,2024,SUNDAY,32
+General Inspection,Maruti Suzuki,Ertiga,2012,MONDAY,42
+Wheel Alignment,Honda,City,2017,THURSDAY,47
+Battery Replacement,Tata,Altroz,2008,MONDAY,38
+Brake Service,Ford,Figo,2025,WEDNESDAY,51
+Engine Service,Ford,EcoSport,2025,TUESDAY,83
+Transmission Service,Kia,Sonet,2019,THURSDAY,123
+Engine Service,Honda,City,2022,WEDNESDAY,90
+Wheel Alignment,Hyundai,i20,2024,SUNDAY,59
+Battery Replacement,Mahindra,Scorpio,2023,FRIDAY,46
+Diagnostics,Toyota,Innova,2021,SUNDAY,65
+Wheel Alignment,Honda,City,2025,WEDNESDAY,54
+AC Repair,Kia,Seltos,2013,SATURDAY,106
+AC Repair,Kia,Seltos,2016,MONDAY,74
+Transmission Service,Toyota,Glanza,2025,SUNDAY,138
+Wheel Alignment,Kia,Seltos,2010,TUESDAY,61
+Diagnostics,Ford,Figo,2023,TUESDAY,59
+Brake Service,Hyundai,Creta,2009,FRIDAY,90
+Wheel Alignment,Toyota,Innova,2022,SATURDAY,62
+Oil Change,Honda,City,2012,MONDAY,32
+Wheel Alignment,Ford,Figo,2022,SATURDAY,60
+Oil Change,Mahindra,XUV700,2012,MONDAY,35
+Engine Service,Ford,EcoSport,2014,SUNDAY,122
+Wheel Alignment,Kia,Seltos,2011,SUNDAY,64
+Diagnostics,Honda,Elevate,2009,TUESDAY,60
+Diagnostics,Maruti Suzuki,Baleno,2023,THURSDAY,55
+Brake Service,Tata,Nexon,2025,FRIDAY,59
+General Inspection,Toyota,Glanza,2017,TUESDAY,43
+Tire Replacement,Maruti Suzuki,Baleno,2021,WEDNESDAY,49
+Oil Change,Tata,Harrier,2026,MONDAY,28
+Oil Change,Ford,EcoSport,2019,SUNDAY,37
+General Inspection,Honda,City,2023,MONDAY,40
+Oil Change,Hyundai,Venue,2012,SATURDAY,38
+Engine Service,Maruti Suzuki,Baleno,2023,TUESDAY,89
+Brake Service,Ford,EcoSport,2008,SATURDAY,88
+AC Repair,Mahindra,Bolero,2012,WEDNESDAY,88
+Diagnostics,Toyota,Fortuner,2023,TUESDAY,53
+Transmission Service,Tata,Harrier,2018,SATURDAY,128
+Transmission Service,Tata,Nexon,2024,TUESDAY,128
+Diagnostics,Toyota,Glanza,2025,WEDNESDAY,47
+Engine Service,Kia,Seltos,2008,FRIDAY,116
+Brake Service,Honda,Amaze,2010,SATURDAY,92
+Tire Replacement,Ford,EcoSport,2017,WEDNESDAY,48
+AC Repair,Mahindra,XUV700,2011,FRIDAY,86
+Battery Replacement,Tata,Nexon,2014,MONDAY,39
+Diagnostics,Honda,City,2009,FRIDAY,65
+Diagnostics,Toyota,Innova,2019,TUESDAY,55
+Transmission Service,Maruti Suzuki,Swift,2014,SATURDAY,133
+General Inspection,Ford,EcoSport,2019,FRIDAY,46
+AC Repair,Mahindra,Bolero,2009,SUNDAY,84
+General Inspection,Toyota,Innova,2014,FRIDAY,45
+General Inspection,Maruti Suzuki,Baleno,2025,THURSDAY,42
+Tire Replacement,Tata,Punch,2011,SUNDAY,64
+Transmission Service,Mahindra,Bolero,2022,SATURDAY,132
+Battery Replacement,Tata,Punch,2024,WEDNESDAY,30
+Battery Replacement,Ford,Figo,2018,FRIDAY,43
+Brake Service,Kia,Sonet,2018,FRIDAY,69
+Tire Replacement,Honda,Amaze,2025,SATURDAY,52
+Diagnostics,Kia,Seltos,2009,WEDNESDAY,79
+Transmission Service,Hyundai,Creta,2017,MONDAY,130
+Brake Service,Hyundai,Venue,2025,FRIDAY,68
+Engine Service,Tata,Nexon,2009,THURSDAY,103
+Brake Service,Honda,City,2016,SUNDAY,76
+Wheel Alignment,Maruti Suzuki,Brezza,2026,TUESDAY,49
+Diagnostics,Tata,Punch,2026,SUNDAY,52
+General Inspection,Toyota,Innova,2026,THURSDAY,41
+Brake Service,Mahindra,Scorpio,2021,SUNDAY,71
+General Inspection,Honda,Elevate,2008,SATURDAY,55
+Wheel Alignment,Hyundai,Venue,2025,FRIDAY,48
+Battery Replacement,Mahindra,Bolero,2015,TUESDAY,45
+AC Repair,Ford,EcoSport,2015,THURSDAY,83
+Wheel Alignment,Kia,Seltos,2012,WEDNESDAY,64
+Oil Change,Kia,Sonet,2010,THURSDAY,37
+Engine Service,Kia,Seltos,2012,THURSDAY,95
+Transmission Service,Honda,Elevate,2024,TUESDAY,118
+Tire Replacement,Maruti Suzuki,Ertiga,2021,WEDNESDAY,45
+General Inspection,Kia,Sonet,2019,WEDNESDAY,39
+Tire Replacement,Mahindra,Scorpio,2008,SUNDAY,54
+Transmission Service,Ford,EcoSport,2022,MONDAY,159
+Tire Replacement,Honda,Elevate,2019,TUESDAY,49
+General Inspection,Hyundai,Creta,2012,SUNDAY,44
+Wheel Alignment,Hyundai,Venue,2011,WEDNESDAY,58
+Tire Replacement,Honda,City,2025,FRIDAY,48
+Wheel Alignment,Ford,EcoSport,2008,THURSDAY,53
+Oil Change,Toyota,Innova,2009,WEDNESDAY,33
+Tire Replacement,Toyota,Innova,2022,SATURDAY,56
+Wheel Alignment,Mahindra,XUV700,2008,WEDNESDAY,58
+AC Repair,Honda,Amaze,2024,SATURDAY,87
+Transmission Service,Maruti Suzuki,Baleno,2014,FRIDAY,150
+Diagnostics,Hyundai,i20,2015,FRIDAY,63
+Battery Replacement,Hyundai,Venue,2019,WEDNESDAY,42
+Wheel Alignment,Honda,Elevate,2016,SUNDAY,65
+AC Repair,Hyundai,Venue,2015,TUESDAY,81
+Brake Service,Kia,Seltos,2010,SATURDAY,70
+Transmission Service,Honda,Amaze,2015,FRIDAY,163
+Battery Replacement,Kia,Sonet,2018,THURSDAY,36
+Battery Replacement,Honda,City,2017,SATURDAY,44
+Engine Service,Tata,Punch,2012,SATURDAY,139
+Brake Service,Maruti Suzuki,Swift,2013,WEDNESDAY,64
+Battery Replacement,Hyundai,Venue,2021,THURSDAY,35
+Wheel Alignment,Tata,Altroz,2011,TUESDAY,67
+Battery Replacement,Hyundai,Venue,2026,FRIDAY,37
+Oil Change,Mahindra,XUV700,2023,TUESDAY,33
+Engine Service,Ford,Figo,2013,SUNDAY,107
+Battery Replacement,Honda,City,2009,THURSDAY,44
+Oil Change,Toyota,Glanza,2015,SATURDAY,38
+Tire Replacement,Maruti Suzuki,Baleno,2022,SUNDAY,49
+Transmission Service,Ford,Figo,2022,TUESDAY,107
+Transmission Service,Kia,Sonet,2020,FRIDAY,144
+Transmission Service,Hyundai,i20,2022,THURSDAY,127
+Tire Replacement,Kia,Seltos,2025,THURSDAY,44
+Engine Service,Hyundai,Creta,2017,THURSDAY,94
+Wheel Alignment,Ford,EcoSport,2021,WEDNESDAY,56
+Transmission Service,Hyundai,Creta,2022,SUNDAY,135
+Engine Service,Maruti Suzuki,Baleno,2026,SATURDAY,100
+Engine Service,Tata,Punch,2021,WEDNESDAY,90
+Transmission Service,Honda,Amaze,2010,WEDNESDAY,144
+Brake Service,Tata,Nexon,2010,MONDAY,68
+General Inspection,Kia,Seltos,2020,FRIDAY,40
+AC Repair,Hyundai,Creta,2018,FRIDAY,90
+Battery Replacement,Tata,Altroz,2009,THURSDAY,36
+Wheel Alignment,Toyota,Fortuner,2022,WEDNESDAY,51
+Battery Replacement,Honda,City,2016,MONDAY,38
+Diagnostics,Ford,Figo,2025,SUNDAY,73
+Tire Replacement,Honda,Elevate,2023,THURSDAY,47
+AC Repair,Ford,EcoSport,2008,TUESDAY,87
+Engine Service,Honda,City,2013,TUESDAY,99
+Oil Change,Mahindra,XUV700,2012,SUNDAY,42
+Transmission Service,Toyota,Glanza,2010,MONDAY,145
+General Inspection,Kia,Seltos,2013,SATURDAY,52
+Transmission Service,Tata,Punch,2026,WEDNESDAY,137
+Oil Change,Maruti Suzuki,Ertiga,2018,WEDNESDAY,37
+AC Repair,Maruti Suzuki,Ertiga,2023,TUESDAY,65
+General Inspection,Toyota,Glanza,2024,THURSDAY,35
+Transmission Service,Hyundai,i20,2026,SATURDAY,135
+Engine Service,Maruti Suzuki,Brezza,2017,THURSDAY,94
+Engine Service,Mahindra,XUV700,2026,THURSDAY,85
+Engine Service,Ford,Figo,2013,FRIDAY,110
+Tire Replacement,Hyundai,i20,2008,THURSDAY,57
+General Inspection,Honda,Elevate,2021,THURSDAY,46
+Tire Replacement,Hyundai,Creta,2017,WEDNESDAY,51
+General Inspection,Toyota,Glanza,2024,FRIDAY,43
+Brake Service,Mahindra,Scorpio,2026,FRIDAY,64
+Oil Change,Tata,Altroz,2018,SUNDAY,34
+Diagnostics,Hyundai,Creta,2023,TUESDAY,64
+Diagnostics,Mahindra,Scorpio,2021,SATURDAY,73
+Transmission Service,Mahindra,Bolero,2025,MONDAY,126
+Tire Replacement,Mahindra,Scorpio,2010,TUESDAY,53
+AC Repair,Tata,Punch,2013,FRIDAY,87
+General Inspection,Toyota,Fortuner,2018,SATURDAY,54
+Diagnostics,Honda,Amaze,2022,SUNDAY,65
+Wheel Alignment,Honda,Elevate,2017,TUESDAY,62
+Tire Replacement,Maruti Suzuki,Brezza,2024,MONDAY,51
+Diagnostics,Tata,Altroz,2018,THURSDAY,60
+Brake Service,Tata,Nexon,2024,SATURDAY,63
+Battery Replacement,Honda,Elevate,2009,THURSDAY,36
+General Inspection,Hyundai,Venue,2009,SATURDAY,59
+Transmission Service,Maruti Suzuki,Ertiga,2022,MONDAY,142
+Wheel Alignment,Hyundai,Venue,2014,WEDNESDAY,62
+Tire Replacement,Honda,Amaze,2016,FRIDAY,51
+General Inspection,Toyota,Innova,2013,WEDNESDAY,50
+General Inspection,Hyundai,i20,2014,FRIDAY,46
+Battery Replacement,Toyota,Fortuner,2015,TUESDAY,42
+General Inspection,Toyota,Fortuner,2018,FRIDAY,44
+Diagnostics,Hyundai,i20,2020,MONDAY,60
+General Inspection,Kia,Sonet,2013,SATURDAY,49
+Diagnostics,Mahindra,Scorpio,2018,SUNDAY,62
+Tire Replacement,Maruti Suzuki,Brezza,2026,TUESDAY,52
+Diagnostics,Maruti Suzuki,Brezza,2017,SATURDAY,76
+Diagnostics,Ford,EcoSport,2015,TUESDAY,67
+Brake Service,Kia,Seltos,2018,SUNDAY,66
+Brake Service,Ford,Figo,2008,MONDAY,65
+Diagnostics,Tata,Harrier,2019,FRIDAY,63
+Transmission Service,Tata,Nexon,2020,SUNDAY,140
+Engine Service,Maruti Suzuki,Ertiga,2025,THURSDAY,87
+AC Repair,Kia,Seltos,2015,FRIDAY,88
+General Inspection,Mahindra,XUV700,2026,THURSDAY,44
+AC Repair,Mahindra,Bolero,2015,TUESDAY,78
+Transmission Service,Ford,EcoSport,2026,FRIDAY,122
+Diagnostics,Mahindra,Bolero,2011,SUNDAY,67
+AC Repair,Maruti Suzuki,Swift,2020,WEDNESDAY,77
+Diagnostics,Hyundai,i20,2014,SUNDAY,74
+Oil Change,Tata,Altroz,2022,FRIDAY,36
+Wheel Alignment,Kia,Sonet,2014,TUESDAY,55
+Transmission Service,Toyota,Glanza,2019,MONDAY,121
+Transmission Service,Hyundai,Verna,2012,SUNDAY,151
+Engine Service,Hyundai,i20,2025,SUNDAY,108
+Brake Service,Maruti Suzuki,Ertiga,2008,TUESDAY,64
+Brake Service,Kia,Sonet,2020,THURSDAY,68
+Engine Service,Honda,Elevate,2013,THURSDAY,111
+Brake Service,Kia,Seltos,2017,SUNDAY,79
+Battery Replacement,Tata,Nexon,2010,SATURDAY,53
+Diagnostics,Kia,Seltos,2010,TUESDAY,66
+AC Repair,Ford,Figo,2013,THURSDAY,72
+Diagnostics,Kia,Sonet,2015,TUESDAY,62
+AC Repair,Hyundai,Verna,2015,SATURDAY,84
+Engine Service,Mahindra,XUV700,2009,FRIDAY,111
+Diagnostics,Mahindra,XUV700,2026,THURSDAY,57
+Engine Service,Toyota,Glanza,2024,MONDAY,91
+Engine Service,Maruti Suzuki,Baleno,2023,SATURDAY,106
+General Inspection,Toyota,Fortuner,2009,WEDNESDAY,37
+Engine Service,Hyundai,Verna,2022,FRIDAY,109
+Brake Service,Kia,Sonet,2017,WEDNESDAY,62
+Battery Replacement,Hyundai,Venue,2026,WEDNESDAY,39
+Battery Replacement,Hyundai,Venue,2008,WEDNESDAY,43
+Diagnostics,Maruti Suzuki,Baleno,2024,MONDAY,59
+Battery Replacement,Toyota,Glanza,2016,MONDAY,37
+General Inspection,Tata,Altroz,2022,WEDNESDAY,43
+Tire Replacement,Ford,EcoSport,2024,SUNDAY,47
+Oil Change,Mahindra,XUV700,2012,FRIDAY,38
+Diagnostics,Kia,Sonet,2015,SATURDAY,70
+Diagnostics,Tata,Altroz,2026,SATURDAY,64
+Wheel Alignment,Maruti Suzuki,Swift,2013,THURSDAY,56
+AC Repair,Ford,Figo,2023,SATURDAY,98
+Tire Replacement,Kia,Sonet,2023,WEDNESDAY,43
+Battery Replacement,Kia,Seltos,2017,SUNDAY,38
+Engine Service,Hyundai,i20,2025,SATURDAY,109
+Brake Service,Kia,Sonet,2018,WEDNESDAY,65
+Transmission Service,Kia,Sonet,2015,SATURDAY,162
+Transmission Service,Honda,Elevate,2018,SATURDAY,148
+Engine Service,Hyundai,i20,2010,MONDAY,101
+AC Repair,Maruti Suzuki,Swift,2022,WEDNESDAY,74
+Tire Replacement,Hyundai,i20,2010,MONDAY,57
+Transmission Service,Honda,Elevate,2011,SATURDAY,168
+Transmission Service,Tata,Punch,2026,SUNDAY,131
+Battery Replacement,Maruti Suzuki,Baleno,2016,WEDNESDAY,31
+Diagnostics,Toyota,Glanza,2018,WEDNESDAY,63
+Battery Replacement,Maruti Suzuki,Ertiga,2009,THURSDAY,32
+Wheel Alignment,Toyota,Innova,2022,MONDAY,63
+Diagnostics,Honda,Elevate,2020,TUESDAY,57
+Engine Service,Kia,Seltos,2011,THURSDAY,103
+Wheel Alignment,Maruti Suzuki,Swift,2010,MONDAY,56
+Diagnostics,Hyundai,Verna,2012,SATURDAY,72
+Oil Change,Hyundai,Verna,2016,TUESDAY,32
+Transmission Service,Hyundai,Verna,2023,THURSDAY,100
+AC Repair,Maruti Suzuki,Baleno,2008,THURSDAY,95
+Diagnostics,Maruti Suzuki,Ertiga,2018,SATURDAY,66
+Wheel Alignment,Kia,Seltos,2010,WEDNESDAY,47
+General Inspection,Ford,Figo,2014,TUESDAY,44
+Engine Service,Hyundai,Verna,2014,WEDNESDAY,97
+Brake Service,Ford,EcoSport,2022,SATURDAY,60
+Tire Replacement,Tata,Nexon,2014,MONDAY,50
+Diagnostics,Kia,Seltos,2025,SATURDAY,57
+Wheel Alignment,Ford,Figo,2008,MONDAY,57
+Oil Change,Kia,Seltos,2014,SUNDAY,40
+Engine Service,Ford,EcoSport,2026,TUESDAY,92
+Battery Replacement,Ford,EcoSport,2023,FRIDAY,38
+Oil Change,Honda,Elevate,2012,MONDAY,35
+Wheel Alignment,Maruti Suzuki,Brezza,2013,SUNDAY,65
+Transmission Service,Maruti Suzuki,Swift,2011,THURSDAY,128
+General Inspection,Honda,Amaze,2018,SUNDAY,45
+AC Repair,Mahindra,XUV700,2026,FRIDAY,82
+Tire Replacement,Hyundai,Creta,2018,MONDAY,56
+General Inspection,Toyota,Innova,2021,TUESDAY,41
+Diagnostics,Honda,Elevate,2009,TUESDAY,58
+General Inspection,Kia,Seltos,2008,THURSDAY,48
+General Inspection,Toyota,Glanza,2023,SATURDAY,48
+Battery Replacement,Honda,City,2016,FRIDAY,39
+Battery Replacement,Hyundai,Creta,2023,FRIDAY,39
+General Inspection,Toyota,Glanza,2021,MONDAY,40
+Engine Service,Maruti Suzuki,Ertiga,2025,FRIDAY,94
+Tire Replacement,Ford,EcoSport,2016,MONDAY,53
+Diagnostics,Ford,EcoSport,2013,SATURDAY,82
+Oil Change,Hyundai,Venue,2017,TUESDAY,31
+Diagnostics,Hyundai,i20,2009,FRIDAY,70
+Battery Replacement,Tata,Nexon,2023,FRIDAY,44
+Diagnostics,Mahindra,Scorpio,2014,SATURDAY,80
+Brake Service,Honda,City,2018,TUESDAY,74
+Tire Replacement,Kia,Seltos,2010,THURSDAY,57
+Transmission Service,Ford,EcoSport,2021,TUESDAY,131
+Battery Replacement,Kia,Sonet,2012,THURSDAY,46
+Tire Replacement,Mahindra,Scorpio,2014,WEDNESDAY,56
+Oil Change,Toyota,Innova,2011,SUNDAY,42
+Diagnostics,Ford,Figo,2013,SUNDAY,64
+Transmission Service,Tata,Altroz,2026,FRIDAY,147
+Tire Replacement,Maruti Suzuki,Brezza,2024,THURSDAY,48
+Diagnostics,Ford,Figo,2008,SATURDAY,72
+AC Repair,Honda,City,2018,THURSDAY,64
+Transmission Service,Tata,Nexon,2021,MONDAY,115
+Oil Change,Ford,EcoSport,2021,FRIDAY,29
+General Inspection,Ford,Figo,2015,MONDAY,50
+Engine Service,Hyundai,Verna,2014,TUESDAY,99
+General Inspection,Hyundai,Verna,2017,TUESDAY,47
+Diagnostics,Hyundai,Verna,2022,SUNDAY,69
+Battery Replacement,Mahindra,Bolero,2022,SATURDAY,46
+Oil Change,Maruti Suzuki,Brezza,2018,FRIDAY,38
+Wheel Alignment,Honda,Elevate,2010,FRIDAY,63
+Brake Service,Hyundai,Venue,2009,MONDAY,66
+Oil Change,Mahindra,Scorpio,2013,SATURDAY,42
+Engine Service,Maruti Suzuki,Baleno,2012,WEDNESDAY,105
+Diagnostics,Honda,Elevate,2015,WEDNESDAY,65
+Brake Service,Toyota,Fortuner,2021,WEDNESDAY,69
+Diagnostics,Ford,EcoSport,2023,SATURDAY,67
+Engine Service,Toyota,Glanza,2019,SUNDAY,101
+General Inspection,Honda,Amaze,2010,MONDAY,42
+AC Repair,Tata,Harrier,2010,MONDAY,84
+Battery Replacement,Ford,EcoSport,2014,FRIDAY,44
+Oil Change,Toyota,Glanza,2025,TUESDAY,27
+Oil Change,Toyota,Innova,2010,MONDAY,36
+Tire Replacement,Mahindra,Scorpio,2026,WEDNESDAY,41
+Diagnostics,Ford,Figo,2017,FRIDAY,56
+Battery Replacement,Toyota,Innova,2016,TUESDAY,30
+Oil Change,Tata,Harrier,2017,THURSDAY,34
+Battery Replacement,Tata,Harrier,2013,TUESDAY,43
+Battery Replacement,Tata,Altroz,2011,MONDAY,37
+Brake Service,Tata,Punch,2016,WEDNESDAY,70
+Oil Change,Mahindra,Scorpio,2012,WEDNESDAY,39
+Diagnostics,Tata,Harrier,2011,MONDAY,60
+Battery Replacement,Ford,Figo,2012,MONDAY,43
+Engine Service,Mahindra,Bolero,2017,THURSDAY,119
+Transmission Service,Tata,Punch,2018,SATURDAY,132
+General Inspection,Ford,EcoSport,2012,SATURDAY,50
+AC Repair,Honda,Amaze,2019,MONDAY,74
+Brake Service,Hyundai,Creta,2026,FRIDAY,65
+Wheel Alignment,Honda,City,2010,FRIDAY,73
+Diagnostics,Maruti Suzuki,Brezza,2014,THURSDAY,60
+Oil Change,Mahindra,Scorpio,2012,SATURDAY,44
+AC Repair,Mahindra,Scorpio,2019,MONDAY,74
+Diagnostics,Maruti Suzuki,Baleno,2022,SATURDAY,71
+AC Repair,Ford,Figo,2013,SUNDAY,87
+AC Repair,Tata,Nexon,2012,TUESDAY,67
+Wheel Alignment,Ford,Figo,2010,FRIDAY,62
+AC Repair,Toyota,Glanza,2013,FRIDAY,82
+Diagnostics,Tata,Altroz,2013,SUNDAY,65
+Oil Change,Toyota,Fortuner,2017,THURSDAY,36
+Engine Service,Ford,EcoSport,2008,SUNDAY,124
+Diagnostics,Maruti Suzuki,Ertiga,2021,TUESDAY,58
+Diagnostics,Honda,City,2011,SUNDAY,68
+General Inspection,Mahindra,Bolero,2023,FRIDAY,56
+AC Repair,Toyota,Fortuner,2023,SATURDAY,86
+Transmission Service,Hyundai,Venue,2013,FRIDAY,135
+Oil Change,Tata,Harrier,2022,SATURDAY,37
+Wheel Alignment,Mahindra,Scorpio,2019,MONDAY,56
+Wheel Alignment,Toyota,Fortuner,2010,FRIDAY,64
+General Inspection,Tata,Harrier,2018,SUNDAY,54
+Wheel Alignment,Toyota,Fortuner,2019,MONDAY,50
+Battery Replacement,Hyundai,Creta,2024,WEDNESDAY,35
+Brake Service,Ford,Figo,2018,TUESDAY,69
+Tire Replacement,Honda,Elevate,2024,SUNDAY,52
+Engine Service,Maruti Suzuki,Brezza,2022,MONDAY,98
+Oil Change,Ford,Figo,2017,SATURDAY,39
+Brake Service,Tata,Punch,2024,SUNDAY,71
+Wheel Alignment,Hyundai,i20,2015,TUESDAY,56
+Battery Replacement,Honda,Amaze,2012,TUESDAY,42
+General Inspection,Maruti Suzuki,Swift,2023,SUNDAY,47
+AC Repair,Hyundai,Creta,2011,MONDAY,85
+Oil Change,Ford,EcoSport,2016,MONDAY,30
+General Inspection,Toyota,Fortuner,2008,SUNDAY,54
+Transmission Service,Honda,Elevate,2014,TUESDAY,141
+Brake Service,Hyundai,i20,2012,SUNDAY,77
+Transmission Service,Mahindra,Scorpio,2013,SUNDAY,143
+Engine Service,Honda,Elevate,2026,MONDAY,100
+Oil Change,Honda,Elevate,2014,WEDNESDAY,37
+Battery Replacement,Hyundai,i20,2014,FRIDAY,44
+Transmission Service,Tata,Punch,2011,TUESDAY,131
+Brake Service,Kia,Sonet,2014,FRIDAY,72
+Brake Service,Maruti Suzuki,Brezza,2011,FRIDAY,77
+Battery Replacement,Ford,Figo,2017,FRIDAY,40
+Diagnostics,Maruti Suzuki,Brezza,2017,THURSDAY,59
+Transmission Service,Toyota,Fortuner,2022,TUESDAY,116
+AC Repair,Honda,City,2023,SATURDAY,81
+Brake Service,Tata,Nexon,2023,SATURDAY,77
+General Inspection,Maruti Suzuki,Baleno,2020,THURSDAY,46
+Transmission Service,Maruti Suzuki,Baleno,2010,WEDNESDAY,152
+Transmission Service,Kia,Seltos,2015,SUNDAY,148
+AC Repair,Ford,Figo,2026,FRIDAY,72
+AC Repair,Mahindra,Scorpio,2020,THURSDAY,87
+Engine Service,Toyota,Innova,2022,MONDAY,102
+Tire Replacement,Tata,Nexon,2011,SATURDAY,65
+Oil Change,Maruti Suzuki,Brezza,2008,TUESDAY,32
+Battery Replacement,Toyota,Fortuner,2011,SUNDAY,49
+General Inspection,Ford,Figo,2014,WEDNESDAY,43
+Wheel Alignment,Mahindra,Bolero,2025,MONDAY,46
+Oil Change,Kia,Seltos,2020,THURSDAY,31
+Diagnostics,Hyundai,i20,2013,FRIDAY,72
+Wheel Alignment,Tata,Punch,2021,TUESDAY,51
+General Inspection,Ford,Figo,2023,FRIDAY,47
+Battery Replacement,Hyundai,Verna,2016,THURSDAY,36
+Brake Service,Toyota,Glanza,2009,MONDAY,68
+Transmission Service,Hyundai,Creta,2019,WEDNESDAY,136
+Brake Service,Kia,Seltos,2021,WEDNESDAY,56
+Brake Service,Kia,Sonet,2009,SATURDAY,82
+Wheel Alignment,Maruti Suzuki,Swift,2017,MONDAY,59
+Brake Service,Tata,Nexon,2025,WEDNESDAY,69
+AC Repair,Kia,Sonet,2008,SATURDAY,97
+Diagnostics,Hyundai,Venue,2020,FRIDAY,56
+Diagnostics,Maruti Suzuki,Baleno,2018,THURSDAY,65
+Engine Service,Mahindra,XUV700,2017,WEDNESDAY,106
+General Inspection,Honda,Amaze,2016,MONDAY,44
+Wheel Alignment,Kia,Seltos,2010,SATURDAY,69
+Brake Service,Toyota,Innova,2026,SUNDAY,64
+Engine Service,Ford,Figo,2014,WEDNESDAY,107
+Wheel Alignment,Toyota,Glanza,2025,WEDNESDAY,44
+Tire Replacement,Kia,Sonet,2016,FRIDAY,46
+Engine Service,Tata,Nexon,2024,SUNDAY,100
+Battery Replacement,Ford,EcoSport,2022,WEDNESDAY,41
+Transmission Service,Kia,Seltos,2024,TUESDAY,117
+Brake Service,Ford,EcoSport,2015,TUESDAY,68
+AC Repair,Kia,Sonet,2010,SATURDAY,83
+Tire Replacement,Kia,Sonet,2017,SATURDAY,61
+Tire Replacement,Kia,Seltos,2011,TUESDAY,59
+Tire Replacement,Hyundai,Creta,2017,THURSDAY,36
+AC Repair,Hyundai,Creta,2013,WEDNESDAY,83
+Battery Replacement,Hyundai,Venue,2016,SATURDAY,40
+Oil Change,Ford,EcoSport,2009,SUNDAY,38
+General Inspection,Mahindra,Bolero,2017,SUNDAY,58
+Brake Service,Maruti Suzuki,Brezza,2012,TUESDAY,76
+General Inspection,Maruti Suzuki,Ertiga,2023,MONDAY,42
+Brake Service,Mahindra,Bolero,2020,SUNDAY,74
+Tire Replacement,Kia,Seltos,2012,MONDAY,58
+Diagnostics,Kia,Sonet,2026,MONDAY,68
+Diagnostics,Mahindra,Bolero,2011,WEDNESDAY,59
+Tire Replacement,Toyota,Innova,2019,THURSDAY,47
+Brake Service,Toyota,Innova,2009,SUNDAY,77
+Oil Change,Honda,Amaze,2025,THURSDAY,25
+Wheel Alignment,Mahindra,Bolero,2011,FRIDAY,69
+AC Repair,Hyundai,Verna,2016,WEDNESDAY,68
+General Inspection,Honda,Amaze,2014,SUNDAY,57
+Brake Service,Kia,Seltos,2016,SUNDAY,65
+General Inspection,Ford,Figo,2021,SUNDAY,45
+General Inspection,Tata,Harrier,2024,MONDAY,45
+Brake Service,Kia,Sonet,2022,SATURDAY,74
+Battery Replacement,Ford,EcoSport,2008,THURSDAY,41
+Tire Replacement,Toyota,Glanza,2026,MONDAY,48
+Battery Replacement,Kia,Sonet,2022,THURSDAY,38
+Battery Replacement,Toyota,Innova,2026,SUNDAY,37
+General Inspection,Kia,Sonet,2013,THURSDAY,49
+AC Repair,Honda,City,2008,FRIDAY,81
+General Inspection,Ford,EcoSport,2016,SATURDAY,47
+Battery Replacement,Hyundai,Verna,2021,FRIDAY,39
+Brake Service,Tata,Nexon,2008,SATURDAY,84
+Engine Service,Kia,Sonet,2023,MONDAY,94
+Wheel Alignment,Toyota,Fortuner,2023,THURSDAY,55
+Battery Replacement,Kia,Seltos,2014,SUNDAY,43
+AC Repair,Tata,Punch,2012,MONDAY,92
+Wheel Alignment,Toyota,Innova,2022,TUESDAY,47
+Diagnostics,Maruti Suzuki,Swift,2023,TUESDAY,63
+Brake Service,Kia,Seltos,2020,SATURDAY,67
+General Inspection,Maruti Suzuki,Swift,2009,WEDNESDAY,50
+Tire Replacement,Ford,Figo,2009,MONDAY,53
+Wheel Alignment,Kia,Sonet,2012,FRIDAY,68
+Oil Change,Tata,Harrier,2013,FRIDAY,34
+Diagnostics,Tata,Nexon,2018,SATURDAY,70
+Engine Service,Kia,Seltos,2016,MONDAY,91
+Diagnostics,Toyota,Fortuner,2019,THURSDAY,74
+Wheel Alignment,Toyota,Fortuner,2016,FRIDAY,55
+Brake Service,Ford,EcoSport,2025,SUNDAY,78
+Diagnostics,Hyundai,Creta,2012,MONDAY,64
+Wheel Alignment,Tata,Punch,2021,MONDAY,54
+Diagnostics,Hyundai,Verna,2019,SATURDAY,63
+General Inspection,Tata,Nexon,2019,MONDAY,42
+Tire Replacement,Toyota,Innova,2013,SATURDAY,56
+Transmission Service,Honda,Elevate,2008,FRIDAY,148
+Transmission Service,Tata,Punch,2010,TUESDAY,144
+Brake Service,Hyundai,Venue,2011,THURSDAY,62
+Brake Service,Maruti Suzuki,Ertiga,2012,MONDAY,80
+Diagnostics,Ford,Figo,2008,WEDNESDAY,70
+Oil Change,Ford,Figo,2026,TUESDAY,30
+Wheel Alignment,Mahindra,XUV700,2010,FRIDAY,63
+Transmission Service,Kia,Seltos,2020,WEDNESDAY,142
+AC Repair,Maruti Suzuki,Swift,2014,TUESDAY,96
+AC Repair,Kia,Sonet,2012,MONDAY,78
+Wheel Alignment,Tata,Harrier,2011,SUNDAY,73
+Brake Service,Honda,Amaze,2022,THURSDAY,55
+AC Repair,Maruti Suzuki,Brezza,2019,FRIDAY,81
+Battery Replacement,Kia,Sonet,2010,MONDAY,32
+Tire Replacement,Tata,Punch,2024,SATURDAY,52
+Engine Service,Maruti Suzuki,Ertiga,2022,THURSDAY,109
+Wheel Alignment,Tata,Altroz,2017,SUNDAY,65
+Tire Replacement,Kia,Sonet,2026,MONDAY,35
+Engine Service,Maruti Suzuki,Brezza,2021,MONDAY,89
+Diagnostics,Toyota,Glanza,2016,FRIDAY,70
+General Inspection,Ford,EcoSport,2013,SUNDAY,53
+AC Repair,Hyundai,i20,2021,SATURDAY,83
+Diagnostics,Ford,Figo,2018,SUNDAY,73
+Battery Replacement,Honda,City,2010,SATURDAY,50
+General Inspection,Kia,Seltos,2008,THURSDAY,47
+General Inspection,Hyundai,Creta,2023,THURSDAY,39
+Transmission Service,Ford,Figo,2019,SATURDAY,127
+AC Repair,Toyota,Innova,2012,TUESDAY,85
+Oil Change,Honda,City,2014,THURSDAY,34
+Battery Replacement,Honda,Amaze,2025,TUESDAY,41
+Battery Replacement,Ford,Figo,2008,MONDAY,44
+Battery Replacement,Tata,Punch,2023,THURSDAY,40
+Tire Replacement,Honda,Amaze,2026,SUNDAY,50
+AC Repair,Hyundai,Venue,2008,MONDAY,75
+AC Repair,Ford,Figo,2009,THURSDAY,75
+AC Repair,Ford,Figo,2015,SATURDAY,92
+Transmission Service,Mahindra,Bolero,2010,WEDNESDAY,142
+AC Repair,Ford,EcoSport,2023,FRIDAY,82
+AC Repair,Hyundai,Creta,2017,SATURDAY,87
+Tire Replacement,Ford,Figo,2022,TUESDAY,41
+Brake Service,Ford,EcoSport,2017,SATURDAY,76
+AC Repair,Kia,Sonet,2023,SUNDAY,84
+Tire Replacement,Toyota,Fortuner,2010,SATURDAY,61
+Diagnostics,Tata,Altroz,2014,TUESDAY,61
+AC Repair,Ford,Figo,2015,TUESDAY,77
+Engine Service,Hyundai,i20,2019,WEDNESDAY,94
+Engine Service,Hyundai,i20,2018,THURSDAY,103
+General Inspection,Honda,City,2025,TUESDAY,28
+Brake Service,Hyundai,Venue,2012,SUNDAY,79
+Engine Service,Maruti Suzuki,Swift,2022,SUNDAY,87
+General Inspection,Maruti Suzuki,Swift,2025,MONDAY,43
+Engine Service,Maruti Suzuki,Baleno,2011,SUNDAY,119
+Wheel Alignment,Ford,Figo,2011,TUESDAY,64
+Brake Service,Mahindra,XUV700,2011,SUNDAY,83
+Oil Change,Honda,Amaze,2018,WEDNESDAY,40
+Engine Service,Tata,Nexon,2016,WEDNESDAY,99
+Tire Replacement,Tata,Punch,2015,TUESDAY,46
+AC Repair,Kia,Sonet,2022,SUNDAY,70
+Oil Change,Ford,EcoSport,2008,SATURDAY,40
+Engine Service,Maruti Suzuki,Swift,2018,WEDNESDAY,86
+AC Repair,Hyundai,Verna,2009,SATURDAY,102
+Battery Replacement,Hyundai,Venue,2021,THURSDAY,41
+Wheel Alignment,Mahindra,Scorpio,2008,SUNDAY,60
+Wheel Alignment,Tata,Punch,2022,SATURDAY,62
+Transmission Service,Ford,Figo,2020,SUNDAY,156
+Tire Replacement,Toyota,Innova,2009,FRIDAY,52
+Battery Replacement,Toyota,Innova,2010,FRIDAY,48
+Engine Service,Toyota,Fortuner,2018,SUNDAY,107
+Engine Service,Toyota,Innova,2017,SATURDAY,113
+AC Repair,Maruti Suzuki,Swift,2019,WEDNESDAY,71
+Oil Change,Maruti Suzuki,Brezza,2017,FRIDAY,33
+Oil Change,Ford,Figo,2015,SUNDAY,37
+Engine Service,Honda,Amaze,2017,WEDNESDAY,88
+Transmission Service,Tata,Punch,2024,SATURDAY,141
+Transmission Service,Honda,Amaze,2022,MONDAY,136
+Battery Replacement,Kia,Sonet,2010,MONDAY,48
+Diagnostics,Honda,Amaze,2010,WEDNESDAY,69
+Engine Service,Kia,Sonet,2016,FRIDAY,96
+Diagnostics,Ford,Figo,2013,TUESDAY,64
+Engine Service,Tata,Punch,2022,TUESDAY,105
+Engine Service,Maruti Suzuki,Baleno,2022,THURSDAY,92
+Oil Change,Tata,Harrier,2011,FRIDAY,38
+Brake Service,Toyota,Innova,2024,TUESDAY,59
+General Inspection,Mahindra,Scorpio,2019,WEDNESDAY,43
+Battery Replacement,Tata,Punch,2009,WEDNESDAY,42
+Wheel Alignment,Honda,City,2023,MONDAY,55
+Oil Change,Kia,Sonet,2026,WEDNESDAY,32
+Transmission Service,Ford,Figo,2020,THURSDAY,140
+Battery Replacement,Tata,Punch,2022,SATURDAY,36
+Diagnostics,Tata,Harrier,2010,SUNDAY,66
+AC Repair,Honda,Amaze,2018,FRIDAY,74
+Oil Change,Ford,Figo,2010,SUNDAY,39
+Wheel Alignment,Maruti Suzuki,Swift,2014,FRIDAY,61
+Engine Service,Hyundai,Creta,2023,FRIDAY,102
+Engine Service,Tata,Nexon,2016,SUNDAY,108
+Tire Replacement,Honda,Elevate,2026,THURSDAY,50
+Brake Service,Kia,Seltos,2023,SUNDAY,72
+Oil Change,Mahindra,Scorpio,2013,THURSDAY,38
+AC Repair,Toyota,Innova,2011,MONDAY,84
+Engine Service,Tata,Harrier,2012,TUESDAY,105
+Wheel Alignment,Kia,Seltos,2009,FRIDAY,64
+Brake Service,Tata,Nexon,2009,WEDNESDAY,67
+AC Repair,Mahindra,Scorpio,2020,SUNDAY,86
+General Inspection,Hyundai,Creta,2015,SUNDAY,47
+Engine Service,Kia,Seltos,2016,MONDAY,97
+Brake Service,Ford,Figo,2010,THURSDAY,79
+Oil Change,Toyota,Fortuner,2026,SATURDAY,35
+General Inspection,Honda,Elevate,2012,WEDNESDAY,43
+Engine Service,Honda,City,2019,FRIDAY,98
+Battery Replacement,Honda,Elevate,2021,FRIDAY,39
+Diagnostics,Toyota,Fortuner,2013,MONDAY,64
+Oil Change,Ford,Figo,2016,SUNDAY,32
+Tire Replacement,Toyota,Innova,2013,SATURDAY,44
+Engine Service,Maruti Suzuki,Ertiga,2010,THURSDAY,101
+Engine Service,Toyota,Glanza,2014,FRIDAY,92
+Engine Service,Mahindra,Bolero,2018,SATURDAY,112
+Diagnostics,Toyota,Innova,2018,WEDNESDAY,69
+Tire Replacement,Ford,Figo,2008,SATURDAY,68
+Transmission Service,Ford,EcoSport,2008,SATURDAY,183
+Battery Replacement,Kia,Sonet,2020,FRIDAY,46
+General Inspection,Hyundai,Verna,2011,WEDNESDAY,51
+AC Repair,Mahindra,Scorpio,2013,SUNDAY,90
+Oil Change,Maruti Suzuki,Brezza,2019,TUESDAY,28
+Diagnostics,Hyundai,Creta,2008,SUNDAY,69
+Brake Service,Honda,City,2017,SUNDAY,86
+Tire Replacement,Honda,Amaze,2019,MONDAY,47
+Transmission Service,Honda,City,2014,SUNDAY,177
+AC Repair,Maruti Suzuki,Ertiga,2026,FRIDAY,65
+Transmission Service,Tata,Nexon,2026,TUESDAY,121
+General Inspection,Tata,Harrier,2026,SUNDAY,45
+Wheel Alignment,Honda,Elevate,2008,SATURDAY,74
+Engine Service,Toyota,Fortuner,2025,THURSDAY,101
+Oil Change,Mahindra,Scorpio,2021,WEDNESDAY,32
+General Inspection,Ford,Figo,2019,FRIDAY,46
+Tire Replacement,Hyundai,Venue,2021,FRIDAY,41
+Diagnostics,Mahindra,XUV700,2020,TUESDAY,53
+Oil Change,Honda,Elevate,2021,MONDAY,37
+Tire Replacement,Honda,City,2018,WEDNESDAY,55
+Oil Change,Ford,Figo,2008,FRIDAY,39
+Brake Service,Toyota,Innova,2011,THURSDAY,71
+Oil Change,Mahindra,Bolero,2015,MONDAY,37
+Transmission Service,Ford,EcoSport,2022,FRIDAY,155
+Oil Change,Kia,Sonet,2010,SUNDAY,45
+Battery Replacement,Hyundai,Verna,2009,WEDNESDAY,38
+General Inspection,Hyundai,i20,2017,SUNDAY,46
+AC Repair,Kia,Seltos,2021,TUESDAY,82
+Transmission Service,Hyundai,Verna,2020,THURSDAY,113
+AC Repair,Maruti Suzuki,Ertiga,2008,THURSDAY,73
+General Inspection,Maruti Suzuki,Swift,2010,FRIDAY,49
+Tire Replacement,Tata,Harrier,2019,THURSDAY,43
+Battery Replacement,Honda,City,2009,MONDAY,42
+Battery Replacement,Toyota,Fortuner,2021,FRIDAY,45
+Wheel Alignment,Tata,Altroz,2023,WEDNESDAY,50
+Transmission Service,Mahindra,Scorpio,2019,MONDAY,113
+Battery Replacement,Hyundai,Creta,2024,SUNDAY,39
+Engine Service,Hyundai,Verna,2019,TUESDAY,110
+Tire Replacement,Maruti Suzuki,Ertiga,2014,SATURDAY,58
+Diagnostics,Ford,Figo,2026,FRIDAY,65
+AC Repair,Mahindra,XUV700,2011,THURSDAY,80
+Oil Change,Ford,EcoSport,2008,SATURDAY,41
+Transmission Service,Honda,City,2023,SATURDAY,152
+Brake Service,Kia,Seltos,2020,TUESDAY,65
+Oil Change,Maruti Suzuki,Ertiga,2008,FRIDAY,37
+General Inspection,Tata,Harrier,2022,TUESDAY,36
+Brake Service,Hyundai,i20,2014,TUESDAY,59
+Wheel Alignment,Tata,Altroz,2016,SATURDAY,69
+Tire Replacement,Tata,Altroz,2008,TUESDAY,61
+Wheel Alignment,Maruti Suzuki,Swift,2012,THURSDAY,53
+Brake Service,Honda,Amaze,2022,TUESDAY,53
+Brake Service,Mahindra,Bolero,2013,FRIDAY,94
+AC Repair,Maruti Suzuki,Swift,2012,TUESDAY,78
+Tire Replacement,Honda,Elevate,2020,SATURDAY,51
+Tire Replacement,Hyundai,Creta,2025,WEDNESDAY,50
+Battery Replacement,Mahindra,XUV700,2009,SATURDAY,50
+Engine Service,Ford,EcoSport,2010,SUNDAY,99
+Diagnostics,Maruti Suzuki,Baleno,2024,THURSDAY,56
+Engine Service,Mahindra,Scorpio,2024,THURSDAY,79
+Battery Replacement,Mahindra,Bolero,2019,FRIDAY,38
+Diagnostics,Ford,Figo,2026,THURSDAY,47
+Transmission Service,Hyundai,Creta,2015,TUESDAY,127
+Tire Replacement,Toyota,Glanza,2020,FRIDAY,52
+Battery Replacement,Mahindra,Scorpio,2025,MONDAY,36
+Diagnostics,Mahindra,XUV700,2026,MONDAY,57
+Diagnostics,Mahindra,Scorpio,2022,THURSDAY,53
+Diagnostics,Mahindra,Scorpio,2020,MONDAY,61
+Battery Replacement,Ford,EcoSport,2016,SATURDAY,52
+Wheel Alignment,Maruti Suzuki,Ertiga,2015,MONDAY,62
+General Inspection,Maruti Suzuki,Ertiga,2009,FRIDAY,50
+Brake Service,Toyota,Glanza,2016,TUESDAY,71
+Transmission Service,Tata,Harrier,2008,SUNDAY,149
+AC Repair,Kia,Seltos,2023,SATURDAY,96
+Engine Service,Tata,Punch,2015,TUESDAY,101
+Tire Replacement,Ford,Figo,2018,SUNDAY,51
+General Inspection,Mahindra,XUV700,2021,SUNDAY,51
+Diagnostics,Ford,EcoSport,2019,TUESDAY,58
+Transmission Service,Tata,Harrier,2008,THURSDAY,150
+Brake Service,Honda,Amaze,2021,SATURDAY,63
+AC Repair,Toyota,Glanza,2026,MONDAY,68
+Battery Replacement,Tata,Harrier,2026,SATURDAY,40
+Transmission Service,Kia,Sonet,2014,THURSDAY,148
+Diagnostics,Maruti Suzuki,Ertiga,2026,THURSDAY,57
+Wheel Alignment,Maruti Suzuki,Baleno,2011,SATURDAY,67
+Transmission Service,Ford,EcoSport,2013,TUESDAY,138
+General Inspection,Kia,Sonet,2014,TUESDAY,45
+Diagnostics,Hyundai,Venue,2024,MONDAY,63
+Battery Replacement,Mahindra,Scorpio,2020,TUESDAY,39
+AC Repair,Ford,EcoSport,2020,SUNDAY,82
+Tire Replacement,Tata,Altroz,2017,THURSDAY,53
+Battery Replacement,Toyota,Fortuner,2014,FRIDAY,37
+Diagnostics,Toyota,Innova,2008,TUESDAY,55
+Transmission Service,Honda,Elevate,2018,FRIDAY,146
+Diagnostics,Ford,Figo,2026,MONDAY,55
+Diagnostics,Mahindra,Bolero,2017,THURSDAY,56
+Transmission Service,Tata,Punch,2015,TUESDAY,152
+Diagnostics,Kia,Seltos,2026,MONDAY,50
+AC Repair,Hyundai,Creta,2013,WEDNESDAY,87
+General Inspection,Honda,Amaze,2021,SUNDAY,43
+Engine Service,Maruti Suzuki,Ertiga,2010,SUNDAY,129
+Brake Service,Kia,Sonet,2013,WEDNESDAY,76
+Tire Replacement,Hyundai,Verna,2008,MONDAY,49
+Diagnostics,Kia,Sonet,2020,SUNDAY,59
+Tire Replacement,Kia,Seltos,2008,WEDNESDAY,61
+Brake Service,Ford,Figo,2022,MONDAY,72
+General Inspection,Honda,Elevate,2022,TUESDAY,39
+Battery Replacement,Tata,Nexon,2011,TUESDAY,42
+Wheel Alignment,Maruti Suzuki,Brezza,2013,MONDAY,57
+Wheel Alignment,Tata,Punch,2019,TUESDAY,54
+Tire Replacement,Hyundai,Creta,2022,SATURDAY,60
+Engine Service,Maruti Suzuki,Brezza,2017,THURSDAY,103
+Oil Change,Hyundai,i20,2020,SUNDAY,36
+Tire Replacement,Honda,City,2008,THURSDAY,56
+Oil Change,Hyundai,Venue,2014,SATURDAY,38
+General Inspection,Tata,Altroz,2009,THURSDAY,45
+Engine Service,Maruti Suzuki,Ertiga,2018,FRIDAY,95
+Engine Service,Kia,Sonet,2011,TUESDAY,97
+Tire Replacement,Maruti Suzuki,Ertiga,2018,TUESDAY,56
+Oil Change,Kia,Seltos,2022,TUESDAY,32
+General Inspection,Toyota,Fortuner,2019,MONDAY,46
+Wheel Alignment,Ford,EcoSport,2025,SUNDAY,57
+Transmission Service,Tata,Harrier,2011,FRIDAY,141
+AC Repair,Tata,Harrier,2013,SATURDAY,102
+Brake Service,Ford,EcoSport,2018,MONDAY,60
+AC Repair,Honda,Elevate,2026,SATURDAY,75
+Oil Change,Honda,City,2011,WEDNESDAY,36
+Tire Replacement,Maruti Suzuki,Swift,2012,WEDNESDAY,57
+Diagnostics,Toyota,Innova,2012,THURSDAY,65
+Transmission Service,Ford,Figo,2012,WEDNESDAY,143
+Brake Service,Hyundai,Verna,2017,SUNDAY,85
+Brake Service,Mahindra,XUV700,2014,FRIDAY,74
+Oil Change,Honda,Elevate,2015,FRIDAY,38
+Battery Replacement,Ford,EcoSport,2010,SUNDAY,42
+Diagnostics,Maruti Suzuki,Baleno,2009,SATURDAY,88
+Battery Replacement,Maruti Suzuki,Baleno,2026,FRIDAY,36
+Tire Replacement,Honda,Elevate,2010,THURSDAY,52
+Tire Replacement,Honda,Amaze,2013,FRIDAY,51
+Tire Replacement,Toyota,Glanza,2026,THURSDAY,48
+Diagnostics,Maruti Suzuki,Ertiga,2020,THURSDAY,58
+Battery Replacement,Ford,Figo,2021,FRIDAY,36
+Battery Replacement,Ford,EcoSport,2020,THURSDAY,35
+General Inspection,Toyota,Fortuner,2025,TUESDAY,38
+AC Repair,Ford,Figo,2022,WEDNESDAY,72
+AC Repair,Ford,EcoSport,2018,TUESDAY,76
+Tire Replacement,Hyundai,i20,2024,SATURDAY,50
+Brake Service,Ford,Figo,2021,THURSDAY,69
+Diagnostics,Toyota,Fortuner,2026,MONDAY,54
+AC Repair,Hyundai,i20,2020,FRIDAY,85
+Wheel Alignment,Mahindra,Bolero,2023,SATURDAY,67
+Brake Service,Hyundai,Verna,2021,SATURDAY,73
+Brake Service,Hyundai,Creta,2016,FRIDAY,77
+Diagnostics,Tata,Harrier,2015,FRIDAY,58
+Battery Replacement,Hyundai,i20,2010,SATURDAY,45
+AC Repair,Kia,Seltos,2024,TUESDAY,75
+AC Repair,Toyota,Fortuner,2017,FRIDAY,78
+Engine Service,Kia,Sonet,2021,SUNDAY,115
+General Inspection,Maruti Suzuki,Ertiga,2012,WEDNESDAY,42
+Tire Replacement,Kia,Sonet,2008,TUESDAY,53
+General Inspection,Kia,Sonet,2017,SATURDAY,51
+AC Repair,Tata,Altroz,2019,TUESDAY,75
+Battery Replacement,Maruti Suzuki,Brezza,2026,SUNDAY,36
+Tire Replacement,Tata,Altroz,2009,SATURDAY,64
+Wheel Alignment,Kia,Sonet,2011,SUNDAY,73
+Battery Replacement,Maruti Suzuki,Ertiga,2010,THURSDAY,42
+Oil Change,Honda,Amaze,2023,SATURDAY,37
+General Inspection,Hyundai,i20,2016,SUNDAY,55
+Oil Change,Maruti Suzuki,Baleno,2024,SUNDAY,33
+Oil Change,Kia,Sonet,2023,THURSDAY,31
+Brake Service,Mahindra,Bolero,2018,WEDNESDAY,58
+Tire Replacement,Mahindra,Bolero,2020,THURSDAY,39
+Brake Service,Maruti Suzuki,Swift,2022,SUNDAY,59
+AC Repair,Tata,Nexon,2011,SUNDAY,74
+Tire Replacement,Mahindra,Scorpio,2023,FRIDAY,47
+AC Repair,Honda,City,2018,MONDAY,67
+Brake Service,Ford,EcoSport,2023,THURSDAY,53
+Transmission Service,Maruti Suzuki,Ertiga,2021,THURSDAY,151
+General Inspection,Kia,Sonet,2014,SATURDAY,52
+Battery Replacement,Hyundai,Creta,2023,SUNDAY,46
+Engine Service,Ford,EcoSport,2022,MONDAY,103
+Diagnostics,Honda,City,2014,TUESDAY,63
+General Inspection,Maruti Suzuki,Brezza,2008,TUESDAY,41
+Brake Service,Kia,Sonet,2015,SATURDAY,78
+General Inspection,Tata,Punch,2010,SUNDAY,56
+Brake Service,Honda,Elevate,2010,SATURDAY,74
+AC Repair,Kia,Seltos,2015,WEDNESDAY,92
+General Inspection,Toyota,Innova,2011,MONDAY,44
+Tire Replacement,Maruti Suzuki,Ertiga,2012,SUNDAY,63
+Brake Service,Kia,Seltos,2017,MONDAY,63
+AC Repair,Kia,Sonet,2019,SUNDAY,81
+Battery Replacement,Honda,City,2020,MONDAY,34
+Battery Replacement,Toyota,Innova,2023,SATURDAY,41
+Diagnostics,Tata,Harrier,2012,SATURDAY,69
+Oil Change,Mahindra,Scorpio,2024,SATURDAY,31
+General Inspection,Toyota,Fortuner,2026,THURSDAY,38
+Wheel Alignment,Kia,Seltos,2018,TUESDAY,52
+Tire Replacement,Honda,Elevate,2009,SUNDAY,60
+AC Repair,Toyota,Fortuner,2013,MONDAY,67
+Engine Service,Kia,Sonet,2021,SATURDAY,101
+AC Repair,Kia,Seltos,2024,SATURDAY,84
+Wheel Alignment,Toyota,Fortuner,2014,SATURDAY,69
+Battery Replacement,Mahindra,Bolero,2009,SUNDAY,43
+Wheel Alignment,Ford,EcoSport,2026,TUESDAY,45
+Battery Replacement,Honda,City,2014,SATURDAY,47
+Oil Change,Mahindra,Bolero,2026,MONDAY,26
+Battery Replacement,Kia,Sonet,2013,MONDAY,31
+General Inspection,Mahindra,Scorpio,2013,MONDAY,50
+Brake Service,Kia,Seltos,2020,TUESDAY,69
+Oil Change,Maruti Suzuki,Baleno,2020,THURSDAY,31
+Battery Replacement,Kia,Seltos,2022,SUNDAY,45
+AC Repair,Toyota,Fortuner,2022,WEDNESDAY,77
+General Inspection,Ford,EcoSport,2008,FRIDAY,50
+Transmission Service,Ford,Figo,2011,SUNDAY,146
+AC Repair,Toyota,Fortuner,2012,MONDAY,78
+Brake Service,Maruti Suzuki,Baleno,2020,SUNDAY,69
+Engine Service,Ford,EcoSport,2024,SUNDAY,93
+Transmission Service,Maruti Suzuki,Baleno,2011,TUESDAY,154
+Oil Change,Ford,Figo,2011,MONDAY,32
+Battery Replacement,Honda,Elevate,2013,MONDAY,34
+Oil Change,Maruti Suzuki,Swift,2024,WEDNESDAY,28
+Brake Service,Tata,Punch,2008,TUESDAY,66
+Engine Service,Toyota,Fortuner,2025,THURSDAY,112
+Battery Replacement,Ford,Figo,2024,WEDNESDAY,33
+General Inspection,Hyundai,Creta,2009,TUESDAY,44
+Battery Replacement,Toyota,Innova,2012,FRIDAY,38
+Wheel Alignment,Tata,Punch,2010,FRIDAY,60
+Wheel Alignment,Toyota,Glanza,2013,THURSDAY,46
+AC Repair,Tata,Altroz,2010,SATURDAY,100
+Wheel Alignment,Honda,Elevate,2019,FRIDAY,52
+Transmission Service,Tata,Punch,2012,WEDNESDAY,122
+AC Repair,Kia,Seltos,2015,MONDAY,78
+Engine Service,Kia,Seltos,2018,SATURDAY,124
+General Inspection,Mahindra,Scorpio,2016,TUESDAY,47
+Oil Change,Maruti Suzuki,Brezza,2015,THURSDAY,32
+General Inspection,Maruti Suzuki,Baleno,2024,SATURDAY,51
+Diagnostics,Maruti Suzuki,Ertiga,2026,SUNDAY,55
+Wheel Alignment,Toyota,Fortuner,2011,MONDAY,65
+AC Repair,Tata,Harrier,2025,FRIDAY,89
+Transmission Service,Kia,Sonet,2026,TUESDAY,119
+Battery Replacement,Tata,Altroz,2020,FRIDAY,45
+Wheel Alignment,Hyundai,Venue,2015,SATURDAY,59
+Battery Replacement,Ford,Figo,2022,FRIDAY,35
+Wheel Alignment,Toyota,Glanza,2024,SATURDAY,66
+Wheel Alignment,Maruti Suzuki,Ertiga,2021,SUNDAY,52
+Brake Service,Maruti Suzuki,Swift,2010,SATURDAY,82
+Transmission Service,Hyundai,i20,2017,FRIDAY,145
+Diagnostics,Hyundai,Verna,2024,SATURDAY,69
+Engine Service,Maruti Suzuki,Brezza,2008,FRIDAY,119
+Tire Replacement,Hyundai,Verna,2025,SATURDAY,44
+Engine Service,Hyundai,Verna,2013,SATURDAY,144
+Engine Service,Honda,City,2010,WEDNESDAY,112
+Oil Change,Kia,Sonet,2020,TUESDAY,29
+Brake Service,Maruti Suzuki,Ertiga,2015,SUNDAY,65
+General Inspection,Toyota,Glanza,2023,WEDNESDAY,40
+Wheel Alignment,Honda,City,2026,THURSDAY,51
+Engine Service,Hyundai,Verna,2023,MONDAY,101
+Brake Service,Hyundai,Verna,2018,WEDNESDAY,65
+Battery Replacement,Kia,Sonet,2008,MONDAY,42
+AC Repair,Ford,EcoSport,2010,FRIDAY,83
+General Inspection,Ford,EcoSport,2012,SUNDAY,51
+Wheel Alignment,Honda,Amaze,2020,WEDNESDAY,52
+Battery Replacement,Toyota,Innova,2022,SATURDAY,46
+Diagnostics,Tata,Altroz,2019,SATURDAY,64
+Tire Replacement,Maruti Suzuki,Baleno,2017,MONDAY,52
+Battery Replacement,Kia,Sonet,2018,MONDAY,40
+Diagnostics,Toyota,Innova,2021,THURSDAY,61
+Engine Service,Ford,EcoSport,2018,SUNDAY,110
+Engine Service,Kia,Seltos,2011,MONDAY,88
+Oil Change,Tata,Altroz,2019,FRIDAY,39
+Oil Change,Mahindra,Scorpio,2008,THURSDAY,36
+Diagnostics,Toyota,Glanza,2023,MONDAY,57
+Battery Replacement,Tata,Altroz,2016,SUNDAY,40
+General Inspection,Toyota,Fortuner,2015,SATURDAY,53
+General Inspection,Tata,Altroz,2026,SATURDAY,44
+Battery Replacement,Honda,City,2012,THURSDAY,51
+Battery Replacement,Kia,Seltos,2014,MONDAY,43
+Oil Change,Kia,Sonet,2024,WEDNESDAY,28
+Tire Replacement,Mahindra,Scorpio,2023,MONDAY,35
+Engine Service,Kia,Seltos,2017,MONDAY,99
+Brake Service,Kia,Seltos,2018,MONDAY,71
+Battery Replacement,Hyundai,i20,2009,SATURDAY,47
+Diagnostics,Toyota,Fortuner,2011,THURSDAY,61
+Battery Replacement,Toyota,Glanza,2019,WEDNESDAY,37
+Oil Change,Tata,Harrier,2019,SATURDAY,39
+Brake Service,Mahindra,XUV700,2016,TUESDAY,65
+General Inspection,Tata,Nexon,2009,FRIDAY,49
+Tire Replacement,Honda,Elevate,2022,MONDAY,52
+Brake Service,Toyota,Fortuner,2023,SUNDAY,72
+Tire Replacement,Tata,Nexon,2012,TUESDAY,46
+Engine Service,Mahindra,Scorpio,2022,SATURDAY,115
+General Inspection,Kia,Seltos,2023,THURSDAY,32
+Oil Change,Tata,Harrier,2012,WEDNESDAY,34
+Oil Change,Hyundai,Creta,2020,THURSDAY,30
+General Inspection,Tata,Punch,2024,THURSDAY,34
+Engine Service,Kia,Sonet,2016,TUESDAY,103
+Tire Replacement,Hyundai,Verna,2024,SATURDAY,55
+Engine Service,Toyota,Glanza,2015,WEDNESDAY,99
+Battery Replacement,Honda,City,2025,TUESDAY,31
+Wheel Alignment,Hyundai,Creta,2016,TUESDAY,55
+Tire Replacement,Honda,Elevate,2011,MONDAY,61
+Brake Service,Mahindra,Scorpio,2010,SATURDAY,85
+Battery Replacement,Kia,Sonet,2018,MONDAY,37
+Oil Change,Mahindra,XUV700,2016,TUESDAY,34
+Transmission Service,Maruti Suzuki,Brezza,2016,SUNDAY,150
+Transmission Service,Honda,Amaze,2015,WEDNESDAY,134
+AC Repair,Tata,Punch,2015,SATURDAY,100
+AC Repair,Mahindra,XUV700,2023,MONDAY,65
+Battery Replacement,Honda,Elevate,2023,SATURDAY,42
+Battery Replacement,Toyota,Innova,2017,TUESDAY,44
+Transmission Service,Honda,City,2012,MONDAY,126
+AC Repair,Honda,Amaze,2020,MONDAY,74
+Oil Change,Maruti Suzuki,Brezza,2020,MONDAY,31
+General Inspection,Hyundai,i20,2012,TUESDAY,47
+Transmission Service,Hyundai,i20,2011,FRIDAY,139
+Brake Service,Maruti Suzuki,Baleno,2012,THURSDAY,71
+Battery Replacement,Toyota,Glanza,2023,TUESDAY,29
+Tire Replacement,Hyundai,Venue,2025,MONDAY,47
+Engine Service,Toyota,Innova,2024,SUNDAY,102
+AC Repair,Tata,Nexon,2015,MONDAY,80
+Brake Service,Toyota,Innova,2020,SATURDAY,80
+General Inspection,Ford,EcoSport,2011,TUESDAY,55
+Brake Service,Maruti Suzuki,Ertiga,2011,WEDNESDAY,80
+General Inspection,Hyundai,Creta,2013,THURSDAY,41
+AC Repair,Tata,Harrier,2017,WEDNESDAY,76
+General Inspection,Toyota,Glanza,2019,WEDNESDAY,46
+General Inspection,Hyundai,Creta,2012,WEDNESDAY,41
+Battery Replacement,Kia,Sonet,2023,SUNDAY,44
+Wheel Alignment,Tata,Nexon,2018,TUESDAY,57
+Battery Replacement,Kia,Sonet,2018,THURSDAY,34
+AC Repair,Mahindra,XUV700,2015,THURSDAY,84
+AC Repair,Ford,Figo,2025,FRIDAY,77
+Transmission Service,Kia,Seltos,2010,TUESDAY,131
+Brake Service,Hyundai,Creta,2008,WEDNESDAY,57
+General Inspection,Hyundai,Venue,2019,SUNDAY,44
+Battery Replacement,Toyota,Glanza,2012,SUNDAY,51
+AC Repair,Honda,City,2015,MONDAY,64
+Battery Replacement,Maruti Suzuki,Baleno,2020,SATURDAY,52
+Brake Service,Hyundai,i20,2026,MONDAY,63
+Diagnostics,Tata,Nexon,2012,WEDNESDAY,67
+Oil Change,Kia,Seltos,2013,THURSDAY,36
+Battery Replacement,Toyota,Glanza,2021,SATURDAY,39
+Oil Change,Toyota,Innova,2012,MONDAY,40
+Oil Change,Tata,Altroz,2008,THURSDAY,38
+Diagnostics,Toyota,Fortuner,2024,WEDNESDAY,49
+Tire Replacement,Kia,Seltos,2016,MONDAY,38
+Battery Replacement,Honda,Amaze,2009,TUESDAY,40
+AC Repair,Tata,Nexon,2022,THURSDAY,69
+AC Repair,Tata,Nexon,2019,SATURDAY,97
+AC Repair,Honda,Amaze,2011,MONDAY,91
+Brake Service,Hyundai,Creta,2017,TUESDAY,70
+Engine Service,Maruti Suzuki,Swift,2014,FRIDAY,128
+Tire Replacement,Honda,Elevate,2009,TUESDAY,54
+Wheel Alignment,Maruti Suzuki,Swift,2026,SUNDAY,53
+General Inspection,Toyota,Innova,2019,SUNDAY,48
+Wheel Alignment,Kia,Seltos,2018,SUNDAY,57
+Battery Replacement,Maruti Suzuki,Ertiga,2021,SATURDAY,45
+Engine Service,Maruti Suzuki,Baleno,2008,FRIDAY,114
+Oil Change,Toyota,Innova,2012,SATURDAY,37
+Diagnostics,Maruti Suzuki,Swift,2015,TUESDAY,65
+Battery Replacement,Mahindra,Scorpio,2012,WEDNESDAY,36
+Wheel Alignment,Mahindra,Bolero,2021,MONDAY,60
+AC Repair,Honda,City,2010,TUESDAY,75
+Transmission Service,Ford,EcoSport,2008,TUESDAY,143
+General Inspection,Ford,EcoSport,2022,WEDNESDAY,38
+Battery Replacement,Toyota,Innova,2010,WEDNESDAY,38
+General Inspection,Tata,Punch,2016,THURSDAY,43
+Wheel Alignment,Ford,EcoSport,2011,FRIDAY,57
+Wheel Alignment,Kia,Sonet,2012,THURSDAY,59
+Brake Service,Mahindra,Scorpio,2010,SATURDAY,76
+Oil Change,Hyundai,Creta,2025,MONDAY,32
+Battery Replacement,Maruti Suzuki,Ertiga,2020,TUESDAY,31
+Tire Replacement,Kia,Sonet,2010,WEDNESDAY,49
+Diagnostics,Ford,Figo,2011,MONDAY,66
+AC Repair,Kia,Seltos,2020,WEDNESDAY,78
+General Inspection,Mahindra,Scorpio,2023,TUESDAY,40
+Wheel Alignment,Ford,EcoSport,2025,TUESDAY,45
+Diagnostics,Tata,Altroz,2018,FRIDAY,71
+AC Repair,Hyundai,Venue,2021,THURSDAY,76
+Tire Replacement,Hyundai,Creta,2008,SUNDAY,57
+Battery Replacement,Maruti Suzuki,Baleno,2010,WEDNESDAY,39
+AC Repair,Maruti Suzuki,Ertiga,2022,SUNDAY,76
+Wheel Alignment,Tata,Nexon,2010,THURSDAY,61
+Brake Service,Toyota,Innova,2014,WEDNESDAY,75
+Engine Service,Tata,Punch,2019,SATURDAY,109
+Transmission Service,Kia,Seltos,2025,SUNDAY,140
+Transmission Service,Tata,Harrier,2018,MONDAY,127
+Battery Replacement,Ford,EcoSport,2023,SUNDAY,37
+AC Repair,Toyota,Fortuner,2008,THURSDAY,94
+Battery Replacement,Ford,EcoSport,2009,TUESDAY,41
+Engine Service,Tata,Punch,2014,WEDNESDAY,97
+Tire Replacement,Honda,Elevate,2026,MONDAY,42
+Wheel Alignment,Toyota,Fortuner,2011,SATURDAY,71
+Diagnostics,Ford,Figo,2021,WEDNESDAY,54
+Engine Service,Mahindra,XUV700,2013,THURSDAY,113
+AC Repair,Mahindra,XUV700,2025,FRIDAY,78
+Wheel Alignment,Kia,Sonet,2011,MONDAY,64
+General Inspection,Maruti Suzuki,Swift,2021,MONDAY,36
+Engine Service,Maruti Suzuki,Brezza,2024,FRIDAY,97
+Oil Change,Toyota,Glanza,2014,TUESDAY,35
+General Inspection,Honda,Amaze,2011,WEDNESDAY,42
+Diagnostics,Kia,Sonet,2008,WEDNESDAY,66
+Wheel Alignment,Toyota,Glanza,2021,SATURDAY,55
+Tire Replacement,Hyundai,Verna,2009,MONDAY,61
+Engine Service,Mahindra,Scorpio,2013,FRIDAY,112
+AC Repair,Honda,Elevate,2020,TUESDAY,70
+Oil Change,Kia,Seltos,2020,SATURDAY,35
+Battery Replacement,Kia,Sonet,2024,TUESDAY,34
+Battery Replacement,Maruti Suzuki,Brezza,2016,SUNDAY,44
+Engine Service,Tata,Harrier,2014,MONDAY,111
+Transmission Service,Tata,Nexon,2025,MONDAY,129
+Transmission Service,Kia,Seltos,2012,THURSDAY,126
+Battery Replacement,Honda,Elevate,2015,WEDNESDAY,35
+Tire Replacement,Honda,Elevate,2020,SUNDAY,53
+General Inspection,Tata,Nexon,2026,SUNDAY,45
+General Inspection,Maruti Suzuki,Brezza,2011,MONDAY,49
+Battery Replacement,Maruti Suzuki,Swift,2023,SUNDAY,42
+Brake Service,Honda,Amaze,2011,THURSDAY,73
+Diagnostics,Maruti Suzuki,Baleno,2021,THURSDAY,53
+Brake Service,Ford,EcoSport,2013,WEDNESDAY,73
+Transmission Service,Hyundai,i20,2018,WEDNESDAY,132
+Diagnostics,Hyundai,Creta,2024,SATURDAY,65
+Transmission Service,Hyundai,i20,2024,FRIDAY,135
+Battery Replacement,Honda,Amaze,2011,TUESDAY,43
+General Inspection,Tata,Harrier,2016,THURSDAY,45
+Tire Replacement,Maruti Suzuki,Ertiga,2025,SATURDAY,50
+Diagnostics,Kia,Sonet,2014,WEDNESDAY,72
+Battery Replacement,Honda,Elevate,2016,THURSDAY,44
+Transmission Service,Toyota,Innova,2014,SATURDAY,171
+Diagnostics,Kia,Sonet,2021,FRIDAY,61
+Transmission Service,Maruti Suzuki,Brezza,2021,TUESDAY,105
+Transmission Service,Mahindra,Scorpio,2010,THURSDAY,143
+Engine Service,Toyota,Fortuner,2021,WEDNESDAY,97
+Transmission Service,Mahindra,Scorpio,2008,MONDAY,146
+Battery Replacement,Mahindra,XUV700,2010,TUESDAY,44
+Brake Service,Mahindra,XUV700,2018,MONDAY,75
+Brake Service,Honda,Amaze,2026,SUNDAY,67
+Brake Service,Honda,Elevate,2010,THURSDAY,70
+Tire Replacement,Maruti Suzuki,Ertiga,2010,FRIDAY,59
+AC Repair,Kia,Sonet,2018,TUESDAY,81
+Diagnostics,Hyundai,Venue,2021,MONDAY,68
+General Inspection,Ford,EcoSport,2018,FRIDAY,42
+Wheel Alignment,Hyundai,i20,2022,WEDNESDAY,57
+Battery Replacement,Kia,Seltos,2025,FRIDAY,42
+General Inspection,Ford,EcoSport,2021,SATURDAY,50
+Wheel Alignment,Toyota,Glanza,2019,THURSDAY,62
+Diagnostics,Hyundai,Verna,2017,SATURDAY,75
+Diagnostics,Ford,EcoSport,2019,FRIDAY,66
+Oil Change,Tata,Nexon,2018,SUNDAY,37
+AC Repair,Honda,City,2010,TUESDAY,81
+Engine Service,Hyundai,i20,2016,SUNDAY,95
+Oil Change,Maruti Suzuki,Swift,2017,MONDAY,33
+AC Repair,Toyota,Fortuner,2013,TUESDAY,92
+Transmission Service,Ford,EcoSport,2012,WEDNESDAY,153
+AC Repair,Ford,EcoSport,2024,FRIDAY,66
+Tire Replacement,Ford,Figo,2016,WEDNESDAY,51
+General Inspection,Toyota,Glanza,2010,WEDNESDAY,43
+Engine Service,Honda,Elevate,2014,SATURDAY,140
+Oil Change,Honda,City,2014,THURSDAY,38
+AC Repair,Honda,Amaze,2011,WEDNESDAY,85
+Engine Service,Mahindra,Scorpio,2022,SATURDAY,120
+Battery Replacement,Maruti Suzuki,Baleno,2015,WEDNESDAY,37
+Transmission Service,Honda,Amaze,2014,MONDAY,146
+Wheel Alignment,Kia,Seltos,2017,SUNDAY,59
+Diagnostics,Maruti Suzuki,Swift,2015,MONDAY,61
+Diagnostics,Tata,Harrier,2008,THURSDAY,62
+Wheel Alignment,Maruti Suzuki,Swift,2019,THURSDAY,50
+Tire Replacement,Tata,Punch,2024,THURSDAY,45
+Wheel Alignment,Mahindra,XUV700,2009,SATURDAY,68
+AC Repair,Kia,Seltos,2017,TUESDAY,70
+Engine Service,Ford,Figo,2011,SATURDAY,129
+Oil Change,Honda,City,2015,MONDAY,35
+Wheel Alignment,Honda,City,2025,MONDAY,51
+Wheel Alignment,Honda,Elevate,2020,THURSDAY,51
+Wheel Alignment,Ford,EcoSport,2013,SUNDAY,66
+Tire Replacement,Mahindra,Bolero,2017,SATURDAY,51
+General Inspection,Tata,Punch,2017,SUNDAY,45
+Tire Replacement,Tata,Harrier,2010,TUESDAY,57
+Battery Replacement,Hyundai,Verna,2021,WEDNESDAY,44
+Oil Change,Tata,Harrier,2010,TUESDAY,33
+Transmission Service,Mahindra,Scorpio,2026,MONDAY,99
+Diagnostics,Honda,Amaze,2011,MONDAY,68
+Wheel Alignment,Honda,Elevate,2024,TUESDAY,45
+Battery Replacement,Maruti Suzuki,Swift,2017,SUNDAY,42
+Brake Service,Toyota,Fortuner,2023,WEDNESDAY,56
+Brake Service,Ford,EcoSport,2019,WEDNESDAY,62
+Transmission Service,Ford,EcoSport,2016,SATURDAY,130
+Engine Service,Hyundai,Creta,2021,SUNDAY,110
+Brake Service,Ford,EcoSport,2015,FRIDAY,90
+AC Repair,Mahindra,XUV700,2010,TUESDAY,89
+General Inspection,Toyota,Fortuner,2025,THURSDAY,39
+Engine Service,Tata,Harrier,2019,WEDNESDAY,90
+Wheel Alignment,Toyota,Innova,2009,FRIDAY,65
+Engine Service,Mahindra,Bolero,2011,THURSDAY,109
+Brake Service,Toyota,Innova,2008,THURSDAY,63
+Battery Replacement,Ford,EcoSport,2024,WEDNESDAY,32
+Wheel Alignment,Ford,Figo,2010,SUNDAY,60
+Wheel Alignment,Hyundai,Verna,2009,TUESDAY,58
+Oil Change,Ford,Figo,2008,THURSDAY,39
+Brake Service,Hyundai,i20,2016,TUESDAY,64
+Engine Service,Tata,Nexon,2016,TUESDAY,107
+Tire Replacement,Kia,Seltos,2017,TUESDAY,60
+Tire Replacement,Kia,Sonet,2020,MONDAY,50
+Wheel Alignment,Toyota,Fortuner,2017,TUESDAY,48
+Brake Service,Tata,Altroz,2016,TUESDAY,64
+AC Repair,Honda,Amaze,2017,MONDAY,73
+Diagnostics,Tata,Punch,2021,MONDAY,70
+Battery Replacement,Ford,Figo,2024,SATURDAY,40
+AC Repair,Ford,Figo,2021,THURSDAY,67
+Oil Change,Hyundai,Verna,2010,SUNDAY,43
+Tire Replacement,Mahindra,XUV700,2025,FRIDAY,55
+Wheel Alignment,Hyundai,Verna,2012,THURSDAY,56
+Engine Service,Ford,EcoSport,2010,MONDAY,97
+Wheel Alignment,Maruti Suzuki,Ertiga,2011,SUNDAY,63
+Brake Service,Hyundai,i20,2026,SATURDAY,76
+Engine Service,Hyundai,Creta,2024,TUESDAY,70
+Battery Replacement,Honda,Elevate,2012,WEDNESDAY,37
+Wheel Alignment,Hyundai,Verna,2014,MONDAY,60
+General Inspection,Maruti Suzuki,Baleno,2014,MONDAY,47
+Diagnostics,Hyundai,Verna,2020,MONDAY,63
+Diagnostics,Tata,Altroz,2025,WEDNESDAY,54
+Transmission Service,Ford,EcoSport,2021,TUESDAY,122
+Tire Replacement,Tata,Altroz,2023,THURSDAY,44
+Wheel Alignment,Toyota,Fortuner,2011,FRIDAY,55
+AC Repair,Kia,Seltos,2022,THURSDAY,74
+AC Repair,Tata,Nexon,2017,THURSDAY,83
+Transmission Service,Toyota,Innova,2022,MONDAY,134
+Brake Service,Tata,Punch,2022,WEDNESDAY,66
+Engine Service,Honda,Amaze,2024,THURSDAY,92
+Engine Service,Maruti Suzuki,Baleno,2012,WEDNESDAY,99
+Diagnostics,Tata,Harrier,2017,THURSDAY,55
+General Inspection,Ford,Figo,2023,FRIDAY,41
+Engine Service,Toyota,Innova,2018,FRIDAY,94
+Transmission Service,Mahindra,Bolero,2020,MONDAY,151
+Battery Replacement,Honda,City,2011,THURSDAY,43
+Diagnostics,Mahindra,XUV700,2015,MONDAY,65
+AC Repair,Kia,Seltos,2009,FRIDAY,84
+Wheel Alignment,Maruti Suzuki,Swift,2010,THURSDAY,60
+Oil Change,Tata,Harrier,2011,SATURDAY,37
+Diagnostics,Kia,Seltos,2026,FRIDAY,59
+Diagnostics,Toyota,Innova,2014,SATURDAY,76
+Battery Replacement,Kia,Seltos,2010,FRIDAY,52
+General Inspection,Honda,City,2012,MONDAY,48
+Brake Service,Kia,Seltos,2018,TUESDAY,60
+Engine Service,Ford,EcoSport,2014,FRIDAY,87
+Diagnostics,Mahindra,Scorpio,2025,SUNDAY,63
+AC Repair,Kia,Seltos,2026,MONDAY,72
+Battery Replacement,Toyota,Innova,2011,THURSDAY,42
+Brake Service,Hyundai,Creta,2017,SUNDAY,81
+Wheel Alignment,Kia,Sonet,2010,SUNDAY,74
+General Inspection,Honda,Elevate,2024,WEDNESDAY,33
+AC Repair,Hyundai,i20,2026,THURSDAY,89
+Oil Change,Hyundai,Venue,2021,WEDNESDAY,28
+Tire Replacement,Mahindra,XUV700,2012,TUESDAY,46
+Oil Change,Honda,Amaze,2010,SUNDAY,38
+Transmission Service,Hyundai,Venue,2010,THURSDAY,128
+General Inspection,Ford,EcoSport,2016,SATURDAY,48
+Oil Change,Maruti Suzuki,Swift,2023,FRIDAY,33
+Diagnostics,Toyota,Innova,2008,MONDAY,70
+Oil Change,Honda,Elevate,2020,SATURDAY,37
+Diagnostics,Hyundai,Verna,2020,SATURDAY,67
+Battery Replacement,Kia,Sonet,2025,TUESDAY,37
+Transmission Service,Mahindra,Scorpio,2014,WEDNESDAY,141
+AC Repair,Hyundai,Creta,2015,MONDAY,75
+Engine Service,Hyundai,i20,2015,SUNDAY,109
+Oil Change,Maruti Suzuki,Swift,2012,THURSDAY,35
+Brake Service,Honda,Amaze,2012,FRIDAY,75
+AC Repair,Ford,EcoSport,2010,MONDAY,83
+Diagnostics,Mahindra,XUV700,2022,SATURDAY,73
+Wheel Alignment,Mahindra,Bolero,2017,SUNDAY,57
+Wheel Alignment,Mahindra,Bolero,2025,FRIDAY,48
+General Inspection,Hyundai,Venue,2021,SATURDAY,53
+General Inspection,Honda,City,2024,TUESDAY,40
+Wheel Alignment,Honda,City,2019,SATURDAY,63
+Tire Replacement,Ford,Figo,2011,MONDAY,51
+Diagnostics,Hyundai,Venue,2016,FRIDAY,57
+General Inspection,Hyundai,Venue,2020,THURSDAY,48
+Oil Change,Kia,Sonet,2022,MONDAY,32
+AC Repair,Hyundai,Venue,2009,FRIDAY,93
+Brake Service,Hyundai,Venue,2016,SUNDAY,74
+Oil Change,Mahindra,Bolero,2021,SUNDAY,33
+AC Repair,Hyundai,i20,2025,THURSDAY,86
+Wheel Alignment,Ford,Figo,2026,SATURDAY,54
+Transmission Service,Toyota,Innova,2020,THURSDAY,128
+Battery Replacement,Hyundai,Venue,2016,MONDAY,31
+Tire Replacement,Toyota,Glanza,2026,THURSDAY,48
+Wheel Alignment,Toyota,Fortuner,2008,MONDAY,60
+Wheel Alignment,Mahindra,Scorpio,2013,THURSDAY,53
+Diagnostics,Hyundai,Venue,2023,SATURDAY,67
+Engine Service,Honda,Amaze,2009,FRIDAY,118
+Transmission Service,Mahindra,XUV700,2022,TUESDAY,122
+Wheel Alignment,Toyota,Glanza,2023,TUESDAY,52
+Transmission Service,Hyundai,Creta,2011,SATURDAY,170
+Oil Change,Tata,Punch,2026,WEDNESDAY,35
+Oil Change,Toyota,Glanza,2008,SATURDAY,42
+Brake Service,Hyundai,Creta,2019,MONDAY,71
+Engine Service,Maruti Suzuki,Baleno,2014,WEDNESDAY,108
+Transmission Service,Mahindra,Bolero,2021,MONDAY,112
+Battery Replacement,Hyundai,Venue,2019,WEDNESDAY,32
+AC Repair,Mahindra,Scorpio,2017,FRIDAY,88
+Wheel Alignment,Tata,Nexon,2011,FRIDAY,63
+Tire Replacement,Mahindra,Bolero,2024,SUNDAY,47
+Tire Replacement,Kia,Seltos,2012,THURSDAY,51
+General Inspection,Maruti Suzuki,Baleno,2026,FRIDAY,48
+AC Repair,Maruti Suzuki,Swift,2023,SATURDAY,83
+Engine Service,Ford,Figo,2016,TUESDAY,105
+Tire Replacement,Mahindra,XUV700,2019,TUESDAY,46
+Diagnostics,Mahindra,Bolero,2011,SATURDAY,75
+AC Repair,Mahindra,XUV700,2019,FRIDAY,91
+Engine Service,Maruti Suzuki,Ertiga,2023,FRIDAY,100
+Tire Replacement,Tata,Altroz,2021,SATURDAY,63
+Transmission Service,Tata,Harrier,2017,WEDNESDAY,131
+AC Repair,Tata,Punch,2014,TUESDAY,83
+Diagnostics,Hyundai,Creta,2011,THURSDAY,64
+Diagnostics,Maruti Suzuki,Baleno,2009,SUNDAY,78
+AC Repair,Hyundai,Creta,2010,TUESDAY,74
+AC Repair,Kia,Sonet,2012,THURSDAY,81
+Engine Service,Honda,Elevate,2017,MONDAY,91
+Brake Service,Maruti Suzuki,Swift,2010,SATURDAY,91
+Brake Service,Ford,Figo,2022,SATURDAY,75
+Diagnostics,Tata,Altroz,2026,SUNDAY,57
+Engine Service,Maruti Suzuki,Baleno,2008,FRIDAY,100
+Diagnostics,Kia,Sonet,2022,TUESDAY,53
+Engine Service,Toyota,Innova,2015,WEDNESDAY,99
+Engine Service,Kia,Sonet,2018,THURSDAY,99
+Brake Service,Tata,Altroz,2009,SUNDAY,90
+Tire Replacement,Kia,Sonet,2026,FRIDAY,44
+Brake Service,Maruti Suzuki,Ertiga,2017,TUESDAY,70
+Diagnostics,Honda,City,2017,WEDNESDAY,64
+Transmission Service,Maruti Suzuki,Baleno,2016,TUESDAY,147
+Engine Service,Tata,Nexon,2009,FRIDAY,118
+Engine Service,Honda,City,2023,SUNDAY,106
+Wheel Alignment,Kia,Sonet,2024,TUESDAY,47
+Diagnostics,Toyota,Innova,2011,THURSDAY,70
+General Inspection,Tata,Harrier,2011,WEDNESDAY,44
+General Inspection,Honda,Elevate,2010,WEDNESDAY,49
+Diagnostics,Maruti Suzuki,Ertiga,2009,THURSDAY,69
+General Inspection,Mahindra,XUV700,2025,SATURDAY,49
+Oil Change,Honda,City,2026,THURSDAY,26
+Tire Replacement,Honda,Amaze,2023,TUESDAY,44
+Diagnostics,Toyota,Innova,2014,SATURDAY,73
+General Inspection,Honda,City,2021,MONDAY,37
+Battery Replacement,Hyundai,Verna,2016,FRIDAY,41
+AC Repair,Honda,Elevate,2019,THURSDAY,59
+Wheel Alignment,Honda,Amaze,2023,THURSDAY,49
+AC Repair,Mahindra,Bolero,2023,WEDNESDAY,75
+Wheel Alignment,Kia,Sonet,2018,TUESDAY,56
+AC Repair,Maruti Suzuki,Baleno,2022,WEDNESDAY,70
+AC Repair,Tata,Punch,2023,FRIDAY,71
+AC Repair,Honda,City,2017,WEDNESDAY,63
+AC Repair,Hyundai,Venue,2016,SATURDAY,89
+Brake Service,Kia,Sonet,2022,THURSDAY,52
+Wheel Alignment,Ford,EcoSport,2018,SATURDAY,70
+Oil Change,Toyota,Glanza,2021,TUESDAY,30
+Tire Replacement,Maruti Suzuki,Ertiga,2012,FRIDAY,54
+Engine Service,Hyundai,i20,2020,MONDAY,98
+Brake Service,Maruti Suzuki,Swift,2024,TUESDAY,56
+Brake Service,Honda,City,2025,THURSDAY,63
+Battery Replacement,Mahindra,Scorpio,2021,TUESDAY,35
+Engine Service,Honda,City,2009,SUNDAY,138
+General Inspection,Kia,Sonet,2009,TUESDAY,48
+Wheel Alignment,Toyota,Innova,2015,SATURDAY,66
+Wheel Alignment,Maruti Suzuki,Brezza,2020,TUESDAY,50
+Wheel Alignment,Maruti Suzuki,Swift,2010,FRIDAY,60
+AC Repair,Hyundai,i20,2025,FRIDAY,63
+Battery Replacement,Maruti Suzuki,Brezza,2014,SUNDAY,42
+Brake Service,Kia,Seltos,2017,WEDNESDAY,63
+Diagnostics,Honda,City,2016,SATURDAY,66
+AC Repair,Maruti Suzuki,Baleno,2021,FRIDAY,75
+Wheel Alignment,Ford,Figo,2025,FRIDAY,53
+Diagnostics,Kia,Sonet,2025,SATURDAY,65
+General Inspection,Ford,EcoSport,2026,MONDAY,38
+Brake Service,Ford,EcoSport,2017,WEDNESDAY,69
+Battery Replacement,Maruti Suzuki,Swift,2025,TUESDAY,38
+Transmission Service,Honda,City,2012,THURSDAY,168
+Transmission Service,Ford,EcoSport,2009,SUNDAY,143
+Brake Service,Tata,Nexon,2018,SATURDAY,76
+Transmission Service,Kia,Seltos,2016,SATURDAY,158
+Diagnostics,Ford,Figo,2015,WEDNESDAY,69
+Diagnostics,Ford,EcoSport,2011,THURSDAY,63
+Oil Change,Tata,Nexon,2013,TUESDAY,32
+Diagnostics,Maruti Suzuki,Swift,2021,THURSDAY,63
+Diagnostics,Tata,Punch,2020,MONDAY,68
+Wheel Alignment,Maruti Suzuki,Brezza,2017,SATURDAY,70
+Engine Service,Mahindra,Bolero,2019,FRIDAY,96
+Battery Replacement,Tata,Harrier,2024,SATURDAY,43
+Brake Service,Toyota,Glanza,2022,TUESDAY,71
+Brake Service,Tata,Altroz,2024,SATURDAY,71
+AC Repair,Tata,Altroz,2023,MONDAY,72
+Oil Change,Toyota,Fortuner,2014,TUESDAY,33
+Brake Service,Maruti Suzuki,Swift,2022,FRIDAY,59
+Battery Replacement,Maruti Suzuki,Ertiga,2025,TUESDAY,35
+Tire Replacement,Toyota,Glanza,2021,FRIDAY,51
+Wheel Alignment,Mahindra,Bolero,2020,WEDNESDAY,47
+Tire Replacement,Maruti Suzuki,Baleno,2011,SATURDAY,59
+Tire Replacement,Toyota,Innova,2016,FRIDAY,59
+Transmission Service,Kia,Sonet,2026,SUNDAY,145
+Transmission Service,Toyota,Fortuner,2023,TUESDAY,135
+Tire Replacement,Maruti Suzuki,Baleno,2012,TUESDAY,59
+Diagnostics,Hyundai,Venue,2010,MONDAY,71
+AC Repair,Ford,Figo,2017,FRIDAY,91
+General Inspection,Honda,Elevate,2020,THURSDAY,44
+Brake Service,Toyota,Fortuner,2018,FRIDAY,60
+General Inspection,Honda,City,2016,SATURDAY,54
+Diagnostics,Ford,Figo,2011,FRIDAY,73
+AC Repair,Mahindra,XUV700,2008,SUNDAY,86
+Brake Service,Kia,Seltos,2025,TUESDAY,66
+AC Repair,Mahindra,XUV700,2008,TUESDAY,75
+Oil Change,Toyota,Glanza,2011,WEDNESDAY,37
+Wheel Alignment,Hyundai,Venue,2009,SATURDAY,67
+Oil Change,Toyota,Glanza,2009,FRIDAY,41
+Oil Change,Ford,Figo,2023,TUESDAY,25
+Engine Service,Maruti Suzuki,Swift,2019,MONDAY,101
+Transmission Service,Tata,Altroz,2012,MONDAY,120
+Oil Change,Ford,EcoSport,2018,MONDAY,36
+Engine Service,Toyota,Innova,2008,WEDNESDAY,115
+Brake Service,Tata,Harrier,2024,MONDAY,51
+AC Repair,Kia,Seltos,2010,TUESDAY,86
+Wheel Alignment,Maruti Suzuki,Baleno,2022,MONDAY,47
+Wheel Alignment,Honda,Elevate,2024,THURSDAY,55
+Oil Change,Toyota,Glanza,2025,WEDNESDAY,35
+General Inspection,Mahindra,Scorpio,2026,SUNDAY,42
+Diagnostics,Maruti Suzuki,Swift,2010,TUESDAY,58
+General Inspection,Tata,Harrier,2026,SATURDAY,53
+Oil Change,Honda,Elevate,2019,THURSDAY,31
+General Inspection,Honda,Amaze,2014,SATURDAY,53
+Oil Change,Kia,Sonet,2013,WEDNESDAY,33
+Battery Replacement,Mahindra,Scorpio,2015,SUNDAY,46
+Battery Replacement,Toyota,Glanza,2022,WEDNESDAY,43
+General Inspection,Ford,Figo,2026,WEDNESDAY,37
+Diagnostics,Tata,Nexon,2026,THURSDAY,61
+Battery Replacement,Honda,Elevate,2021,WEDNESDAY,34
+Wheel Alignment,Honda,Amaze,2024,FRIDAY,48
+Wheel Alignment,Maruti Suzuki,Baleno,2016,TUESDAY,55
+General Inspection,Tata,Punch,2012,THURSDAY,47
+Transmission Service,Mahindra,Scorpio,2026,THURSDAY,106
+Brake Service,Maruti Suzuki,Ertiga,2008,TUESDAY,60
+AC Repair,Ford,Figo,2018,SATURDAY,92
+Brake Service,Toyota,Innova,2022,FRIDAY,64
+Battery Replacement,Hyundai,Verna,2022,FRIDAY,35
+AC Repair,Ford,EcoSport,2016,SATURDAY,87
+Brake Service,Mahindra,Scorpio,2020,WEDNESDAY,78
+Tire Replacement,Maruti Suzuki,Brezza,2021,SUNDAY,55
+Wheel Alignment,Kia,Seltos,2013,FRIDAY,63
+Transmission Service,Honda,Elevate,2012,TUESDAY,149
+Brake Service,Hyundai,i20,2017,SUNDAY,74
+Diagnostics,Kia,Seltos,2022,MONDAY,48
+Battery Replacement,Honda,City,2017,WEDNESDAY,41
+Tire Replacement,Kia,Seltos,2015,TUESDAY,53
+Engine Service,Mahindra,XUV700,2023,TUESDAY,88
+AC Repair,Honda,Amaze,2020,SUNDAY,89
+Diagnostics,Honda,City,2020,TUESDAY,54
+AC Repair,Mahindra,Scorpio,2021,FRIDAY,93
+AC Repair,Maruti Suzuki,Ertiga,2023,SATURDAY,83
+Tire Replacement,Tata,Altroz,2019,WEDNESDAY,43
+Brake Service,Hyundai,Verna,2010,SATURDAY,82
+Oil Change,Honda,Amaze,2021,MONDAY,35
+Brake Service,Kia,Seltos,2021,TUESDAY,62
+Diagnostics,Hyundai,Venue,2021,TUESDAY,64
+Battery Replacement,Kia,Seltos,2022,SUNDAY,45
+General Inspection,Kia,Seltos,2013,WEDNESDAY,49
+Battery Replacement,Kia,Sonet,2008,THURSDAY,38
+AC Repair,Hyundai,Venue,2021,WEDNESDAY,66
+General Inspection,Ford,Figo,2023,SATURDAY,45
+Brake Service,Maruti Suzuki,Baleno,2021,FRIDAY,73
+AC Repair,Maruti Suzuki,Baleno,2008,WEDNESDAY,93
+Wheel Alignment,Honda,Elevate,2022,THURSDAY,50
+Oil Change,Ford,Figo,2009,MONDAY,38
+Oil Change,Mahindra,Scorpio,2021,WEDNESDAY,29
+Wheel Alignment,Hyundai,Venue,2013,WEDNESDAY,57
+Brake Service,Toyota,Fortuner,2009,FRIDAY,75
+General Inspection,Mahindra,Bolero,2009,FRIDAY,49
+General Inspection,Maruti Suzuki,Baleno,2012,SATURDAY,51
+Diagnostics,Kia,Sonet,2019,THURSDAY,58
+Engine Service,Ford,EcoSport,2010,WEDNESDAY,100
+Brake Service,Hyundai,Creta,2011,THURSDAY,61
+Brake Service,Toyota,Glanza,2020,MONDAY,64
+Battery Replacement,Toyota,Fortuner,2010,SUNDAY,53
+Tire Replacement,Toyota,Glanza,2024,FRIDAY,42
+Tire Replacement,Hyundai,Venue,2026,THURSDAY,47
+Wheel Alignment,Tata,Harrier,2024,SATURDAY,70
+Oil Change,Kia,Seltos,2017,WEDNESDAY,35
+AC Repair,Tata,Harrier,2016,THURSDAY,79
+Transmission Service,Mahindra,XUV700,2015,TUESDAY,146
+General Inspection,Toyota,Fortuner,2022,FRIDAY,44
+AC Repair,Mahindra,Bolero,2020,THURSDAY,76
+Brake Service,Mahindra,Scorpio,2022,TUESDAY,62
+Diagnostics,Ford,EcoSport,2025,SATURDAY,67
+AC Repair,Hyundai,i20,2023,FRIDAY,82
+Brake Service,Maruti Suzuki,Baleno,2024,WEDNESDAY,58
+Diagnostics,Ford,EcoSport,2012,FRIDAY,76
+Transmission Service,Tata,Harrier,2026,THURSDAY,102
+Wheel Alignment,Ford,EcoSport,2020,FRIDAY,61
+Battery Replacement,Kia,Seltos,2011,THURSDAY,43
+Transmission Service,Toyota,Innova,2013,SUNDAY,189
+AC Repair,Kia,Sonet,2014,THURSDAY,85
+Brake Service,Maruti Suzuki,Ertiga,2024,FRIDAY,62
+Engine Service,Kia,Seltos,2020,THURSDAY,97
+Diagnostics,Tata,Altroz,2020,WEDNESDAY,54
+Oil Change,Mahindra,Scorpio,2013,SATURDAY,42
+AC Repair,Kia,Sonet,2014,SATURDAY,88
+Oil Change,Honda,City,2024,MONDAY,27
+Oil Change,Mahindra,Bolero,2015,TUESDAY,31
+Transmission Service,Ford,EcoSport,2019,MONDAY,129
+AC Repair,Honda,City,2022,WEDNESDAY,59
+Tire Replacement,Tata,Punch,2014,WEDNESDAY,53
+Oil Change,Honda,Elevate,2022,THURSDAY,32
+Tire Replacement,Ford,EcoSport,2013,THURSDAY,50
+Transmission Service,Mahindra,XUV700,2015,THURSDAY,136
+General Inspection,Hyundai,i20,2021,SUNDAY,42
+AC Repair,Maruti Suzuki,Brezza,2016,SATURDAY,89
+Engine Service,Maruti Suzuki,Swift,2022,THURSDAY,96
+AC Repair,Hyundai,Venue,2020,SATURDAY,84
+Engine Service,Ford,Figo,2011,MONDAY,110
+Transmission Service,Maruti Suzuki,Baleno,2019,THURSDAY,138
+Brake Service,Tata,Altroz,2023,TUESDAY,62
+General Inspection,Ford,Figo,2015,SUNDAY,53
+Wheel Alignment,Mahindra,Scorpio,2022,WEDNESDAY,54
+Transmission Service,Toyota,Fortuner,2009,SUNDAY,138
+Battery Replacement,Tata,Harrier,2008,TUESDAY,45
+Wheel Alignment,Toyota,Fortuner,2013,FRIDAY,56
+Wheel Alignment,Ford,Figo,2017,TUESDAY,55
+Battery Replacement,Toyota,Glanza,2016,SATURDAY,40
+Tire Replacement,Hyundai,Creta,2026,WEDNESDAY,45
+Brake Service,Kia,Sonet,2013,WEDNESDAY,70
+Battery Replacement,Mahindra,Bolero,2019,THURSDAY,41
+Battery Replacement,Ford,EcoSport,2023,THURSDAY,33
+Oil Change,Maruti Suzuki,Ertiga,2015,WEDNESDAY,34
+Transmission Service,Maruti Suzuki,Baleno,2019,THURSDAY,137
+Diagnostics,Hyundai,Creta,2014,WEDNESDAY,60
+General Inspection,Mahindra,Bolero,2010,WEDNESDAY,44
+Engine Service,Maruti Suzuki,Swift,2022,FRIDAY,92
+Battery Replacement,Honda,City,2022,TUESDAY,36
+Oil Change,Toyota,Fortuner,2016,MONDAY,33
+General Inspection,Tata,Harrier,2009,TUESDAY,41
+Tire Replacement,Honda,Elevate,2026,THURSDAY,40
+Oil Change,Mahindra,Bolero,2010,TUESDAY,36
+Diagnostics,Maruti Suzuki,Brezza,2010,THURSDAY,67
+Tire Replacement,Ford,Figo,2026,MONDAY,50
+Transmission Service,Kia,Seltos,2022,SUNDAY,128
+Transmission Service,Ford,EcoSport,2016,SUNDAY,135
+AC Repair,Toyota,Glanza,2013,WEDNESDAY,73
+Wheel Alignment,Toyota,Fortuner,2015,WEDNESDAY,56
+Wheel Alignment,Toyota,Fortuner,2022,MONDAY,64
+Diagnostics,Hyundai,Venue,2024,THURSDAY,54
+Diagnostics,Tata,Altroz,2010,SUNDAY,67
+Diagnostics,Mahindra,Bolero,2025,SUNDAY,63
+Battery Replacement,Honda,City,2015,TUESDAY,39
+Engine Service,Ford,EcoSport,2017,FRIDAY,112
+Tire Replacement,Tata,Harrier,2013,TUESDAY,53
+Battery Replacement,Tata,Harrier,2024,THURSDAY,30
+Transmission Service,Kia,Sonet,2015,WEDNESDAY,113
+Wheel Alignment,Mahindra,XUV700,2017,WEDNESDAY,57
+Brake Service,Mahindra,Scorpio,2017,THURSDAY,57
+Oil Change,Kia,Seltos,2021,WEDNESDAY,30
+Battery Replacement,Ford,Figo,2008,SUNDAY,45
+Wheel Alignment,Toyota,Glanza,2008,WEDNESDAY,56
+AC Repair,Kia,Sonet,2025,FRIDAY,74
+Transmission Service,Ford,Figo,2011,MONDAY,120
+Tire Replacement,Tata,Harrier,2023,SATURDAY,44
+Oil Change,Kia,Sonet,2015,WEDNESDAY,30
+Transmission Service,Kia,Seltos,2011,MONDAY,135
+Brake Service,Ford,Figo,2011,THURSDAY,67
+Battery Replacement,Maruti Suzuki,Ertiga,2021,SUNDAY,42
+Wheel Alignment,Honda,Elevate,2010,THURSDAY,61
+Tire Replacement,Mahindra,Bolero,2025,SUNDAY,47
+Wheel Alignment,Hyundai,Creta,2010,SUNDAY,60
+Brake Service,Mahindra,Scorpio,2014,TUESDAY,67
+Brake Service,Mahindra,XUV700,2016,WEDNESDAY,71
+Transmission Service,Hyundai,Creta,2011,SATURDAY,153
+Diagnostics,Hyundai,i20,2024,WEDNESDAY,59
+Oil Change,Kia,Seltos,2024,SUNDAY,35
+Diagnostics,Toyota,Fortuner,2018,SATURDAY,60
+General Inspection,Maruti Suzuki,Swift,2025,SUNDAY,46
+Engine Service,Maruti Suzuki,Brezza,2014,SUNDAY,117
+General Inspection,Kia,Sonet,2022,THURSDAY,52
+Battery Replacement,Mahindra,XUV700,2013,SATURDAY,39
+Transmission Service,Mahindra,Scorpio,2024,SUNDAY,127
+AC Repair,Hyundai,Verna,2026,WEDNESDAY,58
+Oil Change,Kia,Seltos,2008,TUESDAY,35
+Tire Replacement,Mahindra,Bolero,2022,SATURDAY,57
+Tire Replacement,Mahindra,Bolero,2026,TUESDAY,46
+Wheel Alignment,Tata,Nexon,2008,FRIDAY,65
+Transmission Service,Hyundai,Creta,2025,WEDNESDAY,132
+Brake Service,Honda,Elevate,2014,TUESDAY,67
+Wheel Alignment,Tata,Punch,2016,TUESDAY,59
+Brake Service,Hyundai,Creta,2022,MONDAY,61
+AC Repair,Hyundai,Verna,2014,THURSDAY,87
+Tire Replacement,Honda,Amaze,2026,SUNDAY,51
+General Inspection,Maruti Suzuki,Baleno,2024,FRIDAY,43
+Tire Replacement,Maruti Suzuki,Brezza,2019,SATURDAY,54
+Brake Service,Kia,Seltos,2014,MONDAY,70
+Wheel Alignment,Maruti Suzuki,Brezza,2008,MONDAY,55
+AC Repair,Kia,Sonet,2011,WEDNESDAY,79
+General Inspection,Kia,Sonet,2015,SATURDAY,55
+General Inspection,Kia,Sonet,2008,WEDNESDAY,46
+Oil Change,Tata,Altroz,2013,FRIDAY,30
+Oil Change,Tata,Altroz,2012,SATURDAY,39
+Transmission Service,Honda,Elevate,2017,WEDNESDAY,134
+Transmission Service,Kia,Seltos,2021,TUESDAY,134
+Battery Replacement,Tata,Harrier,2011,SUNDAY,49
+Battery Replacement,Hyundai,Verna,2014,WEDNESDAY,37
+Wheel Alignment,Mahindra,XUV700,2008,WEDNESDAY,62
+Oil Change,Ford,EcoSport,2012,THURSDAY,38
+Transmission Service,Tata,Altroz,2011,MONDAY,145
+Brake Service,Honda,City,2021,MONDAY,69
+AC Repair,Ford,EcoSport,2008,WEDNESDAY,88
+Diagnostics,Ford,Figo,2012,WEDNESDAY,61
+Transmission Service,Maruti Suzuki,Brezza,2023,SATURDAY,133
+Transmission Service,Honda,City,2015,FRIDAY,162
+Tire Replacement,Maruti Suzuki,Swift,2020,WEDNESDAY,56
+Transmission Service,Maruti Suzuki,Baleno,2015,WEDNESDAY,143
+Brake Service,Ford,Figo,2012,WEDNESDAY,78
+AC Repair,Mahindra,Bolero,2012,FRIDAY,85
+AC Repair,Hyundai,Creta,2013,MONDAY,67
+Battery Replacement,Hyundai,Creta,2013,THURSDAY,38
+Diagnostics,Mahindra,XUV700,2026,THURSDAY,61
+Diagnostics,Honda,Amaze,2016,FRIDAY,56
+Engine Service,Mahindra,Scorpio,2013,WEDNESDAY,110
+Brake Service,Ford,Figo,2011,SATURDAY,88
+Wheel Alignment,Maruti Suzuki,Ertiga,2021,SATURDAY,54
+Oil Change,Tata,Nexon,2015,THURSDAY,35
+Wheel Alignment,Tata,Harrier,2017,THURSDAY,53
+AC Repair,Maruti Suzuki,Baleno,2020,SUNDAY,106
+Tire Replacement,Tata,Altroz,2008,TUESDAY,47
+Brake Service,Tata,Nexon,2025,WEDNESDAY,52
+Engine Service,Tata,Harrier,2013,MONDAY,101
+Battery Replacement,Honda,Elevate,2012,FRIDAY,47
+Tire Replacement,Toyota,Innova,2020,WEDNESDAY,46
+AC Repair,Kia,Sonet,2022,WEDNESDAY,84
+Oil Change,Maruti Suzuki,Ertiga,2025,SATURDAY,40
+Wheel Alignment,Honda,Elevate,2010,MONDAY,59
+Diagnostics,Tata,Altroz,2020,SUNDAY,62
+Battery Replacement,Kia,Sonet,2026,TUESDAY,35
+Tire Replacement,Toyota,Innova,2020,MONDAY,52
+Transmission Service,Tata,Altroz,2022,TUESDAY,116
+Oil Change,Maruti Suzuki,Ertiga,2024,MONDAY,26
+Transmission Service,Ford,EcoSport,2022,WEDNESDAY,132
+Transmission Service,Ford,EcoSport,2010,SUNDAY,142
+Brake Service,Toyota,Innova,2020,SUNDAY,73
+Diagnostics,Kia,Seltos,2023,SUNDAY,61
+Wheel Alignment,Honda,Elevate,2011,MONDAY,66
+Transmission Service,Mahindra,XUV700,2023,SUNDAY,137
+AC Repair,Kia,Seltos,2011,SUNDAY,93
+Wheel Alignment,Toyota,Fortuner,2024,WEDNESDAY,42
+AC Repair,Toyota,Glanza,2010,MONDAY,93
+Tire Replacement,Ford,EcoSport,2026,THURSDAY,50
+Wheel Alignment,Maruti Suzuki,Brezza,2025,FRIDAY,56
+Engine Service,Kia,Seltos,2011,FRIDAY,104
+General Inspection,Maruti Suzuki,Swift,2015,WEDNESDAY,40
+Transmission Service,Kia,Sonet,2009,WEDNESDAY,132
+Diagnostics,Ford,EcoSport,2020,SUNDAY,68
+AC Repair,Hyundai,Creta,2026,TUESDAY,59
+Oil Change,Mahindra,XUV700,2017,THURSDAY,35
+Wheel Alignment,Mahindra,Bolero,2019,WEDNESDAY,47
+Tire Replacement,Toyota,Glanza,2009,WEDNESDAY,40
+Wheel Alignment,Tata,Altroz,2025,SUNDAY,60
+Engine Service,Mahindra,Bolero,2020,SUNDAY,97
+Diagnostics,Maruti Suzuki,Ertiga,2019,FRIDAY,71
+Engine Service,Honda,Amaze,2017,MONDAY,103
+AC Repair,Mahindra,Bolero,2023,SATURDAY,82
+Battery Replacement,Kia,Seltos,2016,SUNDAY,42
+Diagnostics,Mahindra,XUV700,2013,WEDNESDAY,59
+Oil Change,Maruti Suzuki,Baleno,2026,WEDNESDAY,34
+Engine Service,Toyota,Fortuner,2025,TUESDAY,84
+AC Repair,Maruti Suzuki,Baleno,2010,MONDAY,79
+AC Repair,Toyota,Innova,2018,FRIDAY,65
+Brake Service,Kia,Seltos,2020,MONDAY,70
+Wheel Alignment,Maruti Suzuki,Ertiga,2015,THURSDAY,50
+Oil Change,Honda,Elevate,2012,SATURDAY,41
+Tire Replacement,Honda,City,2015,THURSDAY,51
+Tire Replacement,Tata,Nexon,2017,TUESDAY,59
+Diagnostics,Ford,Figo,2025,FRIDAY,56
+Transmission Service,Honda,Amaze,2013,SUNDAY,141
+Transmission Service,Kia,Sonet,2019,SUNDAY,142
+Wheel Alignment,Kia,Sonet,2019,TUESDAY,52
+Battery Replacement,Mahindra,Bolero,2015,SUNDAY,47
+Engine Service,Tata,Nexon,2024,SATURDAY,98
+Transmission Service,Honda,Elevate,2019,SATURDAY,151
+Engine Service,Honda,Amaze,2016,FRIDAY,111
+Diagnostics,Ford,Figo,2010,TUESDAY,60
+Oil Change,Ford,EcoSport,2019,THURSDAY,34
+Brake Service,Maruti Suzuki,Ertiga,2026,WEDNESDAY,57
+Oil Change,Ford,Figo,2012,THURSDAY,36
+Engine Service,Toyota,Glanza,2015,FRIDAY,117
+Engine Service,Kia,Seltos,2025,SATURDAY,89
+Transmission Service,Hyundai,Venue,2026,MONDAY,108
+General Inspection,Maruti Suzuki,Brezza,2013,SATURDAY,57
+Battery Replacement,Tata,Nexon,2023,SATURDAY,51
+General Inspection,Mahindra,XUV700,2011,THURSDAY,38
+AC Repair,Kia,Sonet,2023,TUESDAY,65
+Brake Service,Tata,Nexon,2017,WEDNESDAY,69
+Wheel Alignment,Ford,EcoSport,2013,WEDNESDAY,63
+AC Repair,Honda,City,2019,SATURDAY,83
+General Inspection,Toyota,Innova,2009,FRIDAY,47
+Oil Change,Mahindra,XUV700,2013,MONDAY,38
+Oil Change,Mahindra,Scorpio,2017,MONDAY,32
+Transmission Service,Mahindra,XUV700,2013,TUESDAY,129
+Engine Service,Honda,Amaze,2011,SUNDAY,109
+Battery Replacement,Mahindra,Bolero,2013,THURSDAY,39
+Battery Replacement,Tata,Punch,2008,FRIDAY,36
+Oil Change,Maruti Suzuki,Ertiga,2017,MONDAY,32
+Engine Service,Tata,Nexon,2023,TUESDAY,98
+Transmission Service,Tata,Harrier,2022,SATURDAY,133
+Diagnostics,Maruti Suzuki,Swift,2018,TUESDAY,59
+Brake Service,Tata,Altroz,2023,TUESDAY,63
+Oil Change,Ford,EcoSport,2024,MONDAY,30
+Brake Service,Kia,Seltos,2017,WEDNESDAY,73
+Wheel Alignment,Kia,Sonet,2021,THURSDAY,59
+General Inspection,Ford,EcoSport,2023,MONDAY,39
+AC Repair,Toyota,Glanza,2017,SUNDAY,93
+Oil Change,Hyundai,Creta,2010,WEDNESDAY,39
+Transmission Service,Tata,Harrier,2009,FRIDAY,136
+Oil Change,Hyundai,Venue,2020,TUESDAY,30
+AC Repair,Tata,Harrier,2009,TUESDAY,90
+General Inspection,Ford,EcoSport,2015,SATURDAY,49
+Diagnostics,Honda,Elevate,2008,MONDAY,73
+AC Repair,Honda,Elevate,2011,WEDNESDAY,88
+Brake Service,Tata,Punch,2015,WEDNESDAY,68
+AC Repair,Hyundai,Creta,2012,FRIDAY,86
+AC Repair,Toyota,Innova,2016,THURSDAY,89
+Oil Change,Kia,Sonet,2020,WEDNESDAY,33
+Diagnostics,Toyota,Fortuner,2008,SATURDAY,72
+AC Repair,Hyundai,Verna,2012,SATURDAY,93
+General Inspection,Maruti Suzuki,Baleno,2023,MONDAY,40
+Battery Replacement,Mahindra,XUV700,2016,SATURDAY,44
+Wheel Alignment,Toyota,Glanza,2026,WEDNESDAY,42
+General Inspection,Maruti Suzuki,Brezza,2014,MONDAY,41
+Battery Replacement,Hyundai,Verna,2023,MONDAY,35
+General Inspection,Honda,City,2020,TUESDAY,48
+General Inspection,Honda,Amaze,2019,THURSDAY,46
+Battery Replacement,Ford,EcoSport,2024,SUNDAY,45
+Brake Service,Hyundai,i20,2012,WEDNESDAY,68
+Wheel Alignment,Tata,Harrier,2022,TUESDAY,54
+AC Repair,Tata,Harrier,2024,MONDAY,70
+Tire Replacement,Tata,Altroz,2018,SATURDAY,57
+Diagnostics,Maruti Suzuki,Baleno,2024,WEDNESDAY,55
+Engine Service,Tata,Altroz,2025,WEDNESDAY,104
+AC Repair,Hyundai,Creta,2018,WEDNESDAY,80
+Oil Change,Tata,Nexon,2015,MONDAY,31
+AC Repair,Maruti Suzuki,Baleno,2009,FRIDAY,93
+Engine Service,Maruti Suzuki,Swift,2023,FRIDAY,93
+Transmission Service,Kia,Sonet,2015,SATURDAY,148
+Diagnostics,Toyota,Glanza,2022,THURSDAY,60
+Engine Service,Mahindra,XUV700,2012,WEDNESDAY,103
+Battery Replacement,Kia,Sonet,2013,WEDNESDAY,40
+Wheel Alignment,Tata,Nexon,2022,THURSDAY,47
+Engine Service,Honda,Amaze,2012,SUNDAY,111
+AC Repair,Kia,Sonet,2022,SATURDAY,81
+Diagnostics,Ford,Figo,2022,WEDNESDAY,53
+Battery Replacement,Honda,City,2014,SATURDAY,50
+Tire Replacement,Honda,Elevate,2019,THURSDAY,41
+AC Repair,Mahindra,Bolero,2017,TUESDAY,74
+AC Repair,Tata,Punch,2011,FRIDAY,83
+Transmission Service,Kia,Seltos,2014,TUESDAY,129
+Brake Service,Tata,Punch,2024,THURSDAY,64
+Tire Replacement,Kia,Seltos,2016,SATURDAY,62
+Transmission Service,Tata,Punch,2026,SUNDAY,134
+Brake Service,Ford,EcoSport,2012,SUNDAY,74
+Diagnostics,Mahindra,Bolero,2024,SATURDAY,64
+General Inspection,Maruti Suzuki,Swift,2008,MONDAY,46
+Oil Change,Mahindra,XUV700,2018,WEDNESDAY,33
+Tire Replacement,Toyota,Innova,2019,FRIDAY,54
+Brake Service,Ford,Figo,2018,SATURDAY,78
+Engine Service,Tata,Altroz,2013,THURSDAY,111
+General Inspection,Kia,Seltos,2025,FRIDAY,38
+Wheel Alignment,Honda,City,2012,THURSDAY,53
+General Inspection,Hyundai,Creta,2020,THURSDAY,41
+Oil Change,Mahindra,Scorpio,2026,FRIDAY,33
+Battery Replacement,Ford,EcoSport,2023,SATURDAY,35
+General Inspection,Mahindra,XUV700,2013,TUESDAY,43
+Transmission Service,Toyota,Fortuner,2020,TUESDAY,150
+Tire Replacement,Mahindra,Scorpio,2010,WEDNESDAY,60
+Transmission Service,Ford,EcoSport,2026,THURSDAY,131
+Wheel Alignment,Honda,Elevate,2016,FRIDAY,59
+Oil Change,Ford,Figo,2013,MONDAY,32
+Wheel Alignment,Ford,Figo,2018,MONDAY,49
+Wheel Alignment,Ford,EcoSport,2018,FRIDAY,67
+Transmission Service,Hyundai,i20,2017,THURSDAY,138
+Tire Replacement,Ford,Figo,2020,MONDAY,47
+AC Repair,Mahindra,Scorpio,2024,SUNDAY,74
+AC Repair,Kia,Sonet,2012,WEDNESDAY,80
+Diagnostics,Toyota,Glanza,2010,THURSDAY,58
+General Inspection,Mahindra,Bolero,2011,MONDAY,50
+General Inspection,Honda,City,2013,WEDNESDAY,40
+General Inspection,Tata,Altroz,2010,SUNDAY,58
+Brake Service,Maruti Suzuki,Baleno,2026,SATURDAY,73
+Diagnostics,Mahindra,Bolero,2011,FRIDAY,74
+Tire Replacement,Maruti Suzuki,Baleno,2010,SATURDAY,66
+General Inspection,Hyundai,Verna,2015,TUESDAY,47
+Brake Service,Honda,Amaze,2014,SATURDAY,80
+Diagnostics,Tata,Punch,2017,SATURDAY,65
+Oil Change,Ford,EcoSport,2024,MONDAY,25
+General Inspection,Tata,Altroz,2016,TUESDAY,49
+Tire Replacement,Maruti Suzuki,Swift,2014,TUESDAY,47
+Brake Service,Honda,City,2020,SATURDAY,77
+AC Repair,Toyota,Innova,2021,WEDNESDAY,69
+Brake Service,Honda,Elevate,2008,SATURDAY,88
+Wheel Alignment,Tata,Nexon,2009,MONDAY,54
+Diagnostics,Mahindra,Bolero,2009,FRIDAY,68
+Diagnostics,Hyundai,i20,2018,FRIDAY,57
+Brake Service,Maruti Suzuki,Ertiga,2018,THURSDAY,59
+Brake Service,Ford,Figo,2023,WEDNESDAY,71
+Engine Service,Honda,City,2026,TUESDAY,98
+Diagnostics,Ford,Figo,2020,THURSDAY,60
+Diagnostics,Ford,EcoSport,2012,SATURDAY,74
+Oil Change,Tata,Harrier,2020,SUNDAY,32
+Battery Replacement,Kia,Sonet,2008,THURSDAY,43
+Battery Replacement,Tata,Altroz,2014,MONDAY,35
+Oil Change,Kia,Sonet,2012,WEDNESDAY,35
+AC Repair,Tata,Harrier,2025,WEDNESDAY,72
+Tire Replacement,Honda,Amaze,2023,THURSDAY,39
+Diagnostics,Hyundai,Venue,2011,MONDAY,69
+Brake Service,Ford,Figo,2012,TUESDAY,63
+Tire Replacement,Kia,Sonet,2008,WEDNESDAY,52
+Battery Replacement,Mahindra,Bolero,2017,SATURDAY,41
+Transmission Service,Tata,Harrier,2018,SATURDAY,140
+Brake Service,Tata,Harrier,2026,THURSDAY,66
+AC Repair,Honda,City,2018,SATURDAY,91
+Tire Replacement,Mahindra,Bolero,2023,SUNDAY,50
+Brake Service,Honda,City,2018,SUNDAY,78
+Transmission Service,Honda,Elevate,2026,FRIDAY,128
+Diagnostics,Ford,EcoSport,2018,FRIDAY,73
+General Inspection,Kia,Seltos,2018,MONDAY,39
+Wheel Alignment,Maruti Suzuki,Brezza,2020,SUNDAY,58
+Tire Replacement,Toyota,Fortuner,2012,WEDNESDAY,53
+Tire Replacement,Honda,Elevate,2008,WEDNESDAY,52
+Brake Service,Ford,EcoSport,2016,WEDNESDAY,62
+Engine Service,Honda,Elevate,2014,FRIDAY,109
+Transmission Service,Maruti Suzuki,Ertiga,2009,SATURDAY,174
+Engine Service,Toyota,Innova,2020,THURSDAY,89
+Oil Change,Toyota,Glanza,2014,TUESDAY,34
+AC Repair,Maruti Suzuki,Ertiga,2022,SUNDAY,82
+Battery Replacement,Ford,Figo,2025,TUESDAY,31
+General Inspection,Toyota,Glanza,2016,TUESDAY,41
+Transmission Service,Ford,Figo,2013,FRIDAY,166
+General Inspection,Hyundai,Venue,2025,THURSDAY,48
+Brake Service,Tata,Harrier,2020,FRIDAY,74
+Brake Service,Kia,Seltos,2018,FRIDAY,70
+Oil Change,Toyota,Glanza,2026,SUNDAY,27
+Oil Change,Tata,Punch,2010,MONDAY,33
+Battery Replacement,Tata,Nexon,2024,TUESDAY,38
+Brake Service,Mahindra,Scorpio,2010,THURSDAY,69
+Brake Service,Maruti Suzuki,Brezza,2020,FRIDAY,73
+AC Repair,Tata,Nexon,2014,THURSDAY,83
+Battery Replacement,Maruti Suzuki,Ertiga,2015,TUESDAY,45
+Oil Change,Hyundai,Creta,2023,MONDAY,33
+Oil Change,Honda,City,2012,SUNDAY,40
+AC Repair,Kia,Seltos,2024,SUNDAY,84
+Wheel Alignment,Ford,EcoSport,2021,FRIDAY,59
+Oil Change,Honda,City,2026,THURSDAY,31
+Oil Change,Mahindra,Bolero,2010,FRIDAY,40
+Battery Replacement,Kia,Seltos,2012,FRIDAY,40
+Oil Change,Toyota,Glanza,2025,WEDNESDAY,29
+Tire Replacement,Toyota,Glanza,2014,WEDNESDAY,51
+Wheel Alignment,Kia,Seltos,2017,THURSDAY,62
+Engine Service,Kia,Seltos,2013,MONDAY,106
+Oil Change,Kia,Seltos,2014,TUESDAY,35
+Wheel Alignment,Honda,Elevate,2017,WEDNESDAY,47
+Diagnostics,Hyundai,Creta,2026,SUNDAY,60
+Wheel Alignment,Hyundai,Creta,2013,SUNDAY,70
+Brake Service,Honda,Amaze,2020,SATURDAY,66
+Transmission Service,Tata,Punch,2023,FRIDAY,161
+Transmission Service,Toyota,Fortuner,2015,MONDAY,117
+Oil Change,Hyundai,i20,2016,MONDAY,29
+Wheel Alignment,Ford,Figo,2026,TUESDAY,54
+Tire Replacement,Kia,Sonet,2010,WEDNESDAY,56
+AC Repair,Hyundai,Venue,2009,MONDAY,81
+Tire Replacement,Maruti Suzuki,Swift,2023,TUESDAY,50
+Oil Change,Maruti Suzuki,Swift,2015,THURSDAY,37
+Engine Service,Toyota,Glanza,2008,SATURDAY,113
+Transmission Service,Ford,EcoSport,2012,TUESDAY,157
+Oil Change,Hyundai,Verna,2021,SUNDAY,37
+Diagnostics,Kia,Seltos,2008,FRIDAY,75
+Wheel Alignment,Toyota,Fortuner,2023,TUESDAY,47
+Wheel Alignment,Hyundai,Venue,2014,TUESDAY,54
+Oil Change,Kia,Sonet,2015,SATURDAY,34
+Oil Change,Toyota,Glanza,2010,FRIDAY,33
+Engine Service,Tata,Harrier,2019,SATURDAY,125
+Engine Service,Tata,Harrier,2019,THURSDAY,102
+Diagnostics,Mahindra,Scorpio,2012,SUNDAY,76
+Diagnostics,Kia,Sonet,2021,MONDAY,49
+Brake Service,Mahindra,Bolero,2022,THURSDAY,55
+Engine Service,Tata,Nexon,2018,FRIDAY,126
+Battery Replacement,Mahindra,Bolero,2013,SUNDAY,40
+Transmission Service,Tata,Altroz,2020,MONDAY,140
+Engine Service,Hyundai,i20,2026,MONDAY,73
+Wheel Alignment,Tata,Altroz,2018,THURSDAY,61
+Brake Service,Kia,Sonet,2015,FRIDAY,78
+Brake Service,Kia,Seltos,2015,SATURDAY,76
+Tire Replacement,Hyundai,i20,2023,TUESDAY,45
+General Inspection,Toyota,Innova,2020,WEDNESDAY,45
+General Inspection,Honda,City,2008,MONDAY,43
+Wheel Alignment,Maruti Suzuki,Baleno,2013,SUNDAY,64
+Wheel Alignment,Ford,EcoSport,2021,WEDNESDAY,51
+AC Repair,Hyundai,Venue,2018,THURSDAY,73
+Transmission Service,Ford,EcoSport,2023,MONDAY,132
+Diagnostics,Mahindra,Scorpio,2008,WEDNESDAY,62
+AC Repair,Maruti Suzuki,Brezza,2026,FRIDAY,60
+Brake Service,Ford,EcoSport,2020,MONDAY,74
+General Inspection,Ford,Figo,2025,MONDAY,39
+General Inspection,Honda,Elevate,2011,THURSDAY,45
+Transmission Service,Ford,EcoSport,2018,WEDNESDAY,139
+Engine Service,Ford,EcoSport,2021,MONDAY,100
+Oil Change,Ford,EcoSport,2024,TUESDAY,31
+Diagnostics,Toyota,Fortuner,2026,THURSDAY,57
+Oil Change,Toyota,Fortuner,2011,SATURDAY,37
+Engine Service,Ford,EcoSport,2022,WEDNESDAY,96
+Transmission Service,Mahindra,Scorpio,2011,SATURDAY,160
+Battery Replacement,Maruti Suzuki,Baleno,2023,THURSDAY,36
+Battery Replacement,Kia,Seltos,2017,TUESDAY,42
+Tire Replacement,Mahindra,Bolero,2026,SUNDAY,42
+General Inspection,Maruti Suzuki,Baleno,2012,TUESDAY,47
+Transmission Service,Hyundai,Verna,2023,WEDNESDAY,128
+Engine Service,Mahindra,Bolero,2025,MONDAY,82
+AC Repair,Ford,EcoSport,2016,THURSDAY,72
+General Inspection,Maruti Suzuki,Ertiga,2019,THURSDAY,42
+AC Repair,Honda,City,2011,MONDAY,87
+Tire Replacement,Ford,Figo,2025,WEDNESDAY,51
+Diagnostics,Maruti Suzuki,Baleno,2026,THURSDAY,56
+Tire Replacement,Tata,Harrier,2012,SATURDAY,61
+AC Repair,Hyundai,Venue,2009,FRIDAY,88
+Wheel Alignment,Hyundai,Venue,2012,WEDNESDAY,56
+Tire Replacement,Ford,EcoSport,2014,SATURDAY,54
+General Inspection,Tata,Punch,2025,SATURDAY,47
+Engine Service,Maruti Suzuki,Baleno,2012,SUNDAY,98
+General Inspection,Ford,EcoSport,2026,TUESDAY,40
+Tire Replacement,Kia,Sonet,2015,SUNDAY,56
+AC Repair,Hyundai,Venue,2020,MONDAY,77
+Tire Replacement,Mahindra,Scorpio,2022,FRIDAY,51
+Battery Replacement,Ford,Figo,2013,TUESDAY,38
+Transmission Service,Toyota,Glanza,2010,THURSDAY,132
+Engine Service,Maruti Suzuki,Baleno,2009,WEDNESDAY,101
+Wheel Alignment,Kia,Sonet,2022,SATURDAY,64
+Wheel Alignment,Mahindra,Scorpio,2023,FRIDAY,44
+Diagnostics,Kia,Seltos,2023,WEDNESDAY,62
+Brake Service,Maruti Suzuki,Ertiga,2016,WEDNESDAY,71
+Wheel Alignment,Honda,Amaze,2018,TUESDAY,51
+Wheel Alignment,Honda,Amaze,2024,SATURDAY,57
+AC Repair,Toyota,Glanza,2021,SATURDAY,79
+Battery Replacement,Toyota,Innova,2019,SATURDAY,39
+Engine Service,Mahindra,XUV700,2022,FRIDAY,95
+Wheel Alignment,Honda,City,2018,TUESDAY,54
+Diagnostics,Mahindra,XUV700,2020,THURSDAY,56
+Diagnostics,Mahindra,XUV700,2016,FRIDAY,52
+General Inspection,Toyota,Innova,2020,SUNDAY,43
+General Inspection,Honda,Amaze,2023,THURSDAY,40
+Engine Service,Toyota,Fortuner,2026,THURSDAY,91
+AC Repair,Ford,EcoSport,2023,THURSDAY,75
+AC Repair,Mahindra,XUV700,2012,TUESDAY,90
+Oil Change,Hyundai,i20,2016,MONDAY,37
+Engine Service,Toyota,Innova,2011,SATURDAY,120
+Transmission Service,Hyundai,i20,2011,WEDNESDAY,134
+Transmission Service,Toyota,Glanza,2021,TUESDAY,129
+Transmission Service,Toyota,Fortuner,2019,SUNDAY,160
+Tire Replacement,Tata,Nexon,2025,FRIDAY,47
+AC Repair,Honda,Elevate,2008,TUESDAY,87
+General Inspection,Toyota,Glanza,2011,MONDAY,47
+Tire Replacement,Ford,EcoSport,2013,TUESDAY,57
+Wheel Alignment,Maruti Suzuki,Swift,2015,SATURDAY,63
+Transmission Service,Kia,Sonet,2014,TUESDAY,152
+General Inspection,Maruti Suzuki,Brezza,2022,THURSDAY,47
+Transmission Service,Kia,Seltos,2025,SUNDAY,154
+Wheel Alignment,Honda,Elevate,2023,THURSDAY,53
+Brake Service,Hyundai,Verna,2024,FRIDAY,57
+AC Repair,Ford,EcoSport,2019,TUESDAY,73
+AC Repair,Tata,Punch,2014,TUESDAY,71
+Brake Service,Mahindra,Scorpio,2016,TUESDAY,64
+AC Repair,Ford,EcoSport,2026,TUESDAY,55
+General Inspection,Ford,EcoSport,2020,FRIDAY,43
+Diagnostics,Kia,Sonet,2021,MONDAY,63
+AC Repair,Toyota,Glanza,2015,WEDNESDAY,63
+Diagnostics,Tata,Altroz,2015,SUNDAY,82
+Transmission Service,Honda,City,2020,WEDNESDAY,137
+Battery Replacement,Maruti Suzuki,Swift,2016,MONDAY,40
+Engine Service,Toyota,Glanza,2012,WEDNESDAY,111
+Battery Replacement,Honda,Amaze,2017,TUESDAY,42
+Engine Service,Maruti Suzuki,Baleno,2010,FRIDAY,124
+Battery Replacement,Toyota,Fortuner,2023,THURSDAY,38
+Battery Replacement,Honda,City,2014,FRIDAY,42
+General Inspection,Toyota,Innova,2025,MONDAY,39
+Diagnostics,Mahindra,Bolero,2013,TUESDAY,60
+Oil Change,Mahindra,XUV700,2016,FRIDAY,35
+Oil Change,Hyundai,Verna,2012,TUESDAY,37
+Battery Replacement,Honda,Elevate,2019,FRIDAY,40
+Wheel Alignment,Ford,EcoSport,2022,TUESDAY,50
+Battery Replacement,Hyundai,i20,2020,TUESDAY,32
+Oil Change,Toyota,Glanza,2024,SUNDAY,29
+Engine Service,Kia,Sonet,2024,WEDNESDAY,93
+Transmission Service,Kia,Sonet,2024,THURSDAY,135
+Battery Replacement,Hyundai,Creta,2010,FRIDAY,49
+Brake Service,Toyota,Innova,2021,THURSDAY,59
+Brake Service,Ford,EcoSport,2008,TUESDAY,75
+AC Repair,Tata,Punch,2026,SUNDAY,77
+Wheel Alignment,Kia,Seltos,2012,MONDAY,56
+Tire Replacement,Ford,Figo,2023,THURSDAY,42
+Tire Replacement,Ford,EcoSport,2021,MONDAY,49
+Tire Replacement,Tata,Nexon,2017,WEDNESDAY,55
+AC Repair,Kia,Seltos,2017,WEDNESDAY,80
+Engine Service,Ford,EcoSport,2023,MONDAY,90
+Engine Service,Tata,Nexon,2011,TUESDAY,111
+Engine Service,Toyota,Innova,2008,FRIDAY,114
+Oil Change,Ford,Figo,2018,SUNDAY,40
+Transmission Service,Ford,Figo,2018,WEDNESDAY,117
+Transmission Service,Maruti Suzuki,Brezza,2023,THURSDAY,140
+Engine Service,Hyundai,i20,2012,SUNDAY,106
+Diagnostics,Toyota,Innova,2012,SUNDAY,76
+Tire Replacement,Maruti Suzuki,Brezza,2016,THURSDAY,51
+Oil Change,Tata,Altroz,2021,FRIDAY,34
+Tire Replacement,Kia,Seltos,2021,FRIDAY,38
+Tire Replacement,Hyundai,i20,2013,SUNDAY,52
+Oil Change,Toyota,Fortuner,2023,SUNDAY,37
+Battery Replacement,Ford,EcoSport,2010,SATURDAY,49
+Diagnostics,Mahindra,Bolero,2019,SUNDAY,52
+Transmission Service,Mahindra,Bolero,2018,FRIDAY,144
+Battery Replacement,Toyota,Fortuner,2015,TUESDAY,41
+Wheel Alignment,Mahindra,Bolero,2017,THURSDAY,51
+AC Repair,Hyundai,Venue,2016,MONDAY,82
+Tire Replacement,Honda,Amaze,2012,MONDAY,47
+Engine Service,Mahindra,Scorpio,2020,THURSDAY,90
+Tire Replacement,Tata,Punch,2010,SUNDAY,57
+Brake Service,Hyundai,Verna,2020,SUNDAY,65
+Oil Change,Mahindra,Scorpio,2011,WEDNESDAY,37
+Tire Replacement,Ford,Figo,2020,FRIDAY,52
+Tire Replacement,Toyota,Innova,2013,WEDNESDAY,57
+Battery Replacement,Mahindra,Bolero,2020,SUNDAY,43
+Oil Change,Tata,Punch,2023,MONDAY,32
+Battery Replacement,Hyundai,i20,2023,TUESDAY,39
+Brake Service,Mahindra,Bolero,2026,MONDAY,61
+Oil Change,Tata,Harrier,2018,MONDAY,37
+Oil Change,Hyundai,Creta,2013,THURSDAY,36
+Diagnostics,Maruti Suzuki,Ertiga,2026,WEDNESDAY,50
+Transmission Service,Toyota,Innova,2010,THURSDAY,132
+Transmission Service,Toyota,Innova,2024,MONDAY,114
+Wheel Alignment,Hyundai,Verna,2018,SATURDAY,63
+Battery Replacement,Ford,Figo,2019,FRIDAY,38
+AC Repair,Kia,Seltos,2017,SATURDAY,99
+Brake Service,Honda,City,2022,TUESDAY,62
+Oil Change,Maruti Suzuki,Baleno,2011,THURSDAY,35
+Battery Replacement,Tata,Nexon,2017,SUNDAY,41
+Tire Replacement,Ford,Figo,2021,MONDAY,51
+Engine Service,Toyota,Fortuner,2014,THURSDAY,98
+AC Repair,Honda,Amaze,2010,MONDAY,77
+Oil Change,Toyota,Glanza,2013,SUNDAY,34
+AC Repair,Mahindra,Scorpio,2012,SUNDAY,90
+Brake Service,Kia,Sonet,2026,SUNDAY,66
+Battery Replacement,Toyota,Glanza,2010,THURSDAY,41
+Brake Service,Tata,Nexon,2012,TUESDAY,63
+Wheel Alignment,Honda,Elevate,2013,THURSDAY,57
+Oil Change,Hyundai,Venue,2018,SUNDAY,34
+General Inspection,Ford,EcoSport,2014,TUESDAY,43
+Brake Service,Toyota,Fortuner,2020,FRIDAY,76
+Transmission Service,Honda,Amaze,2009,THURSDAY,141
+Transmission Service,Toyota,Fortuner,2022,MONDAY,125
+Transmission Service,Maruti Suzuki,Brezza,2021,THURSDAY,129
+Transmission Service,Honda,Amaze,2026,TUESDAY,110
+Oil Change,Honda,Elevate,2026,WEDNESDAY,31
+AC Repair,Toyota,Innova,2024,TUESDAY,88
+Diagnostics,Honda,Amaze,2008,THURSDAY,68
+Oil Change,Maruti Suzuki,Ertiga,2025,SUNDAY,39
+Oil Change,Toyota,Fortuner,2009,THURSDAY,31
+Transmission Service,Honda,Elevate,2025,WEDNESDAY,126
+AC Repair,Mahindra,XUV700,2025,SATURDAY,68
+Tire Replacement,Hyundai,Verna,2010,WEDNESDAY,47
+Oil Change,Maruti Suzuki,Baleno,2016,TUESDAY,28
+Wheel Alignment,Toyota,Glanza,2013,THURSDAY,59
+General Inspection,Toyota,Glanza,2025,SATURDAY,49
+Engine Service,Maruti Suzuki,Swift,2012,SUNDAY,131
+Tire Replacement,Maruti Suzuki,Ertiga,2013,MONDAY,59
+Diagnostics,Mahindra,XUV700,2024,SUNDAY,65
+Engine Service,Maruti Suzuki,Brezza,2016,SUNDAY,101
+General Inspection,Mahindra,XUV700,2019,TUESDAY,41
+Wheel Alignment,Hyundai,i20,2010,TUESDAY,61
+Battery Replacement,Mahindra,XUV700,2024,SUNDAY,39
+Brake Service,Hyundai,Venue,2020,SUNDAY,67
+AC Repair,Maruti Suzuki,Brezza,2014,TUESDAY,84
+Transmission Service,Maruti Suzuki,Baleno,2023,FRIDAY,146
+Diagnostics,Kia,Sonet,2019,TUESDAY,61
+Tire Replacement,Hyundai,Venue,2008,SATURDAY,60
+Brake Service,Mahindra,Scorpio,2008,WEDNESDAY,72
+General Inspection,Maruti Suzuki,Baleno,2023,THURSDAY,40
+Engine Service,Mahindra,XUV700,2009,SUNDAY,121
+Wheel Alignment,Kia,Sonet,2009,SUNDAY,61
+General Inspection,Hyundai,Venue,2012,SATURDAY,54
+Battery Replacement,Toyota,Glanza,2021,MONDAY,41
+Engine Service,Mahindra,XUV700,2023,WEDNESDAY,93
+Oil Change,Toyota,Glanza,2013,SATURDAY,37
+General Inspection,Tata,Nexon,2019,MONDAY,46
+Brake Service,Mahindra,XUV700,2013,FRIDAY,75
+Tire Replacement,Maruti Suzuki,Baleno,2009,WEDNESDAY,50
+Engine Service,Maruti Suzuki,Ertiga,2025,SATURDAY,119
+Wheel Alignment,Maruti Suzuki,Brezza,2009,WEDNESDAY,64
+Brake Service,Toyota,Fortuner,2009,TUESDAY,68
+General Inspection,Maruti Suzuki,Swift,2011,THURSDAY,54
+AC Repair,Maruti Suzuki,Ertiga,2013,FRIDAY,88
+Engine Service,Honda,City,2018,TUESDAY,107
+General Inspection,Hyundai,Verna,2014,SATURDAY,61
+Battery Replacement,Tata,Altroz,2021,MONDAY,34
+Transmission Service,Honda,Amaze,2025,TUESDAY,99
+Oil Change,Kia,Seltos,2020,TUESDAY,33
+Battery Replacement,Kia,Sonet,2026,WEDNESDAY,32
+Wheel Alignment,Honda,Elevate,2011,SATURDAY,62
+Diagnostics,Hyundai,i20,2020,FRIDAY,66
+Tire Replacement,Toyota,Fortuner,2012,FRIDAY,58
+General Inspection,Honda,City,2009,TUESDAY,52
+Tire Replacement,Hyundai,i20,2020,TUESDAY,52
+General Inspection,Hyundai,Creta,2011,SUNDAY,51
+Oil Change,Kia,Seltos,2018,TUESDAY,31
+General Inspection,Mahindra,Scorpio,2021,THURSDAY,43
+Engine Service,Toyota,Glanza,2014,SUNDAY,109
+Brake Service,Honda,Elevate,2015,THURSDAY,65
+Diagnostics,Toyota,Glanza,2009,WEDNESDAY,71
+Oil Change,Hyundai,Verna,2024,WEDNESDAY,31
+Tire Replacement,Kia,Seltos,2017,TUESDAY,49
+Oil Change,Ford,EcoSport,2026,THURSDAY,32
+Brake Service,Toyota,Fortuner,2015,THURSDAY,72
+Diagnostics,Kia,Sonet,2013,THURSDAY,74
+Tire Replacement,Ford,EcoSport,2008,SUNDAY,59
+Tire Replacement,Tata,Nexon,2016,SATURDAY,63
+Brake Service,Toyota,Fortuner,2011,WEDNESDAY,75
+Wheel Alignment,Kia,Seltos,2010,FRIDAY,57
+General Inspection,Honda,Amaze,2016,SUNDAY,50
+Engine Service,Tata,Punch,2024,MONDAY,115
+Battery Replacement,Hyundai,Venue,2025,THURSDAY,35
+Tire Replacement,Tata,Nexon,2017,SATURDAY,57
+AC Repair,Toyota,Fortuner,2016,FRIDAY,85
+Transmission Service,Mahindra,XUV700,2020,THURSDAY,140
+Transmission Service,Honda,City,2018,MONDAY,139
+Tire Replacement,Mahindra,Scorpio,2015,THURSDAY,48
+Engine Service,Hyundai,i20,2011,FRIDAY,117
+Oil Change,Honda,Amaze,2021,FRIDAY,32
+General Inspection,Maruti Suzuki,Brezza,2012,TUESDAY,47
+General Inspection,Hyundai,Venue,2008,FRIDAY,47
+AC Repair,Maruti Suzuki,Ertiga,2026,THURSDAY,72
+Tire Replacement,Maruti Suzuki,Swift,2016,SUNDAY,54
+Transmission Service,Honda,City,2023,SATURDAY,142
+Oil Change,Ford,EcoSport,2021,WEDNESDAY,34
+General Inspection,Maruti Suzuki,Baleno,2026,WEDNESDAY,46
+Brake Service,Ford,EcoSport,2008,SATURDAY,81
+General Inspection,Hyundai,Venue,2014,TUESDAY,47
+Oil Change,Tata,Altroz,2014,TUESDAY,32
+Battery Replacement,Toyota,Glanza,2009,SATURDAY,43
+Oil Change,Maruti Suzuki,Baleno,2019,SATURDAY,39
+Wheel Alignment,Kia,Seltos,2010,SUNDAY,70
+Oil Change,Tata,Harrier,2009,FRIDAY,35
+Battery Replacement,Kia,Seltos,2010,SUNDAY,46
+AC Repair,Maruti Suzuki,Brezza,2015,SATURDAY,93
+Battery Replacement,Toyota,Fortuner,2024,SATURDAY,36
+Transmission Service,Mahindra,Scorpio,2013,SUNDAY,146
+Transmission Service,Honda,Amaze,2021,TUESDAY,111
+Wheel Alignment,Mahindra,Scorpio,2014,SATURDAY,60
+Oil Change,Honda,Amaze,2017,THURSDAY,34
+General Inspection,Maruti Suzuki,Baleno,2009,TUESDAY,43
+Engine Service,Maruti Suzuki,Brezza,2020,SATURDAY,98
+Battery Replacement,Hyundai,Creta,2025,TUESDAY,33
+Battery Replacement,Honda,City,2024,SUNDAY,34
+Tire Replacement,Maruti Suzuki,Ertiga,2024,FRIDAY,43
+General Inspection,Toyota,Glanza,2018,FRIDAY,48
+AC Repair,Ford,EcoSport,2012,SUNDAY,93
+Tire Replacement,Maruti Suzuki,Baleno,2022,MONDAY,42
+General Inspection,Mahindra,Scorpio,2013,SATURDAY,56
+Wheel Alignment,Mahindra,XUV700,2009,SUNDAY,66
+Oil Change,Hyundai,i20,2018,TUESDAY,33
+Transmission Service,Maruti Suzuki,Swift,2014,THURSDAY,143
+Engine Service,Mahindra,XUV700,2008,SATURDAY,121
+Battery Replacement,Mahindra,Scorpio,2020,SATURDAY,49
+Wheel Alignment,Toyota,Glanza,2013,MONDAY,65
+Engine Service,Tata,Punch,2017,THURSDAY,84
+Battery Replacement,Tata,Harrier,2024,FRIDAY,37
+Oil Change,Mahindra,Scorpio,2023,MONDAY,28
+Oil Change,Hyundai,i20,2016,TUESDAY,33
+AC Repair,Mahindra,Bolero,2018,MONDAY,71
+Engine Service,Tata,Punch,2020,FRIDAY,110
+General Inspection,Honda,Amaze,2012,SUNDAY,51
+Brake Service,Mahindra,Bolero,2009,WEDNESDAY,75
+Wheel Alignment,Tata,Punch,2009,FRIDAY,60
+Oil Change,Kia,Seltos,2015,THURSDAY,30
+Transmission Service,Ford,Figo,2008,SUNDAY,144
+Engine Service,Tata,Altroz,2010,MONDAY,97
+Wheel Alignment,Hyundai,i20,2020,WEDNESDAY,55
+Engine Service,Hyundai,Venue,2016,SUNDAY,107
+Battery Replacement,Ford,Figo,2015,FRIDAY,44
+Tire Replacement,Maruti Suzuki,Brezza,2016,TUESDAY,57
+Battery Replacement,Maruti Suzuki,Baleno,2020,FRIDAY,37
+Engine Service,Toyota,Glanza,2017,TUESDAY,87
+Oil Change,Honda,Amaze,2012,WEDNESDAY,34
+AC Repair,Honda,City,2017,SUNDAY,72
+Wheel Alignment,Maruti Suzuki,Brezza,2009,SUNDAY,56
+AC Repair,Tata,Harrier,2019,SUNDAY,94
+Wheel Alignment,Hyundai,Creta,2020,SUNDAY,60
+Brake Service,Tata,Harrier,2014,SUNDAY,84
+Oil Change,Maruti Suzuki,Brezza,2020,WEDNESDAY,30
+Wheel Alignment,Hyundai,Creta,2011,WEDNESDAY,61
+Tire Replacement,Tata,Harrier,2018,SATURDAY,62
+Oil Change,Mahindra,XUV700,2017,SATURDAY,38
+Oil Change,Toyota,Innova,2014,TUESDAY,36
+Brake Service,Honda,Elevate,2016,FRIDAY,80
+Brake Service,Maruti Suzuki,Brezza,2015,SUNDAY,76
+General Inspection,Ford,Figo,2011,FRIDAY,51
+Oil Change,Honda,City,2026,MONDAY,29
+Tire Replacement,Tata,Punch,2018,TUESDAY,47
+Oil Change,Kia,Seltos,2010,MONDAY,39
+Engine Service,Ford,Figo,2020,MONDAY,90
+Diagnostics,Kia,Seltos,2008,TUESDAY,65
+Oil Change,Maruti Suzuki,Ertiga,2021,MONDAY,32
+Engine Service,Tata,Nexon,2015,SATURDAY,110
+Diagnostics,Toyota,Fortuner,2017,SUNDAY,71
+Transmission Service,Maruti Suzuki,Brezza,2008,FRIDAY,144
+Transmission Service,Mahindra,XUV700,2009,MONDAY,131
+Wheel Alignment,Maruti Suzuki,Swift,2024,SATURDAY,59
+Engine Service,Toyota,Innova,2015,THURSDAY,95
+Engine Service,Ford,Figo,2008,FRIDAY,131
+Tire Replacement,Tata,Altroz,2014,FRIDAY,66
+Transmission Service,Tata,Nexon,2015,THURSDAY,134
+General Inspection,Maruti Suzuki,Ertiga,2009,SATURDAY,58
+Wheel Alignment,Tata,Punch,2009,SUNDAY,64
+Brake Service,Honda,Amaze,2020,THURSDAY,65
+AC Repair,Hyundai,i20,2011,SATURDAY,103
+Oil Change,Hyundai,Creta,2009,FRIDAY,41
+Tire Replacement,Mahindra,Scorpio,2020,FRIDAY,58
+Oil Change,Kia,Seltos,2022,MONDAY,35
+Brake Service,Honda,City,2013,SUNDAY,79
+Brake Service,Hyundai,Verna,2024,FRIDAY,77
+Battery Replacement,Kia,Seltos,2023,SATURDAY,44
+Engine Service,Tata,Altroz,2024,SUNDAY,94
+Wheel Alignment,Toyota,Fortuner,2009,MONDAY,60
+Oil Change,Ford,EcoSport,2018,WEDNESDAY,39
+Tire Replacement,Ford,EcoSport,2021,MONDAY,49
+Transmission Service,Maruti Suzuki,Swift,2011,SATURDAY,180
+Brake Service,Ford,EcoSport,2009,FRIDAY,69
+General Inspection,Toyota,Glanza,2026,TUESDAY,44
+Oil Change,Ford,Figo,2026,SUNDAY,36
+Transmission Service,Kia,Sonet,2017,SUNDAY,164
+Engine Service,Ford,EcoSport,2024,WEDNESDAY,102
+Transmission Service,Kia,Seltos,2012,WEDNESDAY,157
+Transmission Service,Maruti Suzuki,Ertiga,2008,SUNDAY,145
+Transmission Service,Honda,City,2014,MONDAY,137
+Battery Replacement,Honda,Amaze,2012,SUNDAY,48
+Engine Service,Hyundai,Verna,2008,FRIDAY,110
+Diagnostics,Tata,Punch,2011,THURSDAY,66
+Oil Change,Ford,EcoSport,2014,WEDNESDAY,26
+Engine Service,Honda,Elevate,2015,WEDNESDAY,96
+Brake Service,Honda,Elevate,2012,SATURDAY,73
+Engine Service,Hyundai,Venue,2008,WEDNESDAY,124
+General Inspection,Tata,Punch,2018,MONDAY,42
+Engine Service,Tata,Punch,2026,SUNDAY,90
+AC Repair,Toyota,Innova,2025,THURSDAY,79
+Transmission Service,Kia,Sonet,2021,SATURDAY,167
+Oil Change,Ford,Figo,2011,SATURDAY,43
+Battery Replacement,Honda,Elevate,2018,FRIDAY,36
+General Inspection,Toyota,Innova,2016,THURSDAY,53
+Engine Service,Tata,Altroz,2026,SUNDAY,102
+Wheel Alignment,Hyundai,i20,2013,THURSDAY,48
+Tire Replacement,Hyundai,i20,2024,THURSDAY,38
+AC Repair,Maruti Suzuki,Swift,2011,SUNDAY,82
+AC Repair,Honda,City,2010,SATURDAY,98
+Oil Change,Hyundai,i20,2020,FRIDAY,38
+Oil Change,Toyota,Innova,2017,SATURDAY,34
+Brake Service,Hyundai,Verna,2021,SUNDAY,63
+Battery Replacement,Honda,Elevate,2022,SATURDAY,41
+Brake Service,Honda,Elevate,2016,WEDNESDAY,69
+Oil Change,Ford,Figo,2022,FRIDAY,33
+Diagnostics,Tata,Punch,2021,SATURDAY,70
+Battery Replacement,Tata,Harrier,2008,FRIDAY,45
+Diagnostics,Ford,Figo,2009,TUESDAY,56
+Transmission Service,Maruti Suzuki,Ertiga,2008,THURSDAY,158
+Wheel Alignment,Maruti Suzuki,Baleno,2014,TUESDAY,54
+Diagnostics,Honda,City,2012,WEDNESDAY,56
+Tire Replacement,Mahindra,Scorpio,2011,THURSDAY,61
+Engine Service,Maruti Suzuki,Brezza,2008,TUESDAY,117
+Battery Replacement,Maruti Suzuki,Swift,2013,MONDAY,34
+AC Repair,Maruti Suzuki,Baleno,2021,TUESDAY,83
+Brake Service,Tata,Punch,2023,FRIDAY,50
+Transmission Service,Mahindra,Scorpio,2011,TUESDAY,143
+Engine Service,Toyota,Glanza,2016,FRIDAY,109
+Oil Change,Tata,Harrier,2009,TUESDAY,37
+Oil Change,Maruti Suzuki,Brezza,2016,WEDNESDAY,32
+Oil Change,Honda,Amaze,2014,SATURDAY,39
+Diagnostics,Maruti Suzuki,Baleno,2022,SATURDAY,69
+Diagnostics,Tata,Altroz,2010,MONDAY,69
+Diagnostics,Tata,Nexon,2014,WEDNESDAY,56
+Engine Service,Kia,Seltos,2026,FRIDAY,85
+Transmission Service,Ford,EcoSport,2021,SUNDAY,159
+Tire Replacement,Honda,City,2024,TUESDAY,32
+AC Repair,Hyundai,Venue,2015,FRIDAY,77
+Diagnostics,Hyundai,Verna,2026,FRIDAY,57
+General Inspection,Ford,Figo,2009,THURSDAY,43
+Diagnostics,Honda,Amaze,2024,SUNDAY,66
+Oil Change,Mahindra,XUV700,2020,FRIDAY,28
+Battery Replacement,Maruti Suzuki,Baleno,2013,TUESDAY,38
+Battery Replacement,Maruti Suzuki,Brezza,2019,MONDAY,36
+Brake Service,Ford,EcoSport,2016,THURSDAY,58
+Engine Service,Tata,Nexon,2026,TUESDAY,84
+Brake Service,Kia,Sonet,2009,FRIDAY,66
+Wheel Alignment,Honda,Amaze,2025,WEDNESDAY,46
+Engine Service,Hyundai,Creta,2012,MONDAY,115
+Transmission Service,Honda,Elevate,2025,THURSDAY,104
+Transmission Service,Toyota,Fortuner,2017,SATURDAY,170
+Brake Service,Maruti Suzuki,Swift,2017,WEDNESDAY,76
+Diagnostics,Ford,EcoSport,2022,MONDAY,55
+Engine Service,Kia,Sonet,2020,THURSDAY,101
+Tire Replacement,Tata,Nexon,2022,WEDNESDAY,46
+Transmission Service,Maruti Suzuki,Brezza,2023,FRIDAY,134
+Engine Service,Ford,Figo,2025,TUESDAY,98
+AC Repair,Ford,EcoSport,2012,WEDNESDAY,75
+Engine Service,Honda,Amaze,2009,SUNDAY,112
+Engine Service,Hyundai,Verna,2013,SATURDAY,113
+Tire Replacement,Mahindra,XUV700,2016,MONDAY,46
+AC Repair,Kia,Sonet,2022,FRIDAY,65
+Oil Change,Hyundai,i20,2013,WEDNESDAY,36
+Brake Service,Mahindra,Scorpio,2016,TUESDAY,65
+Engine Service,Kia,Sonet,2026,THURSDAY,93
+Transmission Service,Toyota,Innova,2015,SATURDAY,167
+Battery Replacement,Toyota,Glanza,2015,SUNDAY,48
+Transmission Service,Maruti Suzuki,Ertiga,2020,TUESDAY,123
+Wheel Alignment,Maruti Suzuki,Ertiga,2013,FRIDAY,61
+Diagnostics,Tata,Harrier,2020,TUESDAY,50
+Transmission Service,Tata,Punch,2026,TUESDAY,126
+Engine Service,Mahindra,XUV700,2015,SUNDAY,107
+Engine Service,Maruti Suzuki,Brezza,2019,WEDNESDAY,110
+Engine Service,Toyota,Glanza,2025,WEDNESDAY,93
+Oil Change,Mahindra,Scorpio,2017,SUNDAY,37
+Wheel Alignment,Maruti Suzuki,Swift,2011,THURSDAY,60
+Transmission Service,Ford,EcoSport,2009,TUESDAY,123
+Transmission Service,Honda,Amaze,2009,MONDAY,139
+Brake Service,Honda,Amaze,2017,MONDAY,63
+Brake Service,Mahindra,XUV700,2011,TUESDAY,77
+Battery Replacement,Mahindra,Bolero,2014,SUNDAY,39
+Engine Service,Maruti Suzuki,Baleno,2021,THURSDAY,102
+Brake Service,Hyundai,i20,2016,SUNDAY,81
+General Inspection,Toyota,Innova,2009,SUNDAY,58
+Brake Service,Tata,Punch,2020,FRIDAY,47
+Transmission Service,Ford,EcoSport,2012,SUNDAY,147
+Diagnostics,Hyundai,Venue,2019,TUESDAY,60
+Engine Service,Mahindra,Scorpio,2013,TUESDAY,115
+Brake Service,Kia,Sonet,2009,WEDNESDAY,76
+AC Repair,Ford,Figo,2016,WEDNESDAY,71
+Battery Replacement,Tata,Punch,2018,FRIDAY,37
+Wheel Alignment,Mahindra,Bolero,2026,THURSDAY,57
+Brake Service,Mahindra,Bolero,2017,TUESDAY,61
+Transmission Service,Maruti Suzuki,Swift,2021,WEDNESDAY,127
+Oil Change,Tata,Nexon,2009,MONDAY,37
+Tire Replacement,Honda,City,2015,TUESDAY,54
+General Inspection,Mahindra,Scorpio,2010,TUESDAY,51
+Oil Change,Honda,Elevate,2021,FRIDAY,33
+Battery Replacement,Maruti Suzuki,Ertiga,2017,WEDNESDAY,41
+AC Repair,Kia,Sonet,2012,THURSDAY,75
+Tire Replacement,Kia,Sonet,2022,SATURDAY,60
+Battery Replacement,Hyundai,Creta,2019,SUNDAY,40
+Engine Service,Tata,Harrier,2017,TUESDAY,103
+Tire Replacement,Tata,Nexon,2012,TUESDAY,52
+General Inspection,Tata,Altroz,2012,SUNDAY,48
+Transmission Service,Maruti Suzuki,Swift,2020,SATURDAY,135
+Oil Change,Maruti Suzuki,Baleno,2021,WEDNESDAY,30
+Engine Service,Ford,Figo,2008,FRIDAY,112
+Battery Replacement,Ford,Figo,2024,SATURDAY,45
+Battery Replacement,Mahindra,Scorpio,2022,WEDNESDAY,39
+Wheel Alignment,Mahindra,Bolero,2016,THURSDAY,58
+Transmission Service,Hyundai,Venue,2012,FRIDAY,152
+General Inspection,Ford,Figo,2025,TUESDAY,40
+Engine Service,Tata,Punch,2011,SATURDAY,113
+Diagnostics,Tata,Nexon,2022,SATURDAY,68
+Tire Replacement,Tata,Nexon,2018,TUESDAY,54
+Battery Replacement,Tata,Altroz,2021,TUESDAY,43
+Brake Service,Maruti Suzuki,Ertiga,2015,FRIDAY,69
+Engine Service,Tata,Altroz,2013,WEDNESDAY,96
+Tire Replacement,Honda,Amaze,2025,WEDNESDAY,40
+Wheel Alignment,Kia,Seltos,2023,SATURDAY,55
+Diagnostics,Honda,City,2020,WEDNESDAY,52
+Tire Replacement,Hyundai,Venue,2016,SUNDAY,55
+Diagnostics,Maruti Suzuki,Baleno,2022,FRIDAY,71
+Transmission Service,Ford,EcoSport,2013,FRIDAY,148
+Oil Change,Mahindra,XUV700,2022,SUNDAY,36
+Engine Service,Ford,EcoSport,2014,THURSDAY,99
+Battery Replacement,Honda,City,2012,MONDAY,35
+General Inspection,Tata,Harrier,2020,SATURDAY,51
+Engine Service,Honda,City,2009,MONDAY,89
+Wheel Alignment,Ford,Figo,2024,FRIDAY,47
+Brake Service,Honda,Elevate,2019,SATURDAY,75
+Engine Service,Mahindra,XUV700,2015,SATURDAY,97
+Oil Change,Honda,City,2016,WEDNESDAY,32
+Tire Replacement,Kia,Seltos,2026,SUNDAY,51
+Diagnostics,Maruti Suzuki,Ertiga,2013,TUESDAY,59
+Transmission Service,Maruti Suzuki,Swift,2012,SATURDAY,143
+Transmission Service,Mahindra,Bolero,2008,MONDAY,132
+Wheel Alignment,Honda,Amaze,2016,SATURDAY,68
+Oil Change,Honda,City,2026,THURSDAY,27
+Diagnostics,Maruti Suzuki,Baleno,2026,THURSDAY,67
+Battery Replacement,Kia,Seltos,2012,SATURDAY,52
+Battery Replacement,Maruti Suzuki,Baleno,2013,MONDAY,46
+Diagnostics,Kia,Sonet,2012,MONDAY,55
+General Inspection,Maruti Suzuki,Swift,2011,THURSDAY,45
+Battery Replacement,Hyundai,i20,2009,THURSDAY,42
+Battery Replacement,Mahindra,Bolero,2024,SUNDAY,37
+Transmission Service,Honda,City,2017,FRIDAY,143
+Tire Replacement,Kia,Sonet,2018,TUESDAY,43
+Diagnostics,Toyota,Fortuner,2011,TUESDAY,63
+Wheel Alignment,Tata,Nexon,2010,WEDNESDAY,65
+AC Repair,Tata,Harrier,2008,FRIDAY,88
+Brake Service,Tata,Altroz,2017,THURSDAY,74
+Transmission Service,Honda,Elevate,2019,WEDNESDAY,147
+AC Repair,Maruti Suzuki,Swift,2014,SATURDAY,87
+Battery Replacement,Ford,EcoSport,2011,TUESDAY,37
+Diagnostics,Maruti Suzuki,Baleno,2016,TUESDAY,57
+Brake Service,Mahindra,Scorpio,2017,SUNDAY,76
+Battery Replacement,Honda,City,2016,MONDAY,44
+Oil Change,Tata,Punch,2009,THURSDAY,32
+General Inspection,Mahindra,Bolero,2013,THURSDAY,47
+Oil Change,Tata,Nexon,2022,SATURDAY,40
+General Inspection,Kia,Sonet,2026,MONDAY,38
+Wheel Alignment,Maruti Suzuki,Ertiga,2018,WEDNESDAY,56
+Battery Replacement,Hyundai,Creta,2017,MONDAY,39
+Transmission Service,Mahindra,Scorpio,2023,FRIDAY,137
+Diagnostics,Mahindra,Scorpio,2017,FRIDAY,69
+Brake Service,Mahindra,Scorpio,2021,SUNDAY,73
+Battery Replacement,Honda,Amaze,2023,SUNDAY,45
+Wheel Alignment,Ford,Figo,2008,MONDAY,65
+Oil Change,Hyundai,i20,2024,MONDAY,31
+AC Repair,Honda,City,2022,THURSDAY,74
+Wheel Alignment,Maruti Suzuki,Brezza,2013,THURSDAY,52
+Engine Service,Maruti Suzuki,Ertiga,2022,MONDAY,93
+Battery Replacement,Hyundai,i20,2018,SATURDAY,45
+Engine Service,Hyundai,Verna,2022,MONDAY,96
+Tire Replacement,Hyundai,Verna,2015,WEDNESDAY,52
+Wheel Alignment,Mahindra,Bolero,2016,THURSDAY,57
+Wheel Alignment,Honda,Amaze,2013,MONDAY,57
+Transmission Service,Kia,Seltos,2019,FRIDAY,134
+Engine Service,Mahindra,Scorpio,2021,SATURDAY,103
+Oil Change,Honda,City,2025,MONDAY,31
+Brake Service,Honda,Elevate,2014,FRIDAY,63
+Diagnostics,Toyota,Glanza,2020,THURSDAY,65
+Battery Replacement,Maruti Suzuki,Ertiga,2026,MONDAY,28
+Diagnostics,Hyundai,i20,2009,WEDNESDAY,63
+AC Repair,Kia,Sonet,2011,WEDNESDAY,92
+Oil Change,Maruti Suzuki,Swift,2009,THURSDAY,34
+Transmission Service,Ford,Figo,2011,WEDNESDAY,161
+Wheel Alignment,Honda,Elevate,2025,MONDAY,53
+Transmission Service,Toyota,Fortuner,2008,WEDNESDAY,142
+General Inspection,Mahindra,XUV700,2009,WEDNESDAY,61
+Transmission Service,Hyundai,Venue,2023,THURSDAY,127
+Diagnostics,Honda,Elevate,2010,TUESDAY,58
+Diagnostics,Ford,EcoSport,2021,THURSDAY,51
+General Inspection,Kia,Sonet,2011,TUESDAY,43
+Tire Replacement,Ford,Figo,2009,THURSDAY,50
+Tire Replacement,Tata,Harrier,2021,TUESDAY,48
+Tire Replacement,Toyota,Fortuner,2026,MONDAY,50
+Oil Change,Maruti Suzuki,Ertiga,2013,THURSDAY,35
+Battery Replacement,Hyundai,Creta,2022,MONDAY,30
+Engine Service,Tata,Nexon,2010,THURSDAY,105
+Oil Change,Tata,Nexon,2016,MONDAY,37
+Engine Service,Maruti Suzuki,Baleno,2019,SATURDAY,96
+Transmission Service,Ford,EcoSport,2011,MONDAY,172
+Engine Service,Toyota,Fortuner,2024,MONDAY,89
+General Inspection,Kia,Sonet,2017,FRIDAY,51
+Diagnostics,Mahindra,Bolero,2024,SATURDAY,72
+Tire Replacement,Ford,Figo,2022,MONDAY,46
+Oil Change,Toyota,Fortuner,2009,THURSDAY,35
+Diagnostics,Mahindra,Scorpio,2010,SUNDAY,77
+AC Repair,Maruti Suzuki,Ertiga,2020,MONDAY,64
+General Inspection,Tata,Punch,2026,WEDNESDAY,41
+AC Repair,Tata,Punch,2020,FRIDAY,70
+Diagnostics,Hyundai,Venue,2009,FRIDAY,63
+Wheel Alignment,Maruti Suzuki,Brezza,2011,WEDNESDAY,65
+AC Repair,Hyundai,Verna,2025,SATURDAY,82
+Engine Service,Honda,Amaze,2020,WEDNESDAY,107
+General Inspection,Ford,Figo,2013,WEDNESDAY,41
+AC Repair,Toyota,Fortuner,2020,THURSDAY,64
+Engine Service,Honda,Elevate,2016,FRIDAY,99
+Engine Service,Toyota,Innova,2010,THURSDAY,109
+Oil Change,Tata,Harrier,2011,THURSDAY,41
+Brake Service,Honda,Elevate,2021,WEDNESDAY,77
+Engine Service,Tata,Nexon,2024,FRIDAY,112
+Wheel Alignment,Kia,Seltos,2009,THURSDAY,57
+Battery Replacement,Toyota,Glanza,2023,TUESDAY,42
+Diagnostics,Maruti Suzuki,Brezza,2008,FRIDAY,68
+General Inspection,Maruti Suzuki,Ertiga,2010,TUESDAY,49
+Tire Replacement,Mahindra,Bolero,2013,SUNDAY,57
+Tire Replacement,Kia,Seltos,2015,TUESDAY,46
+Oil Change,Mahindra,XUV700,2015,MONDAY,34
+Wheel Alignment,Mahindra,Bolero,2024,MONDAY,44
+Oil Change,Tata,Harrier,2016,SUNDAY,40
+Wheel Alignment,Ford,EcoSport,2016,MONDAY,52
+Oil Change,Honda,Elevate,2017,WEDNESDAY,31
+Oil Change,Kia,Sonet,2010,THURSDAY,36
+General Inspection,Tata,Harrier,2025,FRIDAY,38
+Engine Service,Hyundai,i20,2020,THURSDAY,99
+Wheel Alignment,Maruti Suzuki,Brezza,2016,THURSDAY,54
+Engine Service,Maruti Suzuki,Baleno,2018,FRIDAY,107
+AC Repair,Toyota,Fortuner,2021,FRIDAY,84
+Engine Service,Honda,Elevate,2026,THURSDAY,86
+Wheel Alignment,Kia,Sonet,2010,WEDNESDAY,53
+Brake Service,Toyota,Glanza,2009,MONDAY,73
+Transmission Service,Tata,Nexon,2023,WEDNESDAY,129
+Tire Replacement,Kia,Seltos,2019,MONDAY,50
+Oil Change,Honda,Elevate,2025,SUNDAY,34
+Engine Service,Kia,Seltos,2021,WEDNESDAY,96
+Battery Replacement,Maruti Suzuki,Ertiga,2018,WEDNESDAY,48
+Transmission Service,Hyundai,Verna,2023,MONDAY,140
+Transmission Service,Toyota,Innova,2017,FRIDAY,145
+Transmission Service,Toyota,Innova,2009,WEDNESDAY,180
+Wheel Alignment,Kia,Sonet,2023,THURSDAY,43
+Oil Change,Mahindra,Scorpio,2016,TUESDAY,39
+Wheel Alignment,Mahindra,Scorpio,2019,THURSDAY,55
+Diagnostics,Mahindra,Bolero,2008,FRIDAY,55
+Brake Service,Honda,City,2024,SUNDAY,72
+Transmission Service,Hyundai,Verna,2012,TUESDAY,147
+AC Repair,Kia,Seltos,2013,SUNDAY,84
+AC Repair,Mahindra,Bolero,2017,MONDAY,85
+Transmission Service,Mahindra,XUV700,2009,MONDAY,152
+AC Repair,Tata,Altroz,2011,TUESDAY,85
+Diagnostics,Kia,Sonet,2023,WEDNESDAY,60
+AC Repair,Tata,Harrier,2010,THURSDAY,85
+Wheel Alignment,Maruti Suzuki,Swift,2019,SUNDAY,60
+Engine Service,Toyota,Fortuner,2024,SATURDAY,104
+Engine Service,Hyundai,i20,2023,FRIDAY,100
+Engine Service,Kia,Sonet,2023,FRIDAY,111
+Battery Replacement,Mahindra,Scorpio,2008,SUNDAY,51
+Wheel Alignment,Ford,EcoSport,2021,SUNDAY,58
+AC Repair,Maruti Suzuki,Baleno,2011,TUESDAY,87
+Oil Change,Honda,Elevate,2016,TUESDAY,33
+Brake Service,Honda,Amaze,2019,SATURDAY,62
+Transmission Service,Kia,Seltos,2022,FRIDAY,119
+Battery Replacement,Mahindra,Scorpio,2024,TUESDAY,41
+Wheel Alignment,Tata,Nexon,2025,SATURDAY,58
+Wheel Alignment,Mahindra,Scorpio,2009,MONDAY,53
+AC Repair,Toyota,Glanza,2019,WEDNESDAY,72
+Battery Replacement,Honda,City,2011,TUESDAY,39
+Tire Replacement,Tata,Punch,2017,SUNDAY,47
+Diagnostics,Maruti Suzuki,Brezza,2022,SUNDAY,61
+AC Repair,Honda,City,2017,SATURDAY,82
+Diagnostics,Tata,Nexon,2014,SUNDAY,62
+Engine Service,Kia,Seltos,2010,THURSDAY,105
+Engine Service,Hyundai,i20,2020,TUESDAY,98
+Oil Change,Toyota,Glanza,2014,MONDAY,27
+Tire Replacement,Mahindra,Bolero,2025,FRIDAY,57
+Battery Replacement,Toyota,Fortuner,2015,WEDNESDAY,44
+Oil Change,Hyundai,i20,2024,MONDAY,26
+AC Repair,Ford,Figo,2024,WEDNESDAY,69
+AC Repair,Mahindra,XUV700,2016,WEDNESDAY,78
+Wheel Alignment,Mahindra,Scorpio,2016,THURSDAY,62
+Engine Service,Mahindra,Bolero,2010,THURSDAY,110
+Transmission Service,Honda,Amaze,2025,MONDAY,140
+Brake Service,Honda,Elevate,2011,TUESDAY,72
+Engine Service,Ford,Figo,2025,SATURDAY,95
+Transmission Service,Kia,Seltos,2009,WEDNESDAY,153
+Brake Service,Ford,EcoSport,2023,MONDAY,61
+Battery Replacement,Toyota,Glanza,2015,MONDAY,43
+General Inspection,Kia,Sonet,2013,WEDNESDAY,48
+Engine Service,Honda,Elevate,2022,TUESDAY,99
+Engine Service,Honda,City,2026,SUNDAY,119
+Engine Service,Ford,EcoSport,2020,SUNDAY,121
+Battery Replacement,Honda,City,2024,SUNDAY,38
+Transmission Service,Honda,City,2012,MONDAY,140
+Oil Change,Maruti Suzuki,Swift,2013,TUESDAY,35
+General Inspection,Kia,Sonet,2021,THURSDAY,43
+General Inspection,Hyundai,i20,2024,SUNDAY,41
+Engine Service,Ford,Figo,2011,MONDAY,96
+Engine Service,Maruti Suzuki,Ertiga,2014,WEDNESDAY,100
+Oil Change,Honda,Elevate,2017,WEDNESDAY,34
+Tire Replacement,Maruti Suzuki,Swift,2023,WEDNESDAY,40
+Engine Service,Tata,Altroz,2018,WEDNESDAY,106
+AC Repair,Mahindra,Bolero,2011,MONDAY,94
+Oil Change,Ford,Figo,2013,MONDAY,35
+Brake Service,Toyota,Glanza,2026,THURSDAY,58
+Oil Change,Hyundai,Verna,2021,SATURDAY,37
+AC Repair,Kia,Sonet,2010,MONDAY,93
+Brake Service,Toyota,Innova,2010,SATURDAY,82
+Tire Replacement,Toyota,Innova,2022,FRIDAY,47
+Transmission Service,Toyota,Fortuner,2023,MONDAY,135
+Engine Service,Hyundai,Venue,2025,SUNDAY,103
+Tire Replacement,Toyota,Fortuner,2012,THURSDAY,57
+Engine Service,Kia,Seltos,2020,FRIDAY,100
+Tire Replacement,Kia,Seltos,2023,FRIDAY,49
+Diagnostics,Maruti Suzuki,Ertiga,2008,WEDNESDAY,67
+Brake Service,Ford,EcoSport,2026,THURSDAY,54
+AC Repair,Hyundai,Creta,2012,MONDAY,85
+Brake Service,Ford,EcoSport,2020,MONDAY,63
+Wheel Alignment,Maruti Suzuki,Swift,2026,WEDNESDAY,61
+Diagnostics,Mahindra,Scorpio,2024,WEDNESDAY,51
+General Inspection,Ford,Figo,2022,WEDNESDAY,40
+Battery Replacement,Ford,Figo,2020,FRIDAY,34
+Battery Replacement,Maruti Suzuki,Swift,2025,SATURDAY,42
+Battery Replacement,Toyota,Innova,2026,THURSDAY,30
+Battery Replacement,Kia,Sonet,2013,TUESDAY,46
+Brake Service,Maruti Suzuki,Brezza,2009,SUNDAY,89
+Wheel Alignment,Mahindra,Scorpio,2012,MONDAY,60
+Wheel Alignment,Mahindra,Scorpio,2009,WEDNESDAY,55
+AC Repair,Tata,Nexon,2026,TUESDAY,80
+Diagnostics,Hyundai,i20,2009,MONDAY,73
+AC Repair,Honda,Elevate,2018,THURSDAY,76
+Battery Replacement,Honda,City,2016,SUNDAY,44
+Diagnostics,Tata,Altroz,2025,FRIDAY,54
+Wheel Alignment,Hyundai,i20,2010,THURSDAY,66
+Engine Service,Tata,Altroz,2016,SATURDAY,112
+AC Repair,Maruti Suzuki,Brezza,2025,SUNDAY,79
+Brake Service,Hyundai,Verna,2010,MONDAY,74
+Oil Change,Maruti Suzuki,Swift,2026,WEDNESDAY,23
+Oil Change,Tata,Punch,2011,SUNDAY,37
+AC Repair,Maruti Suzuki,Swift,2019,TUESDAY,71
+Diagnostics,Hyundai,Creta,2014,MONDAY,65
+AC Repair,Mahindra,Bolero,2008,MONDAY,83
+Diagnostics,Toyota,Fortuner,2010,FRIDAY,64
+Brake Service,Toyota,Innova,2012,SUNDAY,75
+Transmission Service,Ford,Figo,2026,FRIDAY,104
+AC Repair,Mahindra,XUV700,2016,WEDNESDAY,72
+Diagnostics,Maruti Suzuki,Brezza,2010,FRIDAY,70
+Battery Replacement,Ford,EcoSport,2017,SUNDAY,39
+Engine Service,Maruti Suzuki,Baleno,2010,MONDAY,106
+Brake Service,Kia,Seltos,2013,MONDAY,71
+Diagnostics,Toyota,Innova,2019,THURSDAY,59
+Tire Replacement,Mahindra,XUV700,2021,FRIDAY,58
+Oil Change,Kia,Sonet,2025,THURSDAY,33
+Tire Replacement,Honda,Elevate,2016,WEDNESDAY,52
+Engine Service,Honda,Elevate,2017,TUESDAY,97
+Wheel Alignment,Kia,Seltos,2025,MONDAY,54
+Brake Service,Mahindra,XUV700,2022,SUNDAY,65
+Oil Change,Kia,Sonet,2022,FRIDAY,34
+Brake Service,Mahindra,XUV700,2019,THURSDAY,69
+Oil Change,Hyundai,Venue,2018,MONDAY,36
+Oil Change,Ford,Figo,2008,SATURDAY,42
+Tire Replacement,Maruti Suzuki,Swift,2011,THURSDAY,53
+Engine Service,Kia,Seltos,2008,TUESDAY,103
+Diagnostics,Kia,Seltos,2013,TUESDAY,68
+Oil Change,Kia,Sonet,2015,WEDNESDAY,37
+General Inspection,Tata,Nexon,2010,SATURDAY,46
+Battery Replacement,Tata,Punch,2018,SUNDAY,43
+Oil Change,Hyundai,Creta,2021,SUNDAY,31
+Oil Change,Maruti Suzuki,Ertiga,2011,WEDNESDAY,36
+Battery Replacement,Mahindra,Bolero,2026,WEDNESDAY,40
+Diagnostics,Mahindra,XUV700,2022,WEDNESDAY,68
+General Inspection,Ford,EcoSport,2012,THURSDAY,49
+Transmission Service,Hyundai,Venue,2026,SATURDAY,136
+Tire Replacement,Maruti Suzuki,Swift,2008,THURSDAY,54
+Wheel Alignment,Honda,Amaze,2008,TUESDAY,57
+Oil Change,Toyota,Glanza,2012,MONDAY,31
+Tire Replacement,Kia,Seltos,2024,FRIDAY,46
+General Inspection,Maruti Suzuki,Ertiga,2011,TUESDAY,41
+Brake Service,Tata,Harrier,2019,SUNDAY,72
+Transmission Service,Mahindra,XUV700,2009,WEDNESDAY,115
+AC Repair,Maruti Suzuki,Swift,2009,THURSDAY,91
+Transmission Service,Hyundai,i20,2020,FRIDAY,132
+AC Repair,Hyundai,i20,2025,THURSDAY,69
+Oil Change,Honda,Amaze,2024,WEDNESDAY,27
+Battery Replacement,Honda,Elevate,2014,FRIDAY,44
+Brake Service,Honda,City,2008,THURSDAY,67
+Diagnostics,Ford,Figo,2013,WEDNESDAY,62
+Brake Service,Hyundai,i20,2023,TUESDAY,66
+AC Repair,Mahindra,Scorpio,2012,THURSDAY,83
+Engine Service,Toyota,Innova,2026,MONDAY,94
+Battery Replacement,Tata,Altroz,2015,WEDNESDAY,39
+Oil Change,Hyundai,i20,2021,SUNDAY,36
+Oil Change,Mahindra,XUV700,2008,SATURDAY,41
+AC Repair,Toyota,Innova,2008,TUESDAY,74
+General Inspection,Maruti Suzuki,Brezza,2020,THURSDAY,43
+Oil Change,Toyota,Fortuner,2018,THURSDAY,34
+Brake Service,Ford,Figo,2026,SUNDAY,67
+Transmission Service,Kia,Sonet,2013,THURSDAY,145
+Oil Change,Honda,City,2021,SATURDAY,37
+Oil Change,Tata,Punch,2019,WEDNESDAY,31
+Engine Service,Tata,Nexon,2016,THURSDAY,120
+Transmission Service,Tata,Nexon,2022,MONDAY,123
+General Inspection,Mahindra,XUV700,2015,SATURDAY,52
+Tire Replacement,Kia,Seltos,2011,SATURDAY,61
+Transmission Service,Tata,Nexon,2019,FRIDAY,140
+Diagnostics,Hyundai,Venue,2026,MONDAY,48
+AC Repair,Maruti Suzuki,Swift,2024,THURSDAY,73
+Engine Service,Maruti Suzuki,Ertiga,2026,SATURDAY,112
+Diagnostics,Ford,EcoSport,2011,THURSDAY,63
+Oil Change,Mahindra,XUV700,2023,FRIDAY,32
+Transmission Service,Honda,City,2025,THURSDAY,116
+Transmission Service,Ford,EcoSport,2024,WEDNESDAY,118
+Brake Service,Toyota,Innova,2011,FRIDAY,81
+Diagnostics,Tata,Nexon,2009,TUESDAY,72
+Engine Service,Honda,Elevate,2017,FRIDAY,119
+Tire Replacement,Tata,Altroz,2009,WEDNESDAY,60
+General Inspection,Toyota,Glanza,2023,WEDNESDAY,38
+Engine Service,Maruti Suzuki,Swift,2021,WEDNESDAY,83
+Transmission Service,Honda,Elevate,2008,SATURDAY,175
+Oil Change,Tata,Nexon,2014,MONDAY,37
+Wheel Alignment,Tata,Altroz,2012,TUESDAY,57
+Battery Replacement,Maruti Suzuki,Baleno,2019,SATURDAY,40
+Tire Replacement,Hyundai,Creta,2024,MONDAY,38
+AC Repair,Toyota,Glanza,2014,MONDAY,87
+Oil Change,Mahindra,Bolero,2015,SUNDAY,34
+AC Repair,Maruti Suzuki,Baleno,2012,SUNDAY,93
+General Inspection,Hyundai,Creta,2010,THURSDAY,44
+General Inspection,Ford,Figo,2020,SUNDAY,40
+Transmission Service,Hyundai,Creta,2026,SATURDAY,146
+Oil Change,Toyota,Innova,2025,SUNDAY,33
+Wheel Alignment,Maruti Suzuki,Brezza,2020,TUESDAY,55
+Tire Replacement,Maruti Suzuki,Brezza,2023,MONDAY,48
+Engine Service,Hyundai,Venue,2020,FRIDAY,119
+AC Repair,Kia,Sonet,2009,THURSDAY,70
+Tire Replacement,Kia,Seltos,2010,FRIDAY,51
+Brake Service,Hyundai,Venue,2026,WEDNESDAY,60
+Wheel Alignment,Toyota,Fortuner,2009,THURSDAY,64
+Tire Replacement,Toyota,Fortuner,2014,SATURDAY,58
+Tire Replacement,Kia,Sonet,2008,WEDNESDAY,50
+Diagnostics,Honda,City,2013,THURSDAY,59
+Battery Replacement,Kia,Seltos,2010,WEDNESDAY,44
+AC Repair,Tata,Harrier,2025,SATURDAY,80
+Brake Service,Toyota,Fortuner,2012,MONDAY,65
+Oil Change,Ford,EcoSport,2021,TUESDAY,27
+Tire Replacement,Toyota,Fortuner,2010,SATURDAY,56
+Wheel Alignment,Honda,City,2025,WEDNESDAY,46
+Tire Replacement,Tata,Harrier,2022,TUESDAY,52
+Brake Service,Honda,City,2015,WEDNESDAY,62
+Tire Replacement,Hyundai,Creta,2010,MONDAY,52
+Engine Service,Ford,Figo,2008,WEDNESDAY,98
+Wheel Alignment,Mahindra,Scorpio,2020,SATURDAY,58
+Brake Service,Ford,Figo,2026,SATURDAY,67
+Wheel Alignment,Mahindra,XUV700,2019,TUESDAY,48
+Wheel Alignment,Kia,Sonet,2024,THURSDAY,54
+General Inspection,Kia,Seltos,2016,TUESDAY,48
+Brake Service,Hyundai,i20,2026,WEDNESDAY,63
+Transmission Service,Toyota,Fortuner,2010,SUNDAY,145
+Transmission Service,Tata,Harrier,2019,FRIDAY,154
+AC Repair,Kia,Sonet,2022,TUESDAY,85
+Oil Change,Ford,Figo,2012,TUESDAY,39
+Brake Service,Maruti Suzuki,Ertiga,2013,THURSDAY,77
+Oil Change,Toyota,Fortuner,2025,FRIDAY,36
+Tire Replacement,Honda,City,2021,SUNDAY,58
+Wheel Alignment,Honda,Elevate,2009,THURSDAY,65
+Transmission Service,Kia,Seltos,2022,TUESDAY,147
+Oil Change,Hyundai,i20,2023,FRIDAY,37
+Brake Service,Tata,Altroz,2011,MONDAY,66
+General Inspection,Toyota,Glanza,2013,TUESDAY,50
+Brake Service,Toyota,Fortuner,2013,THURSDAY,75
+Diagnostics,Toyota,Glanza,2023,MONDAY,53
+General Inspection,Ford,EcoSport,2013,SUNDAY,46
+Oil Change,Kia,Sonet,2012,TUESDAY,31
+Diagnostics,Ford,Figo,2012,FRIDAY,60
+AC Repair,Honda,City,2022,MONDAY,78
+General Inspection,Toyota,Innova,2009,SUNDAY,49
+Battery Replacement,Ford,EcoSport,2008,WEDNESDAY,39
+Brake Service,Hyundai,i20,2008,TUESDAY,62
+Battery Replacement,Maruti Suzuki,Ertiga,2013,WEDNESDAY,41
+Diagnostics,Honda,City,2021,MONDAY,55
+Transmission Service,Maruti Suzuki,Baleno,2020,FRIDAY,130
+General Inspection,Ford,EcoSport,2009,TUESDAY,50
+Brake Service,Mahindra,Bolero,2012,FRIDAY,78
+AC Repair,Tata,Nexon,2013,FRIDAY,83
+Tire Replacement,Mahindra,XUV700,2019,FRIDAY,42
+Brake Service,Honda,City,2012,TUESDAY,75
+Diagnostics,Honda,Elevate,2014,FRIDAY,73
+Transmission Service,Tata,Nexon,2017,WEDNESDAY,144
+Tire Replacement,Mahindra,XUV700,2012,TUESDAY,47
+AC Repair,Kia,Seltos,2024,WEDNESDAY,79
+General Inspection,Hyundai,Verna,2009,FRIDAY,49
+Battery Replacement,Kia,Sonet,2011,SUNDAY,43
+Tire Replacement,Kia,Seltos,2011,MONDAY,53
+Diagnostics,Maruti Suzuki,Baleno,2020,MONDAY,52
+Engine Service,Honda,Elevate,2025,SATURDAY,119
+Battery Replacement,Maruti Suzuki,Brezza,2021,SATURDAY,43
+Wheel Alignment,Kia,Sonet,2014,WEDNESDAY,51
+Diagnostics,Toyota,Innova,2012,TUESDAY,78
+Battery Replacement,Tata,Altroz,2024,MONDAY,35
+General Inspection,Toyota,Glanza,2012,WEDNESDAY,41
+Transmission Service,Tata,Altroz,2013,SATURDAY,153
+Brake Service,Kia,Seltos,2020,TUESDAY,68
+Brake Service,Honda,Amaze,2009,THURSDAY,63
+Tire Replacement,Ford,EcoSport,2010,SUNDAY,55
+Wheel Alignment,Kia,Sonet,2016,MONDAY,51
+Tire Replacement,Hyundai,Verna,2018,TUESDAY,56
+General Inspection,Mahindra,XUV700,2008,SATURDAY,47
+General Inspection,Honda,Amaze,2013,THURSDAY,44
+Wheel Alignment,Kia,Seltos,2026,SUNDAY,50
+Diagnostics,Mahindra,Scorpio,2010,WEDNESDAY,64
+Oil Change,Mahindra,Scorpio,2016,FRIDAY,30
+General Inspection,Tata,Nexon,2019,MONDAY,38
+General Inspection,Maruti Suzuki,Ertiga,2018,THURSDAY,47
+Wheel Alignment,Hyundai,i20,2026,SATURDAY,47
+Transmission Service,Mahindra,Scorpio,2025,THURSDAY,146
+Brake Service,Tata,Nexon,2023,SUNDAY,72
+Wheel Alignment,Tata,Punch,2013,SATURDAY,66
+Oil Change,Maruti Suzuki,Brezza,2011,TUESDAY,35
+Wheel Alignment,Maruti Suzuki,Baleno,2026,TUESDAY,48
+AC Repair,Kia,Sonet,2025,FRIDAY,70
+Transmission Service,Ford,EcoSport,2010,TUESDAY,132
+AC Repair,Ford,Figo,2015,MONDAY,85
+Battery Replacement,Tata,Punch,2020,SATURDAY,33
+Oil Change,Ford,Figo,2026,FRIDAY,28
+Engine Service,Kia,Sonet,2015,SUNDAY,110
+Tire Replacement,Toyota,Innova,2011,FRIDAY,62
+Brake Service,Toyota,Innova,2008,FRIDAY,80
+Transmission Service,Mahindra,XUV700,2015,MONDAY,140
+Transmission Service,Maruti Suzuki,Ertiga,2008,SUNDAY,161
+Brake Service,Ford,Figo,2016,WEDNESDAY,61
+Wheel Alignment,Ford,EcoSport,2009,MONDAY,57
+Battery Replacement,Kia,Sonet,2020,WEDNESDAY,36
+AC Repair,Ford,Figo,2017,FRIDAY,91
+Diagnostics,Ford,Figo,2010,THURSDAY,67
+Brake Service,Kia,Seltos,2016,SUNDAY,69
+Brake Service,Hyundai,i20,2021,TUESDAY,58
+Diagnostics,Honda,City,2026,SATURDAY,70
+AC Repair,Toyota,Fortuner,2021,FRIDAY,81
+General Inspection,Maruti Suzuki,Ertiga,2012,FRIDAY,53
+AC Repair,Honda,Amaze,2014,MONDAY,77
+Oil Change,Tata,Harrier,2019,MONDAY,29
+Battery Replacement,Tata,Punch,2021,SATURDAY,43
+General Inspection,Mahindra,Bolero,2017,FRIDAY,50
+Transmission Service,Mahindra,Bolero,2020,WEDNESDAY,140
+AC Repair,Honda,Amaze,2018,SUNDAY,81
+Wheel Alignment,Toyota,Fortuner,2015,WEDNESDAY,54
+Wheel Alignment,Maruti Suzuki,Brezza,2026,FRIDAY,44
+Transmission Service,Honda,Elevate,2015,SUNDAY,143
+Wheel Alignment,Ford,Figo,2015,FRIDAY,50
+Wheel Alignment,Kia,Sonet,2008,FRIDAY,62
+Engine Service,Tata,Altroz,2015,MONDAY,85
+Transmission Service,Mahindra,Bolero,2021,TUESDAY,116
+Tire Replacement,Toyota,Innova,2015,TUESDAY,48
+General Inspection,Hyundai,Verna,2012,MONDAY,46
+Diagnostics,Hyundai,Verna,2018,WEDNESDAY,58
+Engine Service,Mahindra,XUV700,2017,SATURDAY,112
+Brake Service,Ford,EcoSport,2012,MONDAY,64
+Tire Replacement,Hyundai,i20,2017,WEDNESDAY,42
+AC Repair,Maruti Suzuki,Baleno,2015,FRIDAY,78
+Oil Change,Hyundai,Creta,2019,MONDAY,33
+Diagnostics,Mahindra,Scorpio,2019,FRIDAY,65
+Transmission Service,Kia,Seltos,2018,FRIDAY,129
+Diagnostics,Hyundai,Verna,2010,FRIDAY,75
+Transmission Service,Honda,City,2016,SATURDAY,148
+Wheel Alignment,Mahindra,Scorpio,2020,TUESDAY,57
+General Inspection,Maruti Suzuki,Baleno,2025,FRIDAY,37
+Wheel Alignment,Tata,Altroz,2021,TUESDAY,61
+Battery Replacement,Hyundai,Creta,2014,WEDNESDAY,38
+AC Repair,Honda,Elevate,2011,MONDAY,84
+Wheel Alignment,Honda,Elevate,2022,SATURDAY,55
+AC Repair,Hyundai,i20,2025,SUNDAY,74
+Brake Service,Tata,Harrier,2020,SUNDAY,69
+General Inspection,Ford,Figo,2017,MONDAY,44
+Diagnostics,Toyota,Innova,2009,WEDNESDAY,66
+Battery Replacement,Honda,Elevate,2019,MONDAY,41
+Battery Replacement,Tata,Harrier,2021,THURSDAY,35
+Brake Service,Tata,Altroz,2014,TUESDAY,74
+Engine Service,Tata,Altroz,2008,TUESDAY,114
+Transmission Service,Maruti Suzuki,Baleno,2014,MONDAY,138
+Tire Replacement,Hyundai,Creta,2014,WEDNESDAY,47
+General Inspection,Kia,Sonet,2019,SUNDAY,50
+Oil Change,Ford,Figo,2012,SUNDAY,34
+Brake Service,Honda,Elevate,2009,TUESDAY,72
+Wheel Alignment,Mahindra,XUV700,2009,MONDAY,62
+Tire Replacement,Toyota,Glanza,2013,TUESDAY,51
+Oil Change,Honda,Amaze,2012,MONDAY,37
+General Inspection,Hyundai,i20,2022,SATURDAY,51
+Battery Replacement,Tata,Altroz,2017,MONDAY,40
+AC Repair,Toyota,Fortuner,2025,THURSDAY,69
+General Inspection,Ford,Figo,2018,SUNDAY,48
+Transmission Service,Tata,Harrier,2009,THURSDAY,147
+Brake Service,Honda,Elevate,2022,TUESDAY,65
+Battery Replacement,Mahindra,Bolero,2010,TUESDAY,37
+Battery Replacement,Mahindra,Bolero,2009,SUNDAY,51
+Brake Service,Kia,Sonet,2025,WEDNESDAY,58
+Wheel Alignment,Tata,Altroz,2023,TUESDAY,48
+General Inspection,Tata,Nexon,2012,MONDAY,44
+General Inspection,Hyundai,i20,2024,THURSDAY,42
+Brake Service,Kia,Seltos,2010,THURSDAY,70
+Oil Change,Ford,Figo,2009,SUNDAY,37
+Battery Replacement,Mahindra,XUV700,2026,FRIDAY,35
+Transmission Service,Toyota,Fortuner,2019,TUESDAY,114
+General Inspection,Ford,EcoSport,2013,TUESDAY,42
+Battery Replacement,Ford,Figo,2016,TUESDAY,40
+Battery Replacement,Hyundai,Venue,2017,TUESDAY,43
+Battery Replacement,Maruti Suzuki,Brezza,2013,THURSDAY,38
+Wheel Alignment,Kia,Seltos,2014,SATURDAY,59
+Oil Change,Honda,City,2017,WEDNESDAY,31
+Oil Change,Toyota,Fortuner,2024,THURSDAY,37
+Engine Service,Mahindra,XUV700,2016,THURSDAY,106
+Brake Service,Kia,Sonet,2010,FRIDAY,75
+Brake Service,Honda,Elevate,2022,THURSDAY,62
+Battery Replacement,Kia,Sonet,2014,TUESDAY,45
+Transmission Service,Mahindra,Scorpio,2015,WEDNESDAY,147
+Diagnostics,Mahindra,XUV700,2013,WEDNESDAY,75
+Transmission Service,Tata,Nexon,2021,MONDAY,136
+General Inspection,Tata,Altroz,2008,SATURDAY,52
+Brake Service,Tata,Altroz,2026,WEDNESDAY,64
+AC Repair,Honda,City,2012,FRIDAY,90
+Brake Service,Mahindra,Bolero,2026,THURSDAY,60
+Battery Replacement,Kia,Seltos,2017,SATURDAY,47
+Battery Replacement,Hyundai,Verna,2020,MONDAY,36
+Engine Service,Hyundai,Venue,2011,TUESDAY,112
+Tire Replacement,Maruti Suzuki,Baleno,2025,SUNDAY,51
+Transmission Service,Honda,Elevate,2013,MONDAY,136
+General Inspection,Tata,Altroz,2011,SUNDAY,53
+Wheel Alignment,Maruti Suzuki,Ertiga,2025,TUESDAY,52
+AC Repair,Kia,Sonet,2020,WEDNESDAY,78
+Transmission Service,Maruti Suzuki,Ertiga,2016,FRIDAY,138
+Engine Service,Hyundai,Verna,2017,WEDNESDAY,100
+Oil Change,Hyundai,Verna,2013,FRIDAY,31
+Engine Service,Ford,Figo,2024,THURSDAY,92
+Brake Service,Kia,Sonet,2017,SUNDAY,78
+AC Repair,Toyota,Fortuner,2011,FRIDAY,83
+Wheel Alignment,Tata,Nexon,2012,SATURDAY,68
+AC Repair,Tata,Altroz,2010,TUESDAY,85
+General Inspection,Hyundai,Venue,2013,FRIDAY,52
+Wheel Alignment,Honda,City,2017,SATURDAY,58
+Transmission Service,Maruti Suzuki,Swift,2023,SUNDAY,138
+Transmission Service,Ford,EcoSport,2021,FRIDAY,108
+Wheel Alignment,Maruti Suzuki,Baleno,2024,SATURDAY,50
+Tire Replacement,Maruti Suzuki,Swift,2009,TUESDAY,56
+Oil Change,Tata,Nexon,2009,MONDAY,33
+Brake Service,Honda,Elevate,2013,FRIDAY,69
+Tire Replacement,Maruti Suzuki,Swift,2018,SATURDAY,62
+Oil Change,Mahindra,XUV700,2016,TUESDAY,38
+Engine Service,Hyundai,Venue,2025,SATURDAY,92
+Battery Replacement,Kia,Seltos,2026,SUNDAY,38
+AC Repair,Kia,Seltos,2022,SUNDAY,79
+AC Repair,Honda,City,2013,SUNDAY,75
+Engine Service,Kia,Seltos,2014,SUNDAY,107
+Diagnostics,Kia,Seltos,2024,WEDNESDAY,49
+Engine Service,Kia,Seltos,2020,THURSDAY,82
+General Inspection,Honda,Amaze,2025,WEDNESDAY,42
+General Inspection,Honda,City,2024,SUNDAY,45
+Battery Replacement,Honda,City,2012,MONDAY,38
+Tire Replacement,Mahindra,XUV700,2022,SATURDAY,46
+Transmission Service,Maruti Suzuki,Brezza,2018,SATURDAY,169
+Oil Change,Kia,Sonet,2023,THURSDAY,29
+General Inspection,Hyundai,Verna,2019,SUNDAY,47
+Engine Service,Maruti Suzuki,Ertiga,2015,SUNDAY,112
+General Inspection,Tata,Punch,2022,THURSDAY,49
+General Inspection,Mahindra,Bolero,2021,FRIDAY,51
+Engine Service,Honda,Elevate,2017,WEDNESDAY,97
+Oil Change,Tata,Punch,2020,WEDNESDAY,31
+AC Repair,Kia,Seltos,2019,FRIDAY,82
+Diagnostics,Honda,Amaze,2024,FRIDAY,57
+Transmission Service,Tata,Harrier,2018,TUESDAY,117
+Oil Change,Ford,Figo,2012,FRIDAY,34
+Transmission Service,Hyundai,Verna,2016,SATURDAY,134
+AC Repair,Kia,Sonet,2010,SUNDAY,93
+Diagnostics,Kia,Sonet,2008,FRIDAY,78
+Diagnostics,Toyota,Fortuner,2023,WEDNESDAY,57
+Engine Service,Mahindra,Bolero,2026,WEDNESDAY,87
+Engine Service,Honda,Elevate,2024,SUNDAY,103
+Wheel Alignment,Maruti Suzuki,Brezza,2022,TUESDAY,51
+Brake Service,Honda,Amaze,2026,FRIDAY,69
+Engine Service,Maruti Suzuki,Brezza,2017,SUNDAY,108
+Wheel Alignment,Mahindra,XUV700,2013,SATURDAY,66
+Engine Service,Kia,Seltos,2018,TUESDAY,112
+Oil Change,Tata,Punch,2012,THURSDAY,39
+Oil Change,Kia,Sonet,2017,FRIDAY,34
+Engine Service,Tata,Harrier,2025,SUNDAY,98
+Wheel Alignment,Mahindra,Bolero,2011,SUNDAY,66
+Engine Service,Honda,Elevate,2009,WEDNESDAY,117
+Diagnostics,Toyota,Fortuner,2025,FRIDAY,59
+Diagnostics,Toyota,Fortuner,2011,FRIDAY,76
+Brake Service,Kia,Seltos,2008,TUESDAY,77
+Brake Service,Hyundai,i20,2008,TUESDAY,68
+Oil Change,Mahindra,Bolero,2020,SUNDAY,35
+Transmission Service,Mahindra,Bolero,2014,MONDAY,132
+Brake Service,Kia,Sonet,2011,FRIDAY,74
+Diagnostics,Toyota,Glanza,2022,FRIDAY,68
+Oil Change,Ford,EcoSport,2011,FRIDAY,34
+Oil Change,Hyundai,i20,2014,THURSDAY,35
+Brake Service,Maruti Suzuki,Swift,2015,WEDNESDAY,72
+Wheel Alignment,Tata,Nexon,2020,THURSDAY,52
+Wheel Alignment,Mahindra,Scorpio,2025,THURSDAY,53
+Wheel Alignment,Hyundai,Verna,2012,SUNDAY,60
+Battery Replacement,Maruti Suzuki,Ertiga,2019,FRIDAY,34
+Battery Replacement,Mahindra,Scorpio,2013,TUESDAY,36
+Battery Replacement,Maruti Suzuki,Swift,2018,TUESDAY,39
+Wheel Alignment,Ford,EcoSport,2016,THURSDAY,63
+Wheel Alignment,Ford,Figo,2017,FRIDAY,56
+Brake Service,Honda,Elevate,2021,WEDNESDAY,74
+Battery Replacement,Maruti Suzuki,Baleno,2025,TUESDAY,34
+General Inspection,Tata,Harrier,2018,SATURDAY,55
+Brake Service,Honda,City,2013,SATURDAY,86
+Oil Change,Hyundai,Creta,2020,TUESDAY,27
+Battery Replacement,Maruti Suzuki,Swift,2023,TUESDAY,41
+Diagnostics,Ford,EcoSport,2021,SUNDAY,60
+Wheel Alignment,Honda,Elevate,2019,FRIDAY,54
+Engine Service,Mahindra,XUV700,2013,FRIDAY,121
+Wheel Alignment,Tata,Harrier,2012,SATURDAY,69
+General Inspection,Mahindra,Scorpio,2019,FRIDAY,44
+General Inspection,Ford,EcoSport,2009,WEDNESDAY,51
+Oil Change,Mahindra,Scorpio,2010,WEDNESDAY,34
+Diagnostics,Ford,Figo,2016,THURSDAY,62
+Tire Replacement,Mahindra,XUV700,2017,THURSDAY,54
+Engine Service,Toyota,Innova,2022,MONDAY,90
+Transmission Service,Ford,EcoSport,2016,WEDNESDAY,142
+Transmission Service,Honda,City,2018,TUESDAY,117
+Tire Replacement,Honda,City,2024,TUESDAY,46
+AC Repair,Maruti Suzuki,Swift,2014,TUESDAY,84
+Transmission Service,Tata,Punch,2009,FRIDAY,136
+Diagnostics,Tata,Nexon,2019,SUNDAY,69
+Tire Replacement,Hyundai,Venue,2025,THURSDAY,51
+Battery Replacement,Mahindra,Bolero,2010,WEDNESDAY,43
+Wheel Alignment,Kia,Sonet,2014,WEDNESDAY,62
+Tire Replacement,Ford,EcoSport,2011,FRIDAY,54
+AC Repair,Ford,EcoSport,2017,WEDNESDAY,76
+AC Repair,Ford,EcoSport,2023,THURSDAY,72
+Transmission Service,Kia,Seltos,2017,TUESDAY,105
+Tire Replacement,Kia,Seltos,2026,FRIDAY,39
+AC Repair,Toyota,Glanza,2009,FRIDAY,80
+Transmission Service,Hyundai,i20,2011,MONDAY,127
+Diagnostics,Honda,Elevate,2008,FRIDAY,67
+Tire Replacement,Mahindra,XUV700,2011,SATURDAY,66
+Engine Service,Toyota,Glanza,2013,SATURDAY,126
+Wheel Alignment,Kia,Sonet,2024,SUNDAY,49
+Transmission Service,Ford,Figo,2022,TUESDAY,124
+Engine Service,Mahindra,Scorpio,2018,SATURDAY,111
+Engine Service,Tata,Nexon,2026,MONDAY,82
+Battery Replacement,Tata,Nexon,2022,SATURDAY,37
+Transmission Service,Maruti Suzuki,Baleno,2017,FRIDAY,130
+Engine Service,Honda,Elevate,2022,MONDAY,74
+Transmission Service,Toyota,Glanza,2018,SUNDAY,151
+General Inspection,Toyota,Innova,2021,THURSDAY,43
+AC Repair,Maruti Suzuki,Swift,2013,SATURDAY,89
+Tire Replacement,Hyundai,Creta,2024,FRIDAY,46
+Engine Service,Maruti Suzuki,Swift,2026,TUESDAY,98
+Transmission Service,Ford,EcoSport,2016,WEDNESDAY,112
+Oil Change,Tata,Nexon,2022,THURSDAY,29
+Transmission Service,Hyundai,Venue,2018,TUESDAY,120
+AC Repair,Honda,City,2019,MONDAY,73
+Brake Service,Hyundai,Verna,2008,SUNDAY,81
+Battery Replacement,Kia,Seltos,2011,MONDAY,39
+Transmission Service,Honda,Elevate,2010,MONDAY,142
+Battery Replacement,Ford,Figo,2012,SATURDAY,54
+Brake Service,Mahindra,XUV700,2015,SATURDAY,71
+Engine Service,Mahindra,Bolero,2011,SUNDAY,122
+Engine Service,Maruti Suzuki,Swift,2017,WEDNESDAY,104
+Tire Replacement,Ford,EcoSport,2020,MONDAY,49
+Brake Service,Ford,EcoSport,2020,SUNDAY,60
+General Inspection,Honda,Elevate,2019,FRIDAY,51
+Transmission Service,Kia,Seltos,2014,WEDNESDAY,138
+Oil Change,Mahindra,Bolero,2018,SUNDAY,40
+AC Repair,Maruti Suzuki,Ertiga,2017,THURSDAY,76
+Brake Service,Kia,Sonet,2015,FRIDAY,69
+Diagnostics,Tata,Harrier,2019,SUNDAY,67
+Wheel Alignment,Honda,Amaze,2009,SATURDAY,66
+Battery Replacement,Honda,Amaze,2023,TUESDAY,30
+Engine Service,Kia,Sonet,2021,MONDAY,100
+Brake Service,Honda,Amaze,2013,FRIDAY,82
+Wheel Alignment,Maruti Suzuki,Brezza,2010,MONDAY,63
+General Inspection,Ford,Figo,2014,WEDNESDAY,39
+Wheel Alignment,Kia,Sonet,2009,WEDNESDAY,57
+General Inspection,Hyundai,Creta,2025,FRIDAY,47
+Tire Replacement,Hyundai,Venue,2012,THURSDAY,53
+AC Repair,Honda,Amaze,2012,SUNDAY,87
+Wheel Alignment,Toyota,Glanza,2011,FRIDAY,62
+Transmission Service,Honda,Elevate,2018,SUNDAY,145
+AC Repair,Hyundai,Verna,2023,THURSDAY,74
+Wheel Alignment,Hyundai,Creta,2013,FRIDAY,51
+Transmission Service,Ford,Figo,2018,SUNDAY,139
+Brake Service,Maruti Suzuki,Baleno,2018,FRIDAY,69
+Diagnostics,Maruti Suzuki,Brezza,2016,TUESDAY,56
+Oil Change,Kia,Seltos,2011,SUNDAY,35
+Wheel Alignment,Hyundai,Creta,2017,TUESDAY,62
+Transmission Service,Maruti Suzuki,Brezza,2014,FRIDAY,127
+Brake Service,Honda,Elevate,2015,TUESDAY,70
+AC Repair,Toyota,Glanza,2022,MONDAY,75
+Oil Change,Hyundai,i20,2019,TUESDAY,31
+Engine Service,Kia,Seltos,2013,FRIDAY,113
+Wheel Alignment,Tata,Nexon,2016,MONDAY,58
+Battery Replacement,Honda,City,2009,SATURDAY,45
+Battery Replacement,Hyundai,Venue,2016,MONDAY,36
+Oil Change,Hyundai,Verna,2026,SUNDAY,33
+Tire Replacement,Tata,Harrier,2019,SUNDAY,52
+Tire Replacement,Maruti Suzuki,Swift,2023,SATURDAY,52
+Battery Replacement,Tata,Harrier,2025,THURSDAY,34
+Oil Change,Ford,EcoSport,2020,WEDNESDAY,35
+Tire Replacement,Tata,Altroz,2019,MONDAY,44
+Diagnostics,Toyota,Innova,2013,WEDNESDAY,74
+Tire Replacement,Tata,Punch,2011,MONDAY,54
+Engine Service,Hyundai,i20,2014,WEDNESDAY,96
+AC Repair,Honda,City,2023,MONDAY,78
+Battery Replacement,Kia,Sonet,2013,MONDAY,42
+Oil Change,Hyundai,Venue,2015,THURSDAY,33
+AC Repair,Tata,Nexon,2026,WEDNESDAY,76
+Transmission Service,Hyundai,i20,2018,THURSDAY,160
+Diagnostics,Mahindra,XUV700,2009,MONDAY,62
+Transmission Service,Hyundai,i20,2022,TUESDAY,126
+Transmission Service,Ford,EcoSport,2014,SUNDAY,154
+Battery Replacement,Tata,Nexon,2011,TUESDAY,36
+Engine Service,Kia,Seltos,2024,THURSDAY,102
+Diagnostics,Tata,Altroz,2011,MONDAY,60
+Wheel Alignment,Mahindra,Bolero,2016,SATURDAY,62
+Diagnostics,Maruti Suzuki,Baleno,2025,SUNDAY,63
+General Inspection,Ford,EcoSport,2022,WEDNESDAY,41
+Battery Replacement,Honda,Amaze,2017,SUNDAY,46
+Battery Replacement,Tata,Harrier,2012,MONDAY,41
+Brake Service,Tata,Altroz,2026,WEDNESDAY,59
+General Inspection,Tata,Nexon,2026,WEDNESDAY,37
+Diagnostics,Tata,Punch,2008,TUESDAY,75
+Battery Replacement,Kia,Sonet,2018,MONDAY,39
+AC Repair,Maruti Suzuki,Brezza,2017,SATURDAY,93
+Engine Service,Hyundai,Creta,2016,WEDNESDAY,105
+Engine Service,Mahindra,XUV700,2020,MONDAY,89
+Battery Replacement,Maruti Suzuki,Swift,2026,SATURDAY,47
+Engine Service,Maruti Suzuki,Baleno,2021,FRIDAY,115
+AC Repair,Toyota,Fortuner,2025,THURSDAY,71
+Engine Service,Kia,Seltos,2014,THURSDAY,114
+AC Repair,Hyundai,i20,2024,FRIDAY,74
+Oil Change,Honda,Amaze,2025,MONDAY,34
+Transmission Service,Maruti Suzuki,Swift,2023,WEDNESDAY,113
+General Inspection,Kia,Sonet,2009,MONDAY,44
+AC Repair,Honda,Amaze,2012,SUNDAY,92
+Tire Replacement,Toyota,Fortuner,2016,FRIDAY,57
+AC Repair,Toyota,Glanza,2009,FRIDAY,89
+Engine Service,Kia,Sonet,2016,THURSDAY,106
+Battery Replacement,Tata,Nexon,2013,MONDAY,43
+Diagnostics,Tata,Nexon,2019,WEDNESDAY,60
+Oil Change,Honda,City,2008,MONDAY,39
+AC Repair,Honda,Amaze,2020,THURSDAY,76
+Tire Replacement,Maruti Suzuki,Swift,2008,FRIDAY,48
+Transmission Service,Maruti Suzuki,Swift,2016,MONDAY,132
+AC Repair,Hyundai,i20,2026,SUNDAY,81
+Battery Replacement,Honda,City,2023,TUESDAY,33
+Diagnostics,Ford,EcoSport,2020,MONDAY,50
+Wheel Alignment,Maruti Suzuki,Brezza,2023,WEDNESDAY,50
+AC Repair,Honda,City,2009,MONDAY,94
+Transmission Service,Toyota,Fortuner,2015,TUESDAY,125
+AC Repair,Maruti Suzuki,Swift,2015,THURSDAY,82
+General Inspection,Mahindra,XUV700,2025,SATURDAY,47
+Brake Service,Toyota,Glanza,2024,TUESDAY,62
+Wheel Alignment,Tata,Nexon,2014,SATURDAY,53
+Wheel Alignment,Hyundai,i20,2019,TUESDAY,53
+AC Repair,Kia,Seltos,2022,WEDNESDAY,78
+AC Repair,Toyota,Glanza,2026,SATURDAY,79
+Diagnostics,Tata,Nexon,2011,MONDAY,70
+Engine Service,Tata,Harrier,2008,SUNDAY,127
+General Inspection,Tata,Altroz,2015,FRIDAY,53
+Diagnostics,Toyota,Innova,2012,THURSDAY,69
+Engine Service,Maruti Suzuki,Brezza,2016,SATURDAY,124
+Brake Service,Tata,Punch,2015,SUNDAY,82
+Tire Replacement,Kia,Sonet,2013,TUESDAY,49
+Brake Service,Ford,EcoSport,2008,WEDNESDAY,78
+Engine Service,Tata,Harrier,2011,FRIDAY,118
+General Inspection,Kia,Seltos,2013,SUNDAY,48
+Transmission Service,Hyundai,Venue,2020,MONDAY,121
+Oil Change,Hyundai,Verna,2013,TUESDAY,38
+Oil Change,Hyundai,i20,2012,FRIDAY,38
+Tire Replacement,Tata,Punch,2010,MONDAY,61
+Battery Replacement,Honda,City,2026,SATURDAY,44
+AC Repair,Maruti Suzuki,Ertiga,2010,TUESDAY,98
+Engine Service,Mahindra,XUV700,2023,SATURDAY,111
+AC Repair,Kia,Sonet,2015,SUNDAY,89
+Wheel Alignment,Toyota,Glanza,2009,WEDNESDAY,51
+Battery Replacement,Tata,Punch,2021,TUESDAY,39
+Oil Change,Maruti Suzuki,Swift,2018,TUESDAY,31
+Oil Change,Mahindra,Scorpio,2014,SATURDAY,37
+Wheel Alignment,Honda,Amaze,2025,THURSDAY,60
+General Inspection,Ford,Figo,2025,TUESDAY,42
+General Inspection,Tata,Punch,2013,THURSDAY,49
+Diagnostics,Hyundai,Verna,2021,SATURDAY,72
+AC Repair,Tata,Altroz,2016,MONDAY,63
+Transmission Service,Ford,Figo,2025,THURSDAY,98
+Transmission Service,Toyota,Glanza,2022,SUNDAY,137
+General Inspection,Tata,Nexon,2014,WEDNESDAY,50
+General Inspection,Toyota,Fortuner,2026,THURSDAY,40
+Wheel Alignment,Tata,Altroz,2015,WEDNESDAY,63
+Wheel Alignment,Hyundai,Venue,2021,SATURDAY,54
+AC Repair,Tata,Nexon,2012,MONDAY,77
+Wheel Alignment,Mahindra,XUV700,2019,WEDNESDAY,60
+Transmission Service,Tata,Nexon,2020,SATURDAY,140
+General Inspection,Maruti Suzuki,Swift,2023,SUNDAY,39
+Tire Replacement,Maruti Suzuki,Baleno,2022,TUESDAY,54
+Tire Replacement,Toyota,Innova,2018,SATURDAY,57
+Transmission Service,Toyota,Fortuner,2024,SUNDAY,137
+Engine Service,Toyota,Fortuner,2021,FRIDAY,103
+Oil Change,Kia,Sonet,2016,SUNDAY,37
+General Inspection,Maruti Suzuki,Swift,2013,MONDAY,43
+Battery Replacement,Mahindra,Scorpio,2014,SATURDAY,46
+Battery Replacement,Honda,City,2011,SATURDAY,46
+AC Repair,Hyundai,Venue,2024,THURSDAY,89
+Diagnostics,Tata,Nexon,2024,THURSDAY,57
+Oil Change,Hyundai,Creta,2013,MONDAY,37
+Transmission Service,Ford,EcoSport,2010,MONDAY,142
+Wheel Alignment,Hyundai,i20,2014,WEDNESDAY,62
+General Inspection,Honda,City,2023,SATURDAY,45
+General Inspection,Ford,Figo,2009,SUNDAY,52
+AC Repair,Tata,Harrier,2009,SATURDAY,80
+Engine Service,Toyota,Innova,2026,SATURDAY,98
+Diagnostics,Mahindra,Scorpio,2008,SATURDAY,89
+General Inspection,Maruti Suzuki,Baleno,2022,WEDNESDAY,43
+General Inspection,Hyundai,Verna,2013,FRIDAY,53
+Engine Service,Ford,EcoSport,2023,TUESDAY,95
+Oil Change,Honda,Amaze,2011,THURSDAY,31
+General Inspection,Kia,Seltos,2025,SATURDAY,40
+Diagnostics,Tata,Altroz,2014,SATURDAY,72
+Transmission Service,Kia,Sonet,2023,THURSDAY,127
+Diagnostics,Mahindra,XUV700,2009,THURSDAY,58
+AC Repair,Maruti Suzuki,Swift,2013,SUNDAY,89
+Engine Service,Mahindra,Scorpio,2022,SUNDAY,105
+Engine Service,Hyundai,i20,2013,SATURDAY,119
+Tire Replacement,Tata,Altroz,2020,TUESDAY,57
+Battery Replacement,Maruti Suzuki,Brezza,2026,MONDAY,36
+AC Repair,Mahindra,Scorpio,2016,THURSDAY,72
+Diagnostics,Hyundai,Verna,2022,SATURDAY,65
+Transmission Service,Maruti Suzuki,Baleno,2026,SUNDAY,128
+Brake Service,Tata,Nexon,2018,MONDAY,65
+Wheel Alignment,Tata,Punch,2010,MONDAY,49
+Diagnostics,Hyundai,Creta,2014,WEDNESDAY,75
+Engine Service,Toyota,Innova,2017,SUNDAY,116
+Tire Replacement,Maruti Suzuki,Baleno,2026,TUESDAY,43
+Engine Service,Maruti Suzuki,Baleno,2008,MONDAY,123
+Wheel Alignment,Maruti Suzuki,Brezza,2010,SUNDAY,75
+Oil Change,Tata,Nexon,2019,MONDAY,33
+AC Repair,Ford,Figo,2025,THURSDAY,69
+Tire Replacement,Honda,Elevate,2018,TUESDAY,45
+Wheel Alignment,Maruti Suzuki,Swift,2008,WEDNESDAY,61
+Wheel Alignment,Ford,Figo,2016,SUNDAY,62
+Battery Replacement,Ford,Figo,2011,WEDNESDAY,37
+Brake Service,Maruti Suzuki,Baleno,2025,SUNDAY,68
+General Inspection,Ford,Figo,2018,SUNDAY,51
+Brake Service,Ford,EcoSport,2018,WEDNESDAY,68
+Wheel Alignment,Tata,Punch,2009,SUNDAY,62
+Battery Replacement,Honda,Elevate,2020,MONDAY,33
+Battery Replacement,Toyota,Glanza,2021,SUNDAY,40
+Wheel Alignment,Kia,Sonet,2022,TUESDAY,37
+Oil Change,Mahindra,XUV700,2022,MONDAY,33
+Engine Service,Ford,EcoSport,2019,THURSDAY,99
+Wheel Alignment,Ford,EcoSport,2023,SATURDAY,59
+Diagnostics,Mahindra,Scorpio,2015,FRIDAY,62
+Oil Change,Tata,Punch,2017,SUNDAY,39
+Brake Service,Ford,EcoSport,2020,MONDAY,67
+Battery Replacement,Tata,Harrier,2016,SUNDAY,43
+AC Repair,Tata,Punch,2013,FRIDAY,74
+Engine Service,Toyota,Innova,2022,THURSDAY,90
+Diagnostics,Kia,Seltos,2012,THURSDAY,66
+General Inspection,Honda,Amaze,2014,SATURDAY,44
+Diagnostics,Kia,Seltos,2019,FRIDAY,59
+Battery Replacement,Honda,Elevate,2021,SATURDAY,39
+Oil Change,Kia,Seltos,2016,FRIDAY,35
+Engine Service,Kia,Seltos,2013,MONDAY,99
+Tire Replacement,Toyota,Innova,2019,SUNDAY,46
+Oil Change,Tata,Punch,2014,FRIDAY,35
+Brake Service,Ford,Figo,2016,SUNDAY,75
+Oil Change,Mahindra,XUV700,2018,THURSDAY,28
+Engine Service,Ford,Figo,2018,WEDNESDAY,103
+Wheel Alignment,Tata,Punch,2010,FRIDAY,62
+Engine Service,Toyota,Innova,2013,THURSDAY,102
+Tire Replacement,Kia,Seltos,2022,SATURDAY,55
+Battery Replacement,Tata,Altroz,2023,MONDAY,37
+General Inspection,Maruti Suzuki,Brezza,2019,SATURDAY,53
+General Inspection,Ford,EcoSport,2021,TUESDAY,40
+Oil Change,Toyota,Innova,2025,WEDNESDAY,32
+Engine Service,Kia,Seltos,2009,WEDNESDAY,111
+Battery Replacement,Maruti Suzuki,Brezza,2026,MONDAY,37
+Battery Replacement,Tata,Nexon,2013,SATURDAY,53
+AC Repair,Hyundai,i20,2016,TUESDAY,76
+General Inspection,Hyundai,Verna,2025,MONDAY,38
+General Inspection,Ford,Figo,2008,TUESDAY,48
+Tire Replacement,Ford,EcoSport,2018,SATURDAY,55
+Oil Change,Hyundai,Venue,2026,TUESDAY,31
+Diagnostics,Tata,Harrier,2016,THURSDAY,67
+Transmission Service,Honda,City,2022,TUESDAY,106
+AC Repair,Honda,Elevate,2008,FRIDAY,82
+Tire Replacement,Hyundai,Verna,2018,WEDNESDAY,58
+Transmission Service,Mahindra,XUV700,2015,SATURDAY,165
+Transmission Service,Honda,City,2022,SATURDAY,156
+Battery Replacement,Maruti Suzuki,Baleno,2026,MONDAY,40
+AC Repair,Honda,Amaze,2009,WEDNESDAY,91
+AC Repair,Hyundai,Creta,2021,SATURDAY,84
+AC Repair,Ford,Figo,2018,SUNDAY,91
+Engine Service,Toyota,Glanza,2014,FRIDAY,124
+Diagnostics,Toyota,Fortuner,2026,WEDNESDAY,64
+Engine Service,Kia,Sonet,2008,THURSDAY,108
+Diagnostics,Mahindra,Scorpio,2008,TUESDAY,66
+General Inspection,Tata,Nexon,2013,TUESDAY,46
+General Inspection,Mahindra,Scorpio,2015,FRIDAY,51
+Transmission Service,Hyundai,Creta,2013,TUESDAY,141
+Brake Service,Honda,City,2014,TUESDAY,72
+Brake Service,Maruti Suzuki,Swift,2012,SUNDAY,77
+Brake Service,Mahindra,Scorpio,2009,MONDAY,64
+Brake Service,Toyota,Glanza,2009,TUESDAY,64
+AC Repair,Toyota,Fortuner,2014,FRIDAY,88
+Tire Replacement,Tata,Harrier,2015,THURSDAY,58
+Battery Replacement,Kia,Seltos,2008,SUNDAY,42
+Engine Service,Honda,City,2012,SUNDAY,114
+Wheel Alignment,Toyota,Innova,2013,FRIDAY,69
+Transmission Service,Kia,Sonet,2012,MONDAY,148
+General Inspection,Tata,Altroz,2023,THURSDAY,43
+Wheel Alignment,Mahindra,Scorpio,2013,MONDAY,63
+Oil Change,Kia,Seltos,2016,SATURDAY,40
+Diagnostics,Mahindra,Bolero,2011,FRIDAY,70
+Battery Replacement,Tata,Punch,2022,MONDAY,36
+Brake Service,Honda,Elevate,2020,TUESDAY,62
+AC Repair,Toyota,Glanza,2018,TUESDAY,73
+AC Repair,Toyota,Glanza,2011,TUESDAY,75
+Oil Change,Kia,Seltos,2022,SUNDAY,35
+Transmission Service,Tata,Harrier,2018,SUNDAY,142
+Battery Replacement,Toyota,Innova,2014,TUESDAY,40
+Tire Replacement,Mahindra,Scorpio,2008,WEDNESDAY,52
+General Inspection,Toyota,Innova,2012,MONDAY,45
+Tire Replacement,Hyundai,Verna,2023,FRIDAY,48
+Diagnostics,Tata,Harrier,2022,FRIDAY,66
+Wheel Alignment,Tata,Altroz,2010,FRIDAY,61
+Engine Service,Honda,Elevate,2016,SATURDAY,118
+Engine Service,Maruti Suzuki,Baleno,2008,WEDNESDAY,99
+Engine Service,Ford,Figo,2009,THURSDAY,97
+Transmission Service,Honda,City,2015,SUNDAY,150
